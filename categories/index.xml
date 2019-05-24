@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on USABLE Tools</title>
-    <link>http://squiggy.github.io/ut/categories/</link>
+    <link>https://squiggy.github.io/ut/categories/</link>
     <description>Recent content in Categories on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://squiggy.github.io/ut/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/ut/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
