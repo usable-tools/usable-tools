@@ -1,0 +1,49 @@
+.main-menu {
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
+  > ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    > li {
+      list-style: none;
+      font-size: 0.95rem;
+      > a {
+        padding: 25px 30px;
+        display: inline-block;
+        font-weight: regular;
+        text-decoration: none;
+        color: $primary;
+        span {
+          border-bottom: #fff solid 2px;
+        }
+        &:hover {
+          color: $primary;
+          text-decoration: none;
+          span {
+            border-bottom: $primary solid 2px;
+          }
+        }
+      }
+      &.active {
+        > a {
+          text-decoration: none;
+          &:hover {
+            text-decoration: none;
+            transition: all 225ms ease-in 0s;
+          }
+          span {
+            border-bottom: $primary solid 2px;
+          }
+        }
+      }
+      &.menu-item-home {
+        @include media-breakpoint-up(md) {
+          display: none;
+        }
+      }
+    }
+  }
+}

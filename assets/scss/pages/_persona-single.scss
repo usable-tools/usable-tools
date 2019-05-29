@@ -1,0 +1,105 @@
+.page-persona {
+  h1 {
+    font-size: 1.6rem;
+    margin-top: 1.5rem;
+  }
+  h2 {
+    text-align: center;
+  }
+  #overview,
+  #goals,
+  #threats,
+  #strengths,
+  #questions {
+    margin-top: 3rem;
+    display: inline-block;
+    padding-left: 2.5rem;
+    position: relative;
+    &::before {
+      position: absolute;
+      left: 0;
+      top: 0.3rem;
+      @include media-breakpoint-up(md) {
+        top: 0.6rem;
+      }
+      background-size: 100% 100%;
+      display: block;
+      width: 2rem;
+      height: 2rem;
+      content: "";
+    }
+  }
+  #overview {
+    &::before {
+      background: url(../images/clipboard-list-solid.svg) no-repeat left center;
+    }
+    color: $primary;
+  }
+  #goals {
+    color: $green;
+    &::before {
+      background: url(../images/trophy-solid.svg) no-repeat left center;
+    }
+  }
+  #threats {
+    color: $orange;
+    &::before {
+      background: url(../images/exclamation-triangle-solid.svg) no-repeat left center;
+    }
+  }
+  #strengths {
+    color: $yellow;
+    &::before {
+      background: url(../images/anchor-solid.svg) no-repeat left center;
+    }
+  }
+  #questions {
+    color: $secondary;
+    &::before {
+      background: url(../images/comments-solid.svg) no-repeat left center;
+    }
+  }
+  .role, .quote {
+    margin: 1rem 0;
+  }
+  .quote {
+    font-style: italic;
+  }
+  .persona-single {
+    text-align: center;
+  }
+  .persona-pdf {
+    position: absolute;
+    top: -50px;
+    right: 0.75rem;
+    a {
+      color: $orange;
+      padding-right: 1rem;
+      background: url(../images/download-solid.svg) no-repeat right top;
+    }
+  }
+  .persona {
+    .content {
+      ul {
+        text-align: left;
+        @include media-breakpoint-up(md) {
+          -moz-column-count: 3;
+          -moz-column-gap: 20px;
+          -webkit-column-count: 3;
+          -webkit-column-gap: 20px;
+          column-count: 3;
+          column-gap: 20px;
+        }
+        li {
+          list-style: none;
+          margin: 0 0 2rem;
+          padding:0;
+        }
+      }
+      p {
+        text-align: left;
+        margin-bottom: 2rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "usable.tools",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "sass": "node-sass assets/scss/ -q -o static/css/"
+  },
+  "watches": {
+    "js": "js/**",
+    "sass": "sass/**",
+    "img": "img/**"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "list.js": "^1.5.0"
+  }
+}

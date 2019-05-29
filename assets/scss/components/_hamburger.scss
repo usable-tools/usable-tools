@@ -1,0 +1,28 @@
+.hamburger {
+  outline: none;
+  z-index: 300;
+  cursor: pointer;
+  @include media-breakpoint-up(md) {
+    display: none;
+  }
+  &:focus {
+    outline: none;
+  }
+  .hamburger-inner {
+    background-color: transparent;
+    margin-top: 0px;
+  }
+  .hamburger-inner::before,
+  .hamburger-inner::after {
+    background-color: $primary;
+  }
+  &.is-active {
+    .hamburger-inner {
+      margin-top: 5px;
+    }
+    .hamburger-inner::after {
+      width: inherit;
+      right: unset;
+    }
+  }
+}

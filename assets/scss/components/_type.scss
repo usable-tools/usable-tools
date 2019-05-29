@@ -1,0 +1,61 @@
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  li {
+    padding: 0;
+    margin: 0;
+  }
+}
+p {
+  font-family: $font-family-base;
+  font-size: 1.15rem;
+}
+h1 {
+  font-size: 2rem;
+  font-family: $font-family-heading;
+  line-height: 1;
+  font-weight: $font-weight-light;
+  color: $primary;
+  @include media-breakpoint-up(md) {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    font-weight: $font-weight-light;
+  }
+}
+h2 {
+  font-size: 2rem;
+  font-family: $font-family-heading;
+  line-height: 1;
+  font-weight: $font-weight-bold;
+  color: $primary;
+  margin: 1rem 0;
+  @include media-breakpoint-up(md) {
+    font-size: 2.5rem;
+    line-height: 1.4;
+  }
+}
+h3 {
+  margin: 1rem 0;
+  color: $primary;
+  line-height: 1.4;
+  font-size: 1.2rem;
+  font-family: $font-family-heading;
+  font-weight: $font-weight-bold;
+  letter-spacing: 1px;
+  @include media-breakpoint-up(md) {
+    line-height: 1.4;
+    font-size: 1.2rem;
+    letter-spacing: 1.8px;
+    font-weight: $font-weight-bold;
+  }
+}
+.orange {
+  color: $orange;
+}
+.brown {
+  color: $brown;
+}
+.label-title {
+  margin-bottom: 1rem;
+}

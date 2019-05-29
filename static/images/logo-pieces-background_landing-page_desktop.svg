@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg14"
+   version="1.1"
+   viewBox="0 0 1440 821"
+   height="821"
+   width="1440">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip-path">
+      <rect
+         stroke-width="1"
+         stroke="#707070"
+         fill="#fff"
+         transform="translate(0 80)"
+         height="821"
+         width="1440"
+         data-name="Rectangle 5"
+         id="Rectangle_5" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip-path)"
+     transform="translate(0 -80)"
+     data-name="Mask Group 1"
+     id="Mask_Group_1">
+    <path
+       fill="#6cb33f"
+       transform="translate(-106.41 491.128)"
+       d="M149.227-31.123A207.956,207.956,0,0,1,96.973,96.223l54.616,54.613A281.179,281.179,0,0,0,225.41-30.927l-76.18-.2Z"
+       id="path124" />
+    <path
+       fill="#005cab"
+       transform="translate(283.279 259.622)"
+       d="M128.746-7.333,238.721-25.525A284.076,284.076,0,0,0,66.492-93.3l.2,72.083A210.663,210.663,0,0,1,128.746-7.334Z"
+       id="path132" />
+    <path
+       fill="#f15d22"
+       transform="translate(1062.691 363.244)"
+       d="M114.206-41.038c1.916,1.77,3.86,3.55,5.722,5.412,3.274,3.274,6.366,6.676,9.411,10.1A215.03,215.03,0,0,1,145.9-4.039L153.433-49.6l3.876-23.392L143.982-70.8,88.341-61.578A206.2,206.2,0,0,1,114.206-41.038Z"
+       id="path140" />
+    <path
+       fill="#fbb034"
+       transform="translate(41.725 329.663)"
+       d="M130.275-24.121,79.908-74.488A281.036,281.036,0,0,0,4.167,107.343l71.845.165a207.663,207.663,0,0,1,54.263-131.63Z"
+       id="path130" />
+    <path
+       fill="#b2cee6"
+       transform="translate(118.519 258.66)"
+       d="M206.925-20.9l-.2-72.425A283.337,283.337,0,0,0,23.437-18.9L74.287,31.951A209.417,209.417,0,0,1,206.925-20.9Z"
+       id="path126" />
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+.logo {
+  position: relative;
+  z-index: 200;
+  padding: 15px;
+  @include media-breakpoint-up(md) {
+    padding: 0;
+    width: 155px;
+    margin-right: 15px;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+  a {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+}

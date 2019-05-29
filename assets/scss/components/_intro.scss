@@ -1,0 +1,55 @@
+.intro {
+  color: #fff;
+  background: url(../images/events/events_header-image.jpg) no-repeat center center;
+  background-size: auto 100%;
+  background-color: $secondary;
+  @include media-breakpoint-up(md) {
+    background-size: 100% auto;
+  }
+  object-fit: cover;
+
+  .inner {
+    background-color: rgba(0,45,89,0.7);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    @include media-breakpoint-up(md) {
+      padding-top: 120px;
+      min-height: 400px;
+    }
+    h1 {
+      color: #fff;
+    }
+  }
+  h1 {
+    color: $primary;
+    font-size: 2.4rem;
+    line-height: 1.2;
+    font-family: $font-family-heading;
+    text-transform: capitalize;
+    @include media-breakpoint-up(md) {
+      font-size: 4.5rem;
+    }
+  }
+  p {
+    font-weight: 600;
+  }
+}
+
+
+.intro {
+  color: #fff;
+  background: url(../images/events/events_header-image.jpg) no-repeat center center;
+  background-size: auto 100%;
+  background-color: $secondary;
+  @include media-breakpoint-up(md) {
+    background-size: 100% auto;
+  }
+  object-fit: cover;
+  h1 {
+    color: #fff;
+  }
+  .inner {
+    background-color: rgba(0,45,89,0.7);
+  }
+}

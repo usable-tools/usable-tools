@@ -1,0 +1,51 @@
+  .page-blog-list, .page-blog {
+  .intro {
+    color: #fff;
+    background: url(../images/debby-hudson-627097-unsplash.png) no-repeat center center;
+    background-size: auto 100%;
+    @include media-breakpoint-up(md) {
+      background-size: 100% auto;
+    }
+    object-fit: cover;
+    h1 {
+      color: #fff;
+    }
+    .inner {
+      background-color: rgba(124,106,85,0.8);
+    }
+  }
+  .blog-featured, .blog-full {
+    padding: 1rem 1rem 4rem;
+    .smile {
+      background-color: $orange;
+    }
+    .summary {
+      margin-bottom: 1rem;
+      a {
+        display: inline-block;
+      }
+    }
+    .text-padding {
+      @include media-breakpoint-up(md) {
+        padding: 0 2rem;
+      }
+    }
+  }
+  .blog-item {
+    padding: 1rem;
+    margin-bottom: 1.8rem;
+    h3 {
+      margin-bottom: 2rem;
+      font-weight: normal;
+    }
+    .main-photo {
+      margin: 0 0 1rem;
+      img {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        min-height: 178px;
+        max-height: 180px;
+      }
+    }
+  }
+}

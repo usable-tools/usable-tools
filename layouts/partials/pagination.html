@@ -1,0 +1,54 @@
+{{ $paginator := .Paginator }}
+
+<!-- If there's more than one page. -->
+{{ if gt $paginator.TotalPages 1 }}
+
+  <ul class="pagination">
+
+    <!-- First page. -->
+    <!-- {{ if ne $paginator.PageNumber 1 }}
+    <li class="page-item page-item--first">
+      <a class="page-link page-link--first" href="{{ $paginator.First.URL }}">
+        «« First
+      </a>
+    </li>
+    {{ end }} -->
+
+    <!-- Previous page. -->
+    <!-- {{ if $paginator.HasPrev }}
+    <li class="page-item page-item--previous">
+      <a href="{{ $paginator.Prev.URL }}" class="page-link page-link--previous">
+        « Previous
+      </a>
+    </li>
+    {{ end }} -->
+
+    <!-- Page numbers. -->
+    {{ range $paginator.Pagers }}
+    <li class="page-item{{ if eq . $paginator }} active{{ end }}">
+      <a href="{{ .URL }}" class="page-link">
+        {{ .PageNumber }}
+      </a>
+    </li>
+    {{ end }}
+
+    <!-- Next page. -->
+    <!-- {{ if $paginator.HasNext }}
+    <li class="page-item page-item--next">
+      <a href="{{ $paginator.Next.URL }}" class="page-link page-link--next">
+        Next »
+      </a>
+    </li>
+    {{ end }} -->
+
+    <!-- Last page. -->
+    <!-- {{ if ne $paginator.PageNumber $paginator.TotalPages }}
+    <li class="page-item page-item--last">
+      <a class="page-link page-link--last" href="{{ $paginator.Last.URL }}">
+      Last »»
+      </a>
+    </li>
+    {{ end }} -->
+
+  </ul><!-- .pagination -->
+{{ end }}

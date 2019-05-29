@@ -1,0 +1,11 @@
+.breadcrumb {
+  background-color: transparent;
+  color: $light-blue;
+
+  .breadcrumb-item {
+    + .breadcrumb-item::before {
+      content: "";
+      padding: 0;
+    }
+  }
+}

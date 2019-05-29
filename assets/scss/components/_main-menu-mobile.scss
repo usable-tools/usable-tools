@@ -1,0 +1,127 @@
+$color-main: #ffffff;
+$color-active: $primary;
+$color-link: $primary;
+
+.main-menu-mobile {
+  position: fixed;
+  background-color: #fff;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.35s, visibility 0.35s, height 0.35s;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  ul.menu {
+    margin-top: 30px;
+  }
+  &.open {
+    opacity: 1;
+    visibility: visible;
+    height: 100%;
+    z-index: 100;
+    li {
+      animation: fadeIn 0.5s ease forwards;
+      animation-delay: 0.35s;
+      &:nth-of-type(2) {
+        animation-delay: 0.45s;
+      }
+      &:nth-of-type(3) {
+        animation-delay: 0.5s;
+      }
+      &:nth-of-type(4) {
+        animation-delay: 0.55s;
+      }
+    }
+  }
+  ul {
+    background-color: #fff;
+    font-size: 1.5rem;
+    font-family: $font-family-heading;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    flex: 0;
+    width: 100%;
+    li {
+      margin: 20px 30px;
+      display: block;
+      opacity: 0;
+      a {
+        display: block;
+        position: relative;
+        color: $color-link;
+        text-decoration: none;
+        overflow: hidden;
+      }
+    }
+  }
+  ul.sub-menu {
+    li {
+      margin: 20px;
+      a {
+        color: $primary;
+        font-size: 20px;
+      }
+    }
+  }
+  #mobile-social {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    h3 {
+      color: $primary;
+      font-family: $font-family-heading;
+      font-size: 18px;
+      text-align: center;
+    }
+    .social {
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      li {
+        margin: 0;
+      }
+    }
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    top: 0;
+  }
+  100% {
+    opacity: 1;
+    top: 30%;
+  }
+}
+.lock-scroll {
+  overflow: hidden;
+}
+
+// #main-menu-mobile-social {
+//   animation: slideTogether 0.5s ease forwards;
+//   animation-delay: 0.35s;
+//   display: none;
+//   position: fixed;
+//   bottom: 0;
+//   z-index: 600;
+// }
+// @keyframes slideTogether {
+//   0% {
+//     opacity: 0;
+//     top: 0;
+//   }
+//   100% {
+//     opacity: 1;
+//     top: 20%;
+//   }
+// }

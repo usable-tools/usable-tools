@@ -1,0 +1,38 @@
+<div id="main-menu-mobile" class="main-menu-mobile">
+  <ul class="menu">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+              <li class="has-dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                  <a href="{{ .URL }}">
+                      {{ .Pre }}
+                      <span>{{ .Name }}</span>
+                  </a>
+                  <ul class="sub-menu">
+                      {{ range .Children }}
+                          <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                              <a href="{{ .URL }}">{{ .Name }}</a>
+                          </li>
+                      {{ end }}
+                  </ul>
+              </li>
+
+          {{ else }}
+              <li>
+                  <a href="{{ .URL }}">
+                      {{ .Pre }}
+                      <span>{{ .Name }}</span>
+                  </a>
+              </li>
+          {{ end }}
+      {{ end }}
+  </ul>
+
+  <div id="mobile-social">
+    <h3>Contact Us</h3>
+    <ul class="social">
+      {{ partial "social.html" . }}
+    </ul>
+  </div>
+
+</div>

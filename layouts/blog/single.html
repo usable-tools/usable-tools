@@ -1,0 +1,33 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-single page-blog {{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="strip strip-grey">
+  <div class="container whitebox">
+    <div class="row">
+      <div clas="col-12">
+        {{ partial "breadcrumbs.html" . }}
+      </div>
+    </div>
+    <div class="row justify-content-center blog-full">
+      <div class="col-12 col-md-8">
+        <div class="blog blog-single">
+          <h1 class="title">{{.Title}}</h1>
+          <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
+          <div class="by-line">By {{ .Params.author }}</div>
+          <div class="publish-date">{{ .PublishDate.Format "January 2, 2006" }}</div>
+          <div class="main-photo">
+            <img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" />
+            <div class="main-caption small"> {{ .Params.main_image_caption }} </div>
+          </div>
+          <div class="content">
+            {{.Content}}
+          </div>
+          {{ partial "tags.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

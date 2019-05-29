@@ -1,0 +1,41 @@
+.page-single {
+  .intro {
+    color: #fff;
+    background: url(../images/about-header.jpg) no-repeat center center;
+    background-size: auto 100%;
+    @include media-breakpoint-up(md) {
+      background-size: 100% auto;
+    }
+    object-fit: cover;
+    h1 {
+      color: #fff;
+    }
+    .inner {
+      background-color: rgba(212,66,7,0.8);
+    }
+  }
+  h2 {
+    font-size: 1.2rem;
+    margin-top: 0;
+  }
+  .usable-blue-box {
+    background-color: $secondary;
+    border-radius: 1rem;
+    color: #fff;
+    padding: 2rem;
+    margin: 0 0 2rem;
+    h2 {
+      color: #fff;
+    }
+  }
+  .usable-blue-white-box {
+    border: $secondary solid 1px;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin: 0 0 2rem;
+    color: $secondary;
+    h2 {
+      color: $secondary;
+    }
+  }
+}

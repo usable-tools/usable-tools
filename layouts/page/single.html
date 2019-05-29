@@ -1,0 +1,33 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-single page-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+  {{ if .Params.intro }}
+  <div class="intro">
+    <div class="inner">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-10 align-self-center">
+            <h1 class="title">{{.Title}}</h1>
+            {{ .Params.intro }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+<div class="strip strip-grey">
+  <div class="container whitebox">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="page page-single">
+          <div class="content">{{.Content}}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

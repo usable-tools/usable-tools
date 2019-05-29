@@ -1,0 +1,58 @@
+.page-event-list {
+  .intro {
+    color: #fff;
+    background: url(../images/events/events_header-image.jpg) no-repeat center center;
+    background-size: auto 100%;
+    background-color: $secondary;
+    @include media-breakpoint-up(md) {
+      background-size: 100% auto;
+    }
+    object-fit: cover;
+    h1 {
+      color: #fff;
+    }
+    .inner {
+      background-color: rgba(0,45,89,0.7);
+    }
+  }
+  h2 {
+    margin-top: 1rem;
+  }
+  .whitebox {
+    border: none;
+    padding: 0;
+    margin: 2rem 0;
+    overflow: hidden;
+    border-radius: 15px;
+    .event-list-photo {
+      padding: 0;
+    }
+    .event-list-content {
+      padding: 1rem 2rem;
+    }
+  }
+  .event-more-link {
+    padding: 12px 35px;
+    border-radius: 30px;
+    border: $orange solid 1px;
+    display: inline-block;
+    margin: 2rem 0;
+    a {
+      color: $orange;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+  .event-list-photo {
+    img {
+      border-radius: 0;
+      @include img-fluid();
+      border-top-left-radius: 1.2rem;
+      border-top-right-radius: 1.2rem;
+      @include media-breakpoint-up(md) {
+        border-radius: 0;
+      }
+    }
+  }
+}

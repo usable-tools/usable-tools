@@ -1,0 +1,37 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-list page-event-list {{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+<div class="intro">
+  <div class="inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-grey">
+  <div class="container">
+    {{ range .Pages }}
+    <div class="row whitebox justify-content-left">
+      <div class="col-12 col-md-6 event-list-photo">
+        <img src="{{ .Site.BaseURL }}/{{ .Params.main_image }}" alt="Edit me" />
+      </div>
+      <div class="col-12 col-md-6 event-list-content">
+        <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
+        <div class="publish-date"><strong>Event date:</strong> {{ dateFormat "Monday, Jan 2, 2006, 3:4AM" .Params.eventdate }}</div>
+        <div class="summar"> {{ .Summary }} </div>
+        <div class="event-more-link"><a href="{{ .Permalink }}">Find out more</a></div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

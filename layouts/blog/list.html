@@ -1,0 +1,64 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-list page-blog-list{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+
+{{ define "main" }}
+
+<div class="intro">
+  <div class="inner">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-10 align-self-center">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-grey">
+  <div class="container whitebox">
+    {{ if lt .Paginator.PageNumber 2 }}
+      <div class="row blog-featured">
+        {{ range first 1 .Pages.ByPublishDate.Reverse }}
+        <div class="col-12 col-md-8">
+          <div class="main-photo">
+            <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 text-padding">
+          <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
+          <div class="summary"> <a href="{{ .Permalink }}"> {{ .Summary }} </a></div>
+          <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
+          <div class="by-line">By {{ .Params.author }}</div>
+          <div class="publish-date">{{ .Date.Format "January 2, 2006" }}</div>
+        </div>
+        {{ end }}
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <p>Previous posts:</p>
+        </div>
+      </div>
+    {{ end }}
+    <div class="row">
+      {{ range (.Paginate (after 1 .Pages.ByPublishDate.Reverse)).Pages }}
+        <div class="col-12 col-md-4 blog-item">
+          <div class="main-photo"><a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a></div>
+          <h3><a href="{{ .Permalink }}">{{ .Title}}</a></h3>
+          <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
+          <div class="by-line">By {{ .Params.author }}</div>
+          <div class="publish-date">{{ .Date.Format "January 2, 2006" }}</div>
+        </div>
+      {{ end }}
+    </div>
+    <div class="row">
+      <div class="col-12">
+        {{ partial "pagination.html" . }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

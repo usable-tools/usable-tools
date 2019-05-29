@@ -1,0 +1,51 @@
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-2 col-sm-12">
+        <div class="footer-logo">
+          <a href="{{ .Site.BaseURL }}"><img alt="Homepage" src="{{ .Site.BaseURL }}images/logo-white.svg" /></a>
+        </div>
+      </div>
+      <div class="col-md-8 col-sm-12">
+        <div class="footer-inner">
+          <ul class="footer-menu">
+
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+                {{ if .HasChildren }}
+                    <li class="{{ lower .Name }} has-child {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                        <a href="#">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                        <ul class="child-menu">
+                            {{ range .Children }}
+                                <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                    <a href="{{ .URL }}">{{ .Name }}</a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </li>
+
+                {{ else }}
+                    <li class="{{ lower .Name }}">
+                        <a href="{{ .URL }}">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            {{ end }}
+
+            <li class="contact has-child footer-social"><a href=" {{ .Site.BaseURL }}contact ">Contact Us</a>
+              <ul class="child-menu">
+                {{ partial "social.html" . }}
+              </ul>
+            </li>
+
+            <li class="sitemap"><a href=" {{ .Site.BaseURL }}sitemap">Sitemap</a></li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>

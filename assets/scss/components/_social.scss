@@ -1,0 +1,44 @@
+ul.social {
+  height: inherit;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  svg {
+    fill: currentColor;
+    height: 16px;
+    width: 16px;
+  }
+  li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    &:last-of-type {
+      margin: 0;
+    }
+    a {
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: auto;
+      padding: 8px;
+      display: block;
+      span {
+        display: none;
+      }
+    }
+  }
+}
+.footer-social {
+  ul {
+    li {
+      a {
+        i {
+          display: none;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+.page {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+
+  .wrapper {
+    flex: 1 0 0;
+  }
+
+  .pagination {
+    justify-content: center;
+    .page-link {
+      border: none;
+    }
+  }
+
+  .whitebox {
+    padding: 1rem;
+    @include media-breakpoint-up(md) {
+      padding: 3rem;
+    }
+  }
+  .by-line {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  .publish-date {
+    margin-bottom: 1rem;
+  }
+  .small {
+    font-size: 0.8rem;
+  }
+  .active {
+    color: $orange;
+  }
+}

@@ -1,0 +1,16 @@
+.smile {
+  background-color: $secondary;
+  border-radius: 20px;
+  margin-right: 10px;
+  margin-top: 5px;
+  height: 38px;
+  width: 38px;
+  svg {
+    margin: 10px;
+  }
+  #usable-smile_vector {
+    #left-eye, #right-eye, #mouth {
+      fill: #fff;
+    }
+  }
+}

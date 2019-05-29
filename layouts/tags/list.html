@@ -1,0 +1,33 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-list page-tag-list {{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+<div class="intro">
+  <div class="inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1> {{ .Title}} </h1>
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-grey">
+  <div class="container">
+    <div class="row justify-content-left whitebox">
+      {{ range .Pages }}
+        <div class="col-12">
+          <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
+          <div class="summary"> {{ .Summary }} </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ end }}

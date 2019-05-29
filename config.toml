@@ -1,0 +1,94 @@
+baseURL = "https://squiggy.github.io/ut/"
+languageCode = "en-us"
+title = "USABLE Tools"
+
+paginate = 5
+summaryLength = 20
+
+[params]
+
+  [params.homepage_meta_tags]
+    meta_description = "Serif is a beautiful small business theme for Hugo (Static Site Generator). It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_title = "USABLE Tools"
+    meta_og_type = "website"
+    meta_og_url = "https://usable.tools"
+    meta_og_image = "https://usable.tools/images/safe.png"
+    meta_og_description = "Serif is a beautiful small business theme for Hugo (Static Site Generator). It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@USABLE_tools"
+    meta_twitter_creator = "@USABLE_tools"
+#
+  [params.contact_us]
+    email = "connect@usable.tools"
+    twitter = "https://twitter.com/USABLE_tools"
+    github = "https://github.com/OpenInternet/USABLE"
+    feed = "https://usable.tools/feed.xml"
+
+  [params.sub_footer]
+    attribution = '</p>Usable tools is run and operated by <a href="https://internews.org">Internews</a>'
+    copyright = "© Internews"
+    license = '<img alt="CC" src="{{ .Site.BaseURL }}images/cc.svg" /> This work is licensed under a Creative Commons Attribution <a href="https://creativecommons.org">4.0 International License</a>'
+
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+  weight = 2
+
+[[menu.main]]
+  identifier = "the-challenge"
+  name = "The Challenge"
+  url = "/the-challenge"
+  weight = 1
+  parent = "about"
+
+[[menu.main]]
+  identifier = "the-usable-response"
+  name = "The USABLE Response"
+  url = "/the-usable-response"
+  weight = 2
+  parent = "about"
+
+[[menu.main]]
+  identifier = "who-we-work-with"
+  name = "Who We Work With"
+  url = "/who-we-work-with"
+  weight = 3
+  parent = "about"
+
+[[menu.main]]
+  identifier = "blog"
+	name = "Blog"
+	url = "/blog"
+	weight = 3
+
+[[menu.main]]
+  identifier = "events"
+  name = "Events"
+  url = "/events/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "personas"
+	name = "Personas"
+	url = "/personas/"
+  weight = 5
+
+# [[menu.main]]
+#   identifier = "contact"
+#   name = "Contact Us"
+#   url = "#"
+#   weight = 6
+#
+# [[menu.main]]
+#   identifier = "sitemap"
+#   name = "Site Map"
+#   url = "#"
+#   weight = 7

@@ -1,0 +1,75 @@
+{{ define "title" }}The USABLE Project{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}header-transparent{{ end }}
+
+{{ define "meta_tags" }}
+<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
+<meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
+<meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
+<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
+<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
+<meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card }}" />
+<meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site }}" />
+<meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator }}" />
+{{ end }}
+
+{{ define "main" }}
+
+<div class="container front-intro strip strip-white">
+  {{ range .Site.Data.intro }}
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-11">
+        <h2 class="front-intro-title"><span class="orange">Usable</span> {{ .title }}</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-10">
+        <div class="front-intro-content">{{ .description }}</div>
+      </div>
+    </div>
+  {{end}}
+  <div class="row">
+    <div class="col-12 down-arrow"><a href="#next"><i class="fas fa-arrow-down"></i></a></div>
+  </div>
+</div>
+
+{{ if .Content }}
+  <div class="intro pb-4">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}
+
+<div id="tour" class="strip strip-grey">
+  <div class="container">
+    <div id="next" class="whitebox">
+      <div class="row justify-content-around highlights">
+        <div class="col-12 col-md-5 order-md-7 align-self-center">
+          <div class="label-title highlights-title"><i class="fas fa-lightbulb"></i> HIGHLIGHTS</div>
+          <h2>What's Happening with <span class="orange">USABLE</span>?</h2>
+          <p>Check out the latest updates from the USABLE project and partners, including our involvement at relevant events!</p>
+        </div>
+        <div class="col-12 col-md-5 order-md-1 align-self-center">
+          <div class="tour-img"><img src="images/landing-page_highlights-image.jpg" alt="Photo of a watch" /></div>
+        </div>
+      </div>
+      <div class="row justify-content-around personas">
+        <div class="col-12 col-md-5 align-self-center">
+          <div class="label-title personas-title"><i class="fas fa-users"></i> PERSONAS</div>
+          <h2>Meet the <span class="brown">Users</span></h2>
+          <p>Personas, or general profiles or snapshots of end users, play an important role in the tool design process and allow developers to better understand the needs and uses for their products in some of the most challenging environments in the world.</p>
+
+          <div class="more-link"><a href="{{ .Site.BaseURL }}personas">Find Your Personas <i class="fas fa-arrow-right"></i></a></div>
+        </div>
+        <div class="col-12 col-md-5 align-self-center">
+          <div class="tour-img"><img src="images/landing-page_personas-image.jpg" alt="Photo of a watch" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

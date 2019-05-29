@@ -1,0 +1,29 @@
+.page-personas-list {
+  .intro {
+    color: #fff;
+    background: url(../images/personas/alex-radelich-462768-unsplash.png) no-repeat center center;
+    background-size: auto 100%;
+    @include media-breakpoint-up(md) {
+      background-size: 100% auto;
+    }
+    object-fit: cover;
+    h1 {
+      color: #fff;
+    }
+    .inner {
+      background-color: rgba(251,176,52,0.7);
+    }
+  }
+  .whitebox {
+    @include media-breakpoint-up(md) {
+      padding: 3rem 5rem;
+    }
+  }
+  .persona-item {
+    padding: 1rem;
+    @include media-breakpoint-up(md) {
+      padding: 3rem;
+    }
+    text-align: center;
+  }
+}
