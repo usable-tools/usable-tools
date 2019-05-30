@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example/</loc>
+    <loc>https://usable.tools/ut/blog/blog-example/</loc>
     <lastmod>2019-05-20T23:50:48-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/</loc>
+    <loc>https://usable.tools/ut/blog/</loc>
     <lastmod>2019-05-20T23:50:48-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/</loc>
-    <lastmod>2019-05-20T23:46:08-07:00</lastmod>
+    <loc>https://usable.tools/ut/personas/</loc>
+    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example2/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+    <loc>https://usable.tools/ut/</loc>
+    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/categories/</loc>
+    <loc>https://usable.tools/ut/personas/persona-example/</loc>
+    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usable.tools/ut/personas/persona-example2/</loc>
+    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usable.tools/ut/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/tags/</loc>
+    <loc>https://usable.tools/ut/tags/</loc>
     <priority>0</priority>
   </url>
   

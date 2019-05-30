@@ -6,7 +6,7 @@
  * @link https://github.com/jonsuh/hamburgers
  */
 .hamburger {
-  padding: 15px 15px;
+  padding: 10px 15px;
   display: inline-block;
   cursor: pointer;
   transition-property: opacity, filter;
@@ -42,7 +42,7 @@
     width: 30px;
     height: 2px;
     background-color: #002D62;
-    border-radius: 3px;
+    border-radius: 4px;
     position: absolute;
     transition-property: transform;
     transition-duration: 0.15s;
