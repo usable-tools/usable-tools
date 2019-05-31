@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on USABLE Tools</title>
+    <link>https://squiggy.github.io/ut/events/</link>
+    <description>Recent content in Events on USABLE Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 23:50:48 -0700</lastBuildDate>
+    
+	<atom:link href="https://squiggy.github.io/ut/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event</title>
+      <link>https://squiggy.github.io/ut/events/event-example/</link>
+      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/events/event-example/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
+Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>https://squiggy.github.io/ut/events/event-example2/</link>
+      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/events/event-example2/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
+Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+  </channel>
+</rss>
