@@ -6,20 +6,90 @@
     <description>Recent content in templates on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 23:50:48 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 23:50:48 -0700</lastBuildDate>
     
 	<atom:link href="https://squiggy.github.io/ut/tags/templates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Announcing the UXFund Results!</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example34/</link>
+      <pubDate>Thu, 02 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example34/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example33/</link>
+      <pubDate>Sat, 20 Apr 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example33/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example32/</link>
+      <pubDate>Wed, 02 Nov 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example32/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example30/</link>
+      <pubDate>Fri, 12 Aug 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example30/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example3/</link>
+      <pubDate>Fri, 01 Jul 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example3/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example2/</link>
+      <pubDate>Sun, 20 Mar 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example2/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example1/</link>
+      <pubDate>Sat, 20 Feb 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example1/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example0/</link>
+      <pubDate>Tue, 12 Jan 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example0/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
       <title>Blog Example</title>
       <link>https://squiggy.github.io/ut/blog/blog-example/</link>
-      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      <pubDate>Tue, 20 May 2014 23:50:48 -0700</pubDate>
       
       <guid>https://squiggy.github.io/ut/blog/blog-example/</guid>
-      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
     </item>
     
   </channel>

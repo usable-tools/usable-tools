@@ -6,130 +6,216 @@
     <description>Recent content on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 15:32:37 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 09:49:28 -0700</lastBuildDate>
     
 	<atom:link href="https://squiggy.github.io/ut/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://squiggy.github.io/ut/about/</link>
-      <pubDate>Thu, 30 May 2019 15:32:37 -0700</pubDate>
+      <title>Privacy Policy</title>
+      <link>https://squiggy.github.io/ut/privacy-policy/</link>
+      <pubDate>Mon, 03 Jun 2019 09:49:28 -0700</pubDate>
       
-      <guid>https://squiggy.github.io/ut/about/</guid>
-      <description>Hi! This is my about page</description>
+      <guid>https://squiggy.github.io/ut/privacy-policy/</guid>
+      <description>Edit content</description>
+    </item>
+    
+    <item>
+      <title>The Challenge</title>
+      <link>https://squiggy.github.io/ut/the-challenge/</link>
+      <pubDate>Mon, 03 Jun 2019 09:49:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/the-challenge/</guid>
+      <description>The challenge content</description>
+    </item>
+    
+    <item>
+      <title>The Usable Response</title>
+      <link>https://squiggy.github.io/ut/the-usable-response/</link>
+      <pubDate>Mon, 03 Jun 2019 09:49:21 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/the-usable-response/</guid>
+      <description>The challenge content</description>
     </item>
     
     <item>
       <title>Who We Work With</title>
-      <link>https://squiggy.github.io/ut/who-we-work-with0/</link>
+      <link>https://squiggy.github.io/ut/who-we-work-with/</link>
       <pubDate>Thu, 30 May 2019 15:32:37 -0700</pubDate>
       
-      <guid>https://squiggy.github.io/ut/who-we-work-with0/</guid>
-      <description></description>
+      <guid>https://squiggy.github.io/ut/who-we-work-with/</guid>
+      <description>The challenge content</description>
+    </item>
+    
+    <item>
+      <title>Why USABLE</title>
+      <link>https://squiggy.github.io/ut/about/</link>
+      <pubDate>Thu, 30 May 2019 15:32:37 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/about/</guid>
+      <description>The Challenge Any tool, no matter how secure, leaves users vulnerable if it is too difficult to use. Many of the most popular and most critical open source security and privacy tools are maintained and updated by small tool teams with limited exposure to the specific profiles and needs of at-risk users.</description>
+    </item>
+    
+    <item>
+      <title>Another Event</title>
+      <link>https://squiggy.github.io/ut/events/event-example/</link>
+      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/events/event-example/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Event yay!</title>
+      <link>https://squiggy.github.io/ut/events/event-example2/</link>
+      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/events/event-example2/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Ayu</title>
+      <link>https://squiggy.github.io/ut/personas/persona-example3/</link>
+      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/personas/persona-example3/</guid>
+      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Chumi</title>
+      <link>https://squiggy.github.io/ut/personas/persona-example5/</link>
+      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/personas/persona-example5/</guid>
+      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Husna</title>
+      <link>https://squiggy.github.io/ut/personas/persona-example4/</link>
+      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/personas/persona-example4/</guid>
+      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>L. N.</title>
+      <link>https://squiggy.github.io/ut/personas/persona-example/</link>
+      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/personas/persona-example/</guid>
+      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>SuJon</title>
+      <link>https://squiggy.github.io/ut/personas/persona-example1/</link>
+      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/personas/persona-example1/</guid>
+      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Tabassum</title>
+      <link>https://squiggy.github.io/ut/personas/persona-example2/</link>
+      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/personas/persona-example2/</guid>
+      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Z. W.</title>
+      <link>https://squiggy.github.io/ut/personas/persona-example0/</link>
+      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/personas/persona-example0/</guid>
+      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+    </item>
+    
+    <item>
+      <title>Announcing the UXFund Results!</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example34/</link>
+      <pubDate>Thu, 02 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example34/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example33/</link>
+      <pubDate>Sat, 20 Apr 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example33/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example32/</link>
+      <pubDate>Wed, 02 Nov 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example32/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example30/</link>
+      <pubDate>Fri, 12 Aug 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example30/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example3/</link>
+      <pubDate>Fri, 01 Jul 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example3/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example2/</link>
+      <pubDate>Sun, 20 Mar 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example2/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example1/</link>
+      <pubDate>Sat, 20 Feb 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example1/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+    </item>
+    
+    <item>
+      <title>Blog Example</title>
+      <link>https://squiggy.github.io/ut/blog/blog-example0/</link>
+      <pubDate>Tue, 12 Jan 2016 23:50:48 -0700</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/blog-example0/</guid>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
     </item>
     
     <item>
       <title>Blog Example</title>
       <link>https://squiggy.github.io/ut/blog/blog-example/</link>
-      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      <pubDate>Tue, 20 May 2014 23:50:48 -0700</pubDate>
       
       <guid>https://squiggy.github.io/ut/blog/blog-example/</guid>
-      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
-    </item>
-    
-    <item>
-      <title>Event</title>
-      <link>https://squiggy.github.io/ut/events/event-example/</link>
-      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/events/event-example/</guid>
-      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
-    </item>
-    
-    <item>
-      <title>Event</title>
-      <link>https://squiggy.github.io/ut/events/event-example2/</link>
-      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/events/event-example2/</guid>
-      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
-    </item>
-    
-    <item>
-      <title>Persona example</title>
-      <link>https://squiggy.github.io/ut/personas/persona-example/</link>
-      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/personas/persona-example/</guid>
-      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Goals  Parens est studiisque interea Pro istis mediis carnes iste nec imperat Te vocas orat nisi quantumque castra Gestumque crepuscula esse videntur coegit Ambo videtque gerat aquae ferens vagina Adde leviter faciam tetigisse regunt concava in  Threats Lorem markdownum aequalis strigis.</description>
-    </item>
-    
-    <item>
-      <title>Persona example</title>
-      <link>https://squiggy.github.io/ut/personas/persona-example0/</link>
-      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/personas/persona-example0/</guid>
-      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Goals  Parens est studiisque interea Pro istis mediis carnes iste nec imperat Te vocas orat nisi quantumque castra Gestumque crepuscula esse videntur coegit Ambo videtque gerat aquae ferens vagina Adde leviter faciam tetigisse regunt concava in  Threats Lorem markdownum aequalis strigis.</description>
-    </item>
-    
-    <item>
-      <title>Persona example</title>
-      <link>https://squiggy.github.io/ut/personas/persona-example1/</link>
-      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/personas/persona-example1/</guid>
-      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Goals  Parens est studiisque interea Pro istis mediis carnes iste nec imperat Te vocas orat nisi quantumque castra Gestumque crepuscula esse videntur coegit Ambo videtque gerat aquae ferens vagina Adde leviter faciam tetigisse regunt concava in  Threats Lorem markdownum aequalis strigis.</description>
-    </item>
-    
-    <item>
-      <title>Persona example</title>
-      <link>https://squiggy.github.io/ut/personas/persona-example3/</link>
-      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/personas/persona-example3/</guid>
-      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Goals  Parens est studiisque interea Pro istis mediis carnes iste nec imperat Te vocas orat nisi quantumque castra Gestumque crepuscula esse videntur coegit Ambo videtque gerat aquae ferens vagina Adde leviter faciam tetigisse regunt concava in  Threats Lorem markdownum aequalis strigis.</description>
-    </item>
-    
-    <item>
-      <title>Persona example</title>
-      <link>https://squiggy.github.io/ut/personas/persona-example4/</link>
-      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/personas/persona-example4/</guid>
-      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Goals  Parens est studiisque interea Pro istis mediis carnes iste nec imperat Te vocas orat nisi quantumque castra Gestumque crepuscula esse videntur coegit Ambo videtque gerat aquae ferens vagina Adde leviter faciam tetigisse regunt concava in  Threats Lorem markdownum aequalis strigis.</description>
-    </item>
-    
-    <item>
-      <title>Persona example</title>
-      <link>https://squiggy.github.io/ut/personas/persona-example5/</link>
-      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/personas/persona-example5/</guid>
-      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Goals  Parens est studiisque interea Pro istis mediis carnes iste nec imperat Te vocas orat nisi quantumque castra Gestumque crepuscula esse videntur coegit Ambo videtque gerat aquae ferens vagina Adde leviter faciam tetigisse regunt concava in  Threats Lorem markdownum aequalis strigis.</description>
-    </item>
-    
-    <item>
-      <title>Persona example 2</title>
-      <link>https://squiggy.github.io/ut/personas/persona-example2/</link>
-      <pubDate>Mon, 20 May 2019 23:15:28 -0700</pubDate>
-      
-      <guid>https://squiggy.github.io/ut/personas/persona-example2/</guid>
-      <description>Overview Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Goals  Parens est studiisque interea Pro istis mediis carnes iste nec imperat Te vocas orat nisi quantumque castra Gestumque crepuscula esse videntur coegit Ambo videtque gerat aquae ferens vagina Adde leviter faciam tetigisse regunt concava in  Threats Lorem markdownum aequalis strigis.</description>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
     </item>
     
   </channel>

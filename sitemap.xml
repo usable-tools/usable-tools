@@ -3,33 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://squiggy.github.io/ut/privacy-policy/</loc>
+    <lastmod>2019-06-03T09:49:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/the-challenge/</loc>
+    <lastmod>2019-06-03T09:49:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/</loc>
+    <lastmod>2019-06-03T09:49:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/the-usable-response/</loc>
+    <lastmod>2019-06-03T09:49:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/who-we-work-with/</loc>
+    <lastmod>2019-05-30T15:32:37-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://squiggy.github.io/ut/about/</loc>
     <lastmod>2019-05-30T15:32:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/</loc>
-    <lastmod>2019-05-30T15:32:37-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/who-we-work-with0/</loc>
-    <lastmod>2019-05-30T15:32:37-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/events/event-example/</loc>
+    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://squiggy.github.io/ut/blog/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/events/event-example/</loc>
     <lastmod>2019-05-20T23:50:48-07:00</lastmod>
   </url>
   
@@ -49,63 +59,7 @@
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/tags/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/tags/development/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/tags/go/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/tags/golang/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/tags/templates/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/tags/themes/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example0/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example1/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://squiggy.github.io/ut/personas/persona-example3/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example4/</loc>
     <lastmod>2019-05-20T23:15:28-07:00</lastmod>
   </url>
   
@@ -115,8 +69,109 @@
   </url>
   
   <url>
+    <loc>https://squiggy.github.io/ut/personas/persona-example4/</loc>
+    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/personas/persona-example/</loc>
+    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/personas/persona-example1/</loc>
+    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://squiggy.github.io/ut/personas/persona-example2/</loc>
     <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/personas/persona-example0/</loc>
+    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example34/</loc>
+    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/</loc>
+    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/development/</loc>
+    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/go/</loc>
+    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/golang/</loc>
+    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/templates/</loc>
+    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/themes/</loc>
+    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example33/</loc>
+    <lastmod>2019-04-20T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example32/</loc>
+    <lastmod>2016-11-02T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example30/</loc>
+    <lastmod>2016-08-12T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example3/</loc>
+    <lastmod>2016-07-01T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example2/</loc>
+    <lastmod>2016-03-20T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example1/</loc>
+    <lastmod>2016-02-20T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example0/</loc>
+    <lastmod>2016-01-12T23:50:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/blog-example/</loc>
+    <lastmod>2014-05-20T23:50:48-07:00</lastmod>
   </url>
   
   <url>

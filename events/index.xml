@@ -12,25 +12,21 @@
     
     
     <item>
-      <title>Event</title>
+      <title>Another Event</title>
       <link>https://squiggy.github.io/ut/events/event-example/</link>
       <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
       
       <guid>https://squiggy.github.io/ut/events/event-example/</guid>
-      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
     </item>
     
     <item>
-      <title>Event</title>
+      <title>Event yay!</title>
       <link>https://squiggy.github.io/ut/events/event-example2/</link>
       <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
       
       <guid>https://squiggy.github.io/ut/events/event-example2/</guid>
-      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec. I&amp;rsquo;m an inline-style link
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Heading three Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
+      <description>Heading two Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin.</description>
     </item>
     
   </channel>
