@@ -18,10 +18,10 @@
 
 <div class="strip strip-grey">
   <div class="container">
-    {{ range .Pages }}
+    {{ range (.Pages.ByParam "eventdate" ).Reverse }}
     <div class="row whitebox justify-content-left">
       <div class="col-12 col-md-6 event-list-photo">
-        <img src="{{ .Site.BaseURL }}/{{ .Params.main_image }}" alt="Edit me" />
+        <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}/{{ .Params.main_image }}" alt="Edit me" /></a>
       </div>
       <div class="col-12 col-md-6 event-list-content">
         <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
