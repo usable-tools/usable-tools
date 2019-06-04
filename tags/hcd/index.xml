@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hcd on USABLE Tools</title>
-    <link>https://squiggy.github.io/tags/hcd/</link>
+    <link>https://squiggy.github.io/ut/tags/hcd/</link>
     <description>Recent content in hcd on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Jan 2016 13:29:00 +0000</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/tags/hcd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/ut/tags/hcd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning how to balance design and training</title>
-      <link>https://squiggy.github.io/blog/2016-01-22-tft/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-01-22-tft/</link>
       <pubDate>Thu, 28 Jan 2016 13:29:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-01-22-tft/</guid>
-      <description>&lt;p&gt;The USABLE team is halfway through our &lt;a href=&#34;https://squiggy.github.io/trainings.html&#34;&gt;Tool Feedback Training&lt;/a&gt; process, and the first two TFTs were hugely informative. We worked with groups doing amazing work while facing widely different challenges; including censorship, targeted malware, and situations where digital security problems can become physical security ones.&lt;/p&gt;
+      <guid>https://squiggy.github.io/ut/blog/2016-01-22-tft/</guid>
+      <description>&lt;p&gt;The USABLE team is halfway through our &lt;a href=&#34;https://squiggy.github.io/ut/trainings.html&#34;&gt;Tool Feedback Training&lt;/a&gt; process, and the first two TFTs were hugely informative. We worked with groups doing amazing work while facing widely different challenges; including censorship, targeted malware, and situations where digital security problems can become physical security ones.&lt;/p&gt;
 
-&lt;p&gt;One of the concerns we had going in to this process was balancing the digital security training for the participants with human-centered design exercises, which is why we spent so much time working through this during our &lt;a href=&#34;https://squiggy.github.io/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One of the concerns we had going in to this process was balancing the digital security training for the participants with human-centered design exercises, which is why we spent so much time working through this during our &lt;a href=&#34;https://squiggy.github.io/ut/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In both trainings however, the participants not only responded enthusiastically to the design exercises we conducted, but expressed ongoing interest in applying design thinking to their project work. The design-centric agenda items have actually meshed well with the digital security curricula, engaging participants in the design process, creating users personas, and supporting the tool developers in coming up with prototyped design changes. We&amp;rsquo;ll post soon on building user testing directly in to the training process.&lt;/p&gt;
 
 &lt;p&gt;The dSchool&amp;rsquo;s &lt;a href=&#34;https://dschool.stanford.edu/groups/designresources/wiki/4dbb2/The_Wallet_Project.html&#34; target=&#34;_blank&#34;&gt;Wallet Exercise&lt;/a&gt; has been very useful as a short, fun way to get into the mindset of design, as it leads you through a series of thought, listening, and feedback exercises with a partner. It - along with many of the other design exercises &amp;ndash; creates a great icebreaker effect by putting everyone on the same level as they work through a problem.&lt;/p&gt;
 
-&lt;p&gt;We&amp;rsquo;ve updated the &lt;a href=&#34;https://squiggy.github.io/trainings.html#schedule&#34;&gt;TFT schedule&lt;/a&gt; to better reflect how these first TFTs went - you&amp;rsquo;ll see a back-and-forth between threat modeling, design exercises, and tool trainings.&lt;/p&gt;</description>
+&lt;p&gt;We&amp;rsquo;ve updated the &lt;a href=&#34;https://squiggy.github.io/ut/trainings.html#schedule&#34;&gt;TFT schedule&lt;/a&gt; to better reflect how these first TFTs went - you&amp;rsquo;ll see a back-and-forth between threat modeling, design exercises, and tool trainings.&lt;/p&gt;</description>
     </item>
     
   </channel>

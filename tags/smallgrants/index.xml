@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>smallgrants on USABLE Tools</title>
-    <link>https://squiggy.github.io/tags/smallgrants/</link>
+    <link>https://squiggy.github.io/ut/tags/smallgrants/</link>
     <description>Recent content in smallgrants on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Mar 2017 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/tags/smallgrants/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/ut/tags/smallgrants/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>USABLE at the Internet Freedom Festival</title>
-      <link>https://squiggy.github.io/blog/2017-03-03-usable-at-iff/</link>
+      <link>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</link>
       <pubDate>Fri, 03 Mar 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2017-03-03-usable-at-iff/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</guid>
       <description>The USABLE team is excited to be gearing up for the Internet Freedom Festival this year to contiue sharing lessons learned by developers looking to listen and engage with their users.</description>
     </item>
     
     <item>
       <title>Announcing the UXFund Results!</title>
-      <link>https://squiggy.github.io/blog/2016-12-28-uxfund-results/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-12-28-uxfund-results/</link>
       <pubDate>Wed, 28 Dec 2016 08:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-12-28-uxfund-results/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-12-28-uxfund-results/</guid>
       <description>The USABLE team is proud to announce the UXFund results for the small, but targeted usability enhancement grants. Many great proposals were received and, after a thorough review process, five organizations for short-term awards were selected.</description>
     </item>
     

@@ -2,155 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>USABLE Tools</title>
-    <link>https://squiggy.github.io/</link>
+    <link>https://squiggy.github.io/ut/</link>
     <description>Recent content on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 09:49:28 -0700</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/ut/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://squiggy.github.io/privacy-policy/</link>
+      <link>https://squiggy.github.io/ut/privacy-policy/</link>
       <pubDate>Mon, 03 Jun 2019 09:49:28 -0700</pubDate>
       
-      <guid>https://squiggy.github.io/privacy-policy/</guid>
+      <guid>https://squiggy.github.io/ut/privacy-policy/</guid>
       <description>Privacy Policy The USABLE website is a project of Internews. We adhere to the terms of the Internews Privacy Policy.</description>
     </item>
     
     <item>
       <title>The Challenge</title>
-      <link>https://squiggy.github.io/the-challenge/</link>
+      <link>https://squiggy.github.io/ut/the-challenge/</link>
       <pubDate>Mon, 03 Jun 2019 09:49:28 -0700</pubDate>
       
-      <guid>https://squiggy.github.io/the-challenge/</guid>
+      <guid>https://squiggy.github.io/ut/the-challenge/</guid>
       <description>The challenge content</description>
     </item>
     
     <item>
       <title>The Usable Response</title>
-      <link>https://squiggy.github.io/the-usable-response/</link>
+      <link>https://squiggy.github.io/ut/the-usable-response/</link>
       <pubDate>Mon, 03 Jun 2019 09:49:21 -0700</pubDate>
       
-      <guid>https://squiggy.github.io/the-usable-response/</guid>
+      <guid>https://squiggy.github.io/ut/the-usable-response/</guid>
       <description>The challenge content</description>
     </item>
     
     <item>
       <title>Who We Work With</title>
-      <link>https://squiggy.github.io/who-we-work-with/</link>
+      <link>https://squiggy.github.io/ut/who-we-work-with/</link>
       <pubDate>Thu, 30 May 2019 15:32:37 -0700</pubDate>
       
-      <guid>https://squiggy.github.io/who-we-work-with/</guid>
+      <guid>https://squiggy.github.io/ut/who-we-work-with/</guid>
       <description>The challenge content</description>
     </item>
     
     <item>
       <title>Why USABLE</title>
-      <link>https://squiggy.github.io/about/</link>
+      <link>https://squiggy.github.io/ut/about/</link>
       <pubDate>Thu, 30 May 2019 15:32:37 -0700</pubDate>
       
-      <guid>https://squiggy.github.io/about/</guid>
+      <guid>https://squiggy.github.io/ut/about/</guid>
       <description>The Challenge Any tool, no matter how secure, leaves users vulnerable if it is too difficult to use. Many of the most popular and most critical open source security and privacy tools are maintained and updated by small tool teams with limited exposure to the specific profiles and needs of at-risk users.</description>
     </item>
     
     <item>
       <title>Announcing New USABLE Personas</title>
-      <link>https://squiggy.github.io/blog/2018-12-28-new-usable-personas/</link>
+      <link>https://squiggy.github.io/ut/blog/2018-12-28-new-usable-personas/</link>
       <pubDate>Fri, 28 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2018-12-28-new-usable-personas/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2018-12-28-new-usable-personas/</guid>
       <description>Through a series of regional User Experience (UX) Workshops, the USABLE project is enhancing digital security trainers’ understanding of specific usability roadblocks that hinder adoption of important security practices for the highest risk groups across the globe and how to capture and articulate these challenges to tool developers.</description>
     </item>
     
     <item>
       <title>USABLE at RightsCon Toronto</title>
-      <link>https://squiggy.github.io/blog/2018-05-10-usable-at-rightscon/</link>
+      <link>https://squiggy.github.io/ut/blog/2018-05-10-usable-at-rightscon/</link>
       <pubDate>Thu, 10 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2018-05-10-usable-at-rightscon/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2018-05-10-usable-at-rightscon/</guid>
       <description>In response to the emerging security and privacy concerns in product and user experience design, we would like to invite you to the UX/Tech Meetup at RightsCon Toronto on behalf of Internews and Access Now.</description>
     </item>
     
     <item>
       <title>USABLE at the Internet Freedom Festival</title>
-      <link>https://squiggy.github.io/blog/2017-03-03-usable-at-iff/</link>
+      <link>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</link>
       <pubDate>Fri, 03 Mar 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2017-03-03-usable-at-iff/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</guid>
       <description>The USABLE team is excited to be gearing up for the Internet Freedom Festival this year to contiue sharing lessons learned by developers looking to listen and engage with their users.</description>
     </item>
     
     <item>
       <title>Announcing the UXFund Results!</title>
-      <link>https://squiggy.github.io/blog/2016-12-28-uxfund-results/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-12-28-uxfund-results/</link>
       <pubDate>Wed, 28 Dec 2016 08:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-12-28-uxfund-results/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-12-28-uxfund-results/</guid>
       <description>The USABLE team is proud to announce the UXFund results for the small, but targeted usability enhancement grants. Many great proposals were received and, after a thorough review process, five organizations for short-term awards were selected.</description>
     </item>
     
     <item>
       <title>USABLE Updates, Resources and more!</title>
-      <link>https://squiggy.github.io/blog/2016-09-19-followingup/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-09-19-followingup/</link>
       <pubDate>Tue, 20 Sep 2016 11:49:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-09-19-followingup/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-09-19-followingup/</guid>
       <description>We can&amp;rsquo;t believe it&amp;rsquo;s been two months since the UXForum! To be fair, we had a lot of sleep to catch up on, and there have been some exciting staff transitions over on our team.</description>
     </item>
     
     <item>
       <title>Power to the Users -- From trainings to the UXForum and onwards.</title>
-      <link>https://squiggy.github.io/blog/2016-09-15-powertotheusers/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-09-15-powertotheusers/</link>
       <pubDate>Tue, 20 Sep 2016 11:35:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-09-15-powertotheusers/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-09-15-powertotheusers/</guid>
       <description>&lt;p&gt;Three years ago, I led a digital security training for independent media in Kyiv during the peak of the EuroMaidan protests. &lt;a href=&#34;https://medium.com/local-voices-global-change/what-good-are-secure-communications-tools-if-no-one-uses-them-690ce2bdf9ec#.hla4lsxya&#34;&gt;It didn&amp;rsquo;t go as planned&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This spring, we returned.  We worked with an amazingly skilled trainer who led the local &lt;a href=&#34;https://dss380.org/&#34;&gt;Digital Security School&lt;/a&gt; which had since emerged thanks to the hard work of &lt;a href=&#34;https://equalit.ie/&#34;&gt;eQualit.ie&lt;/a&gt;, and we brought together an amazing community of experts and practitioners who face complex challenges in their work as they dealt with the repercussions of the post-Maidan Ukrainian reality.  This alone would have made for a successful training; but our goal with USABLE is to scale beyond this and get to underlying problems around tool uptake.  So, we also brought a designer (who is now leading frog design&amp;rsquo;s social impact team) and a developer who led a digital security tool that the community was interested in learning more about.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/uxforum-bigboard.jpg&#34; alt=&#34;Notes on strong passwords and laptop security from the UXForum&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/uxforum-bigboard.jpg&#34; alt=&#34;Notes on strong passwords and laptop security from the UXForum&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;Building this &amp;ldquo;Tool Feedback Training&amp;rdquo; approach to connecting high-risk users and tool developers through the training and design process, and the results we have already achieved, has been an amazing journey.  It may &amp;ndash; and should &amp;ndash; seem simple, but the complexities of making that precise connection is far too often presumed, but not actually done. Real people facing very specific and complex security challenges become an amorphous &amp;ldquo;they.&amp;rdquo; &amp;ldquo;They&amp;rdquo; needs many things from constant, bleeding-edge security improvements to changes supporting very specific use cases; but it turns out that if you actually engage the people beyond the &amp;ldquo;they&amp;rdquo; - that you learn real, often simple, changes in user experience are the path forward.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UXFund: Extended to September 30!</title>
-      <link>https://squiggy.github.io/blog/2016-09-15-uxfundextension/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-09-15-uxfundextension/</link>
       <pubDate>Thu, 15 Sep 2016 20:21:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-09-15-uxfundextension/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-09-15-uxfundextension/</guid>
       <description>We are extending the UXFund deadline for two more weeks - through Sep. 30! Apply Today!.</description>
     </item>
     
     <item>
       <title>User Testing in Digital Security Training</title>
-      <link>https://squiggy.github.io/blog/2016-07-07-usertesting/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-07-07-usertesting/</link>
       <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-07-07-usertesting/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-07-07-usertesting/</guid>
       <description>&lt;p&gt;During our first Tool Feedback Training, we faced some natural reluctance to &amp;ldquo;complain&amp;rdquo; about a tool being trained upon, which was magnified by the effect of having a representative from the tool in the training.  To accommodate this, we leveraged the high number of facilitators during each hands-on activity to gather observational data. The trainer would set a short goal (create an account, create a record, share a record), and the participants would work in small groups to accomplish this task, with a facilitator observing each group to note where confusion or problems were occurring.  To balance this with maintaining the flow of the training, the facilitators would keep each group from floundering, and the trainer would review the process for everyone before moving onwards.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/TFT-usertesting.jpg&#34; alt=&#34;&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/TFT-usertesting.jpg&#34; alt=&#34;&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Yahoo!</title>
-      <link>https://squiggy.github.io/blog/2016-08-15-yahoo/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-08-15-yahoo/</link>
       <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-08-15-yahoo/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-08-15-yahoo/</guid>
       <description>&lt;p&gt;Thanks to our friends over at &lt;a href=&#34;https://yahoobhrp.tumblr.com/post/148985458174/security-and-product-design-with-human-rights-in&#34; target=&#34;_blank&#34;&gt;Yahoo!&lt;/a&gt; for a great blog post outlining their amazing support of our work!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Protecting High-Risk Tech Users: A Movement for Usability</title>
-      <link>https://squiggy.github.io/blog/2016-07-06-protecting-high-risk-users/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-07-06-protecting-high-risk-users/</link>
       <pubDate>Wed, 06 Jul 2016 15:01:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-07-06-protecting-high-risk-users/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-07-06-protecting-high-risk-users/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Connecting developers with users improves tools for human rights defenders&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Janvier Hakizimana has a radical idea.&lt;/p&gt;
@@ -159,7 +159,7 @@
 
 &lt;p&gt;Adaptation — making tech tools more open, accessible, and customizable — matters in Janvier’s line of work. He works to support human rights defenders in the East and Horn of Africa who need secure tools to document and report human rights violations.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/usability-secure-apps-screen readers_Credit_Mariel Garcia M.jpg&#34; alt=&#34;Testing the usability of secure apps through screen readers, at a USABLE training in Mexico. Credit: Mariel Garcia&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/usability-secure-apps-screen readers_Credit_Mariel Garcia M.jpg&#34; alt=&#34;Testing the usability of secure apps through screen readers, at a USABLE training in Mexico. Credit: Mariel Garcia&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;
 &lt;em&gt;Testing the usability of secure apps through screen readers, at a USABLE training in Mexico. Credit: Mariel Garcia M&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;When a tool can’t adapt to local conditions — when it is entirely reliant on an internet connection, for example, users in low-connectivity areas may not be able to use it on a broad scale.&lt;/p&gt;
@@ -173,11 +173,11 @@
     
     <item>
       <title>Join us for UX in a High Risk World!</title>
-      <link>https://squiggy.github.io/blog/2016-06-17-uxforum/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-06-17-uxforum/</link>
       <pubDate>Fri, 17 Jun 2016 16:57:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-06-17-uxforum/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://eventbrite.com/e/ux-in-a-high-risk-world-tickets-25739389206&#34; target=&#34;_blank&#34; class=&#34;image fit&#34;&gt;&lt;img src=&#34;https://squiggy.github.io/images/uxhighrisk.jpg&#34; alt=&#34;UX in a High-Risk World; Innovation Hangar, San Francisco, July 14th&#34; /&gt;&lt;/a&gt;
+      <guid>https://squiggy.github.io/ut/blog/2016-06-17-uxforum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://eventbrite.com/e/ux-in-a-high-risk-world-tickets-25739389206&#34; target=&#34;_blank&#34; class=&#34;image fit&#34;&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/uxhighrisk.jpg&#34; alt=&#34;UX in a High-Risk World; Innovation Hangar, San Francisco, July 14th&#34; /&gt;&lt;/a&gt;
 &lt;p&gt;For one night only, we are opening the doors to this event!&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Come meet the visionary leaders who are piloting and developing solutions for activists facing censorship, hacking, surveillance, and suppression in some of the world’s most challenging environments.&lt;/p&gt;
@@ -187,57 +187,57 @@
     
     <item>
       <title>Where did USABLE come from?</title>
-      <link>https://squiggy.github.io/blog/2016-04-22-originstories/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-04-22-originstories/</link>
       <pubDate>Fri, 22 Apr 2016 10:57:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-04-22-originstories/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-04-22-originstories/</guid>
       <description>&lt;p&gt;Over at Medium, we just published &lt;a href=&#34;https://medium.com/local-voices-global-change/what-good-are-secure-communications-tools-if-no-one-uses-them-690ce2bdf9ec#.cc36s0g8w&#34; target=&#34;_blank&#34;&gt;What Good Are Secure Communications Tools if No One Uses Them?&lt;/a&gt;. This is part of the &amp;ldquo;origin story&amp;rdquo; of the USABLE project, based on a difficult digital security training during the middle of EuroMaidan.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/EuroMaidan_ccby_Alexandra Gnatoush-Flickr.jpg&#34; alt=&#34;Ukraine’s EuroMaidan protest. Photo by Alexandra (Nessa) Gnatoush - ccby / Flickr&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/EuroMaidan_ccby_Alexandra Gnatoush-Flickr.jpg&#34; alt=&#34;Ukraine’s EuroMaidan protest. Photo by Alexandra (Nessa) Gnatoush - ccby / Flickr&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;
 &lt;span align=&#34;right&#34; style=&#34;font-size: .75em !important; color: #888 !important;&#34;&gt;Ukraine’s EuroMaidan protest. Photo by Alexandra (Nessa) Gnatoush - &lt;a href=&#34;https://www.flickr.com/photos/nessa_flame/11503772463/in/photostream/&#34; target=&#34;_blank&#34;&gt;Flickr&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning how to balance design and training</title>
-      <link>https://squiggy.github.io/blog/2016-01-22-tft/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-01-22-tft/</link>
       <pubDate>Thu, 28 Jan 2016 13:29:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-01-22-tft/</guid>
-      <description>&lt;p&gt;The USABLE team is halfway through our &lt;a href=&#34;https://squiggy.github.io/trainings.html&#34;&gt;Tool Feedback Training&lt;/a&gt; process, and the first two TFTs were hugely informative. We worked with groups doing amazing work while facing widely different challenges; including censorship, targeted malware, and situations where digital security problems can become physical security ones.&lt;/p&gt;
+      <guid>https://squiggy.github.io/ut/blog/2016-01-22-tft/</guid>
+      <description>&lt;p&gt;The USABLE team is halfway through our &lt;a href=&#34;https://squiggy.github.io/ut/trainings.html&#34;&gt;Tool Feedback Training&lt;/a&gt; process, and the first two TFTs were hugely informative. We worked with groups doing amazing work while facing widely different challenges; including censorship, targeted malware, and situations where digital security problems can become physical security ones.&lt;/p&gt;
 
-&lt;p&gt;One of the concerns we had going in to this process was balancing the digital security training for the participants with human-centered design exercises, which is why we spent so much time working through this during our &lt;a href=&#34;https://squiggy.github.io/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One of the concerns we had going in to this process was balancing the digital security training for the participants with human-centered design exercises, which is why we spent so much time working through this during our &lt;a href=&#34;https://squiggy.github.io/ut/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In both trainings however, the participants not only responded enthusiastically to the design exercises we conducted, but expressed ongoing interest in applying design thinking to their project work. The design-centric agenda items have actually meshed well with the digital security curricula, engaging participants in the design process, creating users personas, and supporting the tool developers in coming up with prototyped design changes. We&amp;rsquo;ll post soon on building user testing directly in to the training process.&lt;/p&gt;
 
 &lt;p&gt;The dSchool&amp;rsquo;s &lt;a href=&#34;https://dschool.stanford.edu/groups/designresources/wiki/4dbb2/The_Wallet_Project.html&#34; target=&#34;_blank&#34;&gt;Wallet Exercise&lt;/a&gt; has been very useful as a short, fun way to get into the mindset of design, as it leads you through a series of thought, listening, and feedback exercises with a partner. It - along with many of the other design exercises &amp;ndash; creates a great icebreaker effect by putting everyone on the same level as they work through a problem.&lt;/p&gt;
 
-&lt;p&gt;We&amp;rsquo;ve updated the &lt;a href=&#34;https://squiggy.github.io/trainings.html#schedule&#34;&gt;TFT schedule&lt;/a&gt; to better reflect how these first TFTs went - you&amp;rsquo;ll see a back-and-forth between threat modeling, design exercises, and tool trainings.&lt;/p&gt;</description>
+&lt;p&gt;We&amp;rsquo;ve updated the &lt;a href=&#34;https://squiggy.github.io/ut/trainings.html#schedule&#34;&gt;TFT schedule&lt;/a&gt; to better reflect how these first TFTs went - you&amp;rsquo;ll see a back-and-forth between threat modeling, design exercises, and tool trainings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Training and Design</title>
-      <link>https://squiggy.github.io/blog/2015-11-21-sdworkshop-trainings-and-design/</link>
+      <link>https://squiggy.github.io/ut/blog/2015-11-21-sdworkshop-trainings-and-design/</link>
       <pubDate>Sat, 21 Nov 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2015-11-21-sdworkshop-trainings-and-design/</guid>
-      <description>&lt;p&gt;At the &lt;a href=&#34;https://squiggy.github.io/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;, we realized that our original plan of book-ending a classic digital security training with human centered design exercises was not ideal &amp;ndash; many elements of learning and exploration that are key to training are similarly core to collaborative design.&lt;/p&gt;
+      <guid>https://squiggy.github.io/ut/blog/2015-11-21-sdworkshop-trainings-and-design/</guid>
+      <description>&lt;p&gt;At the &lt;a href=&#34;https://squiggy.github.io/ut/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;, we realized that our original plan of book-ending a classic digital security training with human centered design exercises was not ideal &amp;ndash; many elements of learning and exploration that are key to training are similarly core to collaborative design.&lt;/p&gt;
 
 &lt;p&gt;To test this out, we spent one afternoon running a digital security training on mobile security. We based the training on the &lt;a href=&#34;https://www.level-up.cc/resources-for-trainers/pedagogical-resources/adult-learners&#34;&gt;ADIDS adult-learning approach&lt;/a&gt;, and used a selection of &lt;a href=&#34;https://www.level-up.cc&#34;&gt;Level Up curricula&lt;/a&gt; components, integrating human-centered design components into the flow of the training.  The rest of this post will run through the components of the training and the outcomes from it.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learnings from the Security and Design Workshop!</title>
-      <link>https://squiggy.github.io/blog/2015-11-20-securitydesigworkshop/</link>
+      <link>https://squiggy.github.io/ut/blog/2015-11-20-securitydesigworkshop/</link>
       <pubDate>Fri, 20 Nov 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2015-11-20-securitydesigworkshop/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2015-11-20-securitydesigworkshop/</guid>
       <description>&lt;p&gt;The USABLE project is built around a core commitment to listen - to users, to trainers, and to our partners.  As we began assembling the team of amazing designers and usability experts we are working with, a common thread emerged around a desire to connect and frame their inputs as usability experts for the digital security space and map out how they would engage during the tool feedback trainings.&lt;/p&gt;
 
 &lt;p&gt;We were able to bring together a Security and Design Workshop in mid November, thanks to the amazing generosity and flexibility of our partners and hosted in &lt;a href=&#34;https://www.thoughtworks.com/&#34; target=&#34;_blank&#34;&gt;ThoughtWorks&amp;rsquo; new San Francisco offices&lt;/a&gt;. This gave the USABLE team a chance to go over operational security concerns for working with vulnerable populations and let the designers experience firsthand both some of the digital security tools we hope to work with, and the process of a digital security training. More importantly, however, was the chance to really dig in to our plans for integrating need-finding and human centered design into the digital security training process to create the &amp;ldquo;Tool Feedback Trainings&amp;rdquo; (TFTs) we envision.&lt;/p&gt;
 
-&lt;p&gt;For needfinding, USABLE is integrating core aspects of the &lt;a href=&#34;http://internetfreedom.secondmuse.com/needfinding/&#34; target=&#34;_blank&#34;&gt;SecondMuse&amp;rsquo;s &lt;em&gt;Internet Freedom Need Finding Toolkit&lt;/em&gt;&lt;/a&gt; into this process to supplement our pre-training interview and engagement processes with our local partners and trainers. Members from the SecondMuse team were able to join us and help us work through their framework and adapt it to the &lt;a href=&#34;https://squiggy.github.io/2015/10/09/announcing-usable.html&#34;&gt;Tool Feedback Training model in USABLE&lt;/a&gt;.  This helped us discover what information is valuable to match a community with a tool developer, as well as understanding the threats and capacity of each community that goes into digital security trainings.&lt;/p&gt;
+&lt;p&gt;For needfinding, USABLE is integrating core aspects of the &lt;a href=&#34;http://internetfreedom.secondmuse.com/needfinding/&#34; target=&#34;_blank&#34;&gt;SecondMuse&amp;rsquo;s &lt;em&gt;Internet Freedom Need Finding Toolkit&lt;/em&gt;&lt;/a&gt; into this process to supplement our pre-training interview and engagement processes with our local partners and trainers. Members from the SecondMuse team were able to join us and help us work through their framework and adapt it to the &lt;a href=&#34;https://squiggy.github.io/ut/2015/10/09/announcing-usable.html&#34;&gt;Tool Feedback Training model in USABLE&lt;/a&gt;.  This helped us discover what information is valuable to match a community with a tool developer, as well as understanding the threats and capacity of each community that goes into digital security trainings.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/designworkshop-process.jpg&#34; alt=&#34;USABLE&#39;s TFT process evolves&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/designworkshop-process.jpg&#34; alt=&#34;USABLE&#39;s TFT process evolves&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;For the rest of the workshop, we worked on integrating HCD practices into the training process.  The final day began with a series of human centered design exercises led by &lt;a href=&#34;https://www.thoughtworks.com/&#34; target=&#34;_blank&#34;&gt;ThoughtWorks&lt;/a&gt; that would be adaptable for the TFT scenarios, from introductory exercises to more practical ones, such as having participants design the training or manual for a tool as a way to focus the tool&amp;rsquo;s actual interface on those aspects that truly require training, as opposed to those which could be set to secure defaults, automated, or provided as &amp;ldquo;advanced&amp;rdquo; options.&lt;/p&gt;
 
@@ -246,15 +246,15 @@
     
     <item>
       <title>Announcing USABLE!</title>
-      <link>https://squiggy.github.io/blog/2015-10-09-announcing-usable/</link>
+      <link>https://squiggy.github.io/ut/blog/2015-10-09-announcing-usable/</link>
       <pubDate>Fri, 09 Oct 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2015-10-09-announcing-usable/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/safe.png&#34;  style=&#34;width: 25%; height: auto;&#34; align=&#34;right&#34; alt=&#34;[☺]&#34; /&gt; We&amp;rsquo;re very excited to announce USABLE: Usable Security Apps By Leveraging End Users! USABLE, a project of &lt;a href=&#34;https://www.internews.org&#34; target=&#34;_blank&#34;&gt;Internews&lt;/a&gt;, brings a human centered design lens to digital security tools through a three-phase process (detailed out below) with add-on benefits of producing community-led user personas, connecting tool developers with trainers and at-risk users, and encouraging sharing of design patterns and usability challenges along the way.&lt;/p&gt;
+      <guid>https://squiggy.github.io/ut/blog/2015-10-09-announcing-usable/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/safe.png&#34;  style=&#34;width: 25%; height: auto;&#34; align=&#34;right&#34; alt=&#34;[☺]&#34; /&gt; We&amp;rsquo;re very excited to announce USABLE: Usable Security Apps By Leveraging End Users! USABLE, a project of &lt;a href=&#34;https://www.internews.org&#34; target=&#34;_blank&#34;&gt;Internews&lt;/a&gt;, brings a human centered design lens to digital security tools through a three-phase process (detailed out below) with add-on benefits of producing community-led user personas, connecting tool developers with trainers and at-risk users, and encouraging sharing of design patterns and usability challenges along the way.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;re just getting started and are locking in our first communities, and expect to be running these needs-based trainings throughout early 2016. We will be sharing the user personas and learnings from these trainings over the next few months.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/usable-cycle.png&#34; alt=&#34;USABLE&#39;s Approach&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/usable-cycle.png&#34; alt=&#34;USABLE&#39;s Approach&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

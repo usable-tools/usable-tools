@@ -2,219 +2,219 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on USABLE Tools</title>
-    <link>https://squiggy.github.io/tags/</link>
+    <link>https://squiggy.github.io/ut/tags/</link>
     <description>Recent content in Tags on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Dec 2018 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/ut/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>user-engagement</title>
-      <link>https://squiggy.github.io/tags/user-engagement/</link>
+      <link>https://squiggy.github.io/ut/tags/user-engagement/</link>
       <pubDate>Fri, 28 Dec 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/user-engagement/</guid>
+      <guid>https://squiggy.github.io/ut/tags/user-engagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uxfund</title>
-      <link>https://squiggy.github.io/tags/uxfund/</link>
+      <link>https://squiggy.github.io/ut/tags/uxfund/</link>
       <pubDate>Thu, 10 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/uxfund/</guid>
+      <guid>https://squiggy.github.io/ut/tags/uxfund/</guid>
       <description></description>
     </item>
     
     <item>
       <title>smallgrants</title>
-      <link>https://squiggy.github.io/tags/smallgrants/</link>
+      <link>https://squiggy.github.io/ut/tags/smallgrants/</link>
       <pubDate>Fri, 03 Mar 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/smallgrants/</guid>
+      <guid>https://squiggy.github.io/ut/tags/smallgrants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personas</title>
-      <link>https://squiggy.github.io/tags/personas/</link>
+      <link>https://squiggy.github.io/ut/tags/personas/</link>
       <pubDate>Tue, 20 Sep 2016 11:49:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/personas/</guid>
+      <guid>https://squiggy.github.io/ut/tags/personas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resources</title>
-      <link>https://squiggy.github.io/tags/resources/</link>
+      <link>https://squiggy.github.io/ut/tags/resources/</link>
       <pubDate>Tue, 20 Sep 2016 11:49:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/resources/</guid>
+      <guid>https://squiggy.github.io/ut/tags/resources/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uxforum</title>
-      <link>https://squiggy.github.io/tags/uxforum/</link>
+      <link>https://squiggy.github.io/ut/tags/uxforum/</link>
       <pubDate>Tue, 20 Sep 2016 11:49:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/uxforum/</guid>
+      <guid>https://squiggy.github.io/ut/tags/uxforum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>feedback</title>
-      <link>https://squiggy.github.io/tags/feedback/</link>
+      <link>https://squiggy.github.io/ut/tags/feedback/</link>
       <pubDate>Tue, 20 Sep 2016 11:35:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/feedback/</guid>
+      <guid>https://squiggy.github.io/ut/tags/feedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tft</title>
-      <link>https://squiggy.github.io/tags/tft/</link>
+      <link>https://squiggy.github.io/ut/tags/tft/</link>
       <pubDate>Tue, 20 Sep 2016 11:35:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/tft/</guid>
+      <guid>https://squiggy.github.io/ut/tags/tft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>training</title>
-      <link>https://squiggy.github.io/tags/training/</link>
+      <link>https://squiggy.github.io/ut/tags/training/</link>
       <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/training/</guid>
+      <guid>https://squiggy.github.io/ut/tags/training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>usertesting</title>
-      <link>https://squiggy.github.io/tags/usertesting/</link>
+      <link>https://squiggy.github.io/ut/tags/usertesting/</link>
       <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/usertesting/</guid>
+      <guid>https://squiggy.github.io/ut/tags/usertesting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>accessibility</title>
-      <link>https://squiggy.github.io/tags/accessibility/</link>
+      <link>https://squiggy.github.io/ut/tags/accessibility/</link>
       <pubDate>Wed, 06 Jul 2016 15:01:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/accessibility/</guid>
+      <guid>https://squiggy.github.io/ut/tags/accessibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://squiggy.github.io/tags/design/</link>
+      <link>https://squiggy.github.io/ut/tags/design/</link>
       <pubDate>Wed, 06 Jul 2016 15:01:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/design/</guid>
+      <guid>https://squiggy.github.io/ut/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>usability</title>
-      <link>https://squiggy.github.io/tags/usability/</link>
+      <link>https://squiggy.github.io/ut/tags/usability/</link>
       <pubDate>Wed, 06 Jul 2016 15:01:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/usability/</guid>
+      <guid>https://squiggy.github.io/ut/tags/usability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ux</title>
-      <link>https://squiggy.github.io/tags/ux/</link>
+      <link>https://squiggy.github.io/ut/tags/ux/</link>
       <pubDate>Wed, 06 Jul 2016 15:01:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/ux/</guid>
+      <guid>https://squiggy.github.io/ut/tags/ux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>medium</title>
-      <link>https://squiggy.github.io/tags/medium/</link>
+      <link>https://squiggy.github.io/ut/tags/medium/</link>
       <pubDate>Fri, 22 Apr 2016 10:57:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/medium/</guid>
+      <guid>https://squiggy.github.io/ut/tags/medium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>originstory</title>
-      <link>https://squiggy.github.io/tags/originstory/</link>
+      <link>https://squiggy.github.io/ut/tags/originstory/</link>
       <pubDate>Fri, 22 Apr 2016 10:57:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/originstory/</guid>
+      <guid>https://squiggy.github.io/ut/tags/originstory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hcd</title>
-      <link>https://squiggy.github.io/tags/hcd/</link>
+      <link>https://squiggy.github.io/ut/tags/hcd/</link>
       <pubDate>Thu, 28 Jan 2016 13:29:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/hcd/</guid>
+      <guid>https://squiggy.github.io/ut/tags/hcd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>humancentereddesign</title>
-      <link>https://squiggy.github.io/tags/humancentereddesign/</link>
+      <link>https://squiggy.github.io/ut/tags/humancentereddesign/</link>
       <pubDate>Thu, 28 Jan 2016 13:29:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/humancentereddesign/</guid>
+      <guid>https://squiggy.github.io/ut/tags/humancentereddesign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adids</title>
-      <link>https://squiggy.github.io/tags/adids/</link>
+      <link>https://squiggy.github.io/ut/tags/adids/</link>
       <pubDate>Sat, 21 Nov 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/adids/</guid>
+      <guid>https://squiggy.github.io/ut/tags/adids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>levelup</title>
-      <link>https://squiggy.github.io/tags/levelup/</link>
+      <link>https://squiggy.github.io/ut/tags/levelup/</link>
       <pubDate>Sat, 21 Nov 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/levelup/</guid>
+      <guid>https://squiggy.github.io/ut/tags/levelup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>update</title>
-      <link>https://squiggy.github.io/tags/update/</link>
+      <link>https://squiggy.github.io/ut/tags/update/</link>
       <pubDate>Sat, 21 Nov 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/update/</guid>
+      <guid>https://squiggy.github.io/ut/tags/update/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshop</title>
-      <link>https://squiggy.github.io/tags/workshop/</link>
+      <link>https://squiggy.github.io/ut/tags/workshop/</link>
       <pubDate>Sat, 21 Nov 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/workshop/</guid>
+      <guid>https://squiggy.github.io/ut/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>launch</title>
-      <link>https://squiggy.github.io/tags/launch/</link>
+      <link>https://squiggy.github.io/ut/tags/launch/</link>
       <pubDate>Fri, 09 Oct 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/tags/launch/</guid>
+      <guid>https://squiggy.github.io/ut/tags/launch/</guid>
       <description></description>
     </item>
     

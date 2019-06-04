@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>training on USABLE Tools</title>
-    <link>https://squiggy.github.io/tags/training/</link>
+    <link>https://squiggy.github.io/ut/tags/training/</link>
     <description>Recent content in training on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jul 2016 10:47:00 +0000</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/tags/training/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/ut/tags/training/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>User Testing in Digital Security Training</title>
-      <link>https://squiggy.github.io/blog/2016-07-07-usertesting/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-07-07-usertesting/</link>
       <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-07-07-usertesting/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-07-07-usertesting/</guid>
       <description>&lt;p&gt;During our first Tool Feedback Training, we faced some natural reluctance to &amp;ldquo;complain&amp;rdquo; about a tool being trained upon, which was magnified by the effect of having a representative from the tool in the training.  To accommodate this, we leveraged the high number of facilitators during each hands-on activity to gather observational data. The trainer would set a short goal (create an account, create a record, share a record), and the participants would work in small groups to accomplish this task, with a facilitator observing each group to note where confusion or problems were occurring.  To balance this with maintaining the flow of the training, the facilitators would keep each group from floundering, and the trainer would review the process for everyone before moving onwards.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/TFT-usertesting.jpg&#34; alt=&#34;&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/TFT-usertesting.jpg&#34; alt=&#34;&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Yahoo!</title>
-      <link>https://squiggy.github.io/blog/2016-08-15-yahoo/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-08-15-yahoo/</link>
       <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-08-15-yahoo/</guid>
+      <guid>https://squiggy.github.io/ut/blog/2016-08-15-yahoo/</guid>
       <description>&lt;p&gt;Thanks to our friends over at &lt;a href=&#34;https://yahoobhrp.tumblr.com/post/148985458174/security-and-product-design-with-human-rights-in&#34; target=&#34;_blank&#34;&gt;Yahoo!&lt;/a&gt; for a great blog post outlining their amazing support of our work!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Learning how to balance design and training</title>
-      <link>https://squiggy.github.io/blog/2016-01-22-tft/</link>
+      <link>https://squiggy.github.io/ut/blog/2016-01-22-tft/</link>
       <pubDate>Thu, 28 Jan 2016 13:29:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2016-01-22-tft/</guid>
-      <description>&lt;p&gt;The USABLE team is halfway through our &lt;a href=&#34;https://squiggy.github.io/trainings.html&#34;&gt;Tool Feedback Training&lt;/a&gt; process, and the first two TFTs were hugely informative. We worked with groups doing amazing work while facing widely different challenges; including censorship, targeted malware, and situations where digital security problems can become physical security ones.&lt;/p&gt;
+      <guid>https://squiggy.github.io/ut/blog/2016-01-22-tft/</guid>
+      <description>&lt;p&gt;The USABLE team is halfway through our &lt;a href=&#34;https://squiggy.github.io/ut/trainings.html&#34;&gt;Tool Feedback Training&lt;/a&gt; process, and the first two TFTs were hugely informative. We worked with groups doing amazing work while facing widely different challenges; including censorship, targeted malware, and situations where digital security problems can become physical security ones.&lt;/p&gt;
 
-&lt;p&gt;One of the concerns we had going in to this process was balancing the digital security training for the participants with human-centered design exercises, which is why we spent so much time working through this during our &lt;a href=&#34;https://squiggy.github.io/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One of the concerns we had going in to this process was balancing the digital security training for the participants with human-centered design exercises, which is why we spent so much time working through this during our &lt;a href=&#34;https://squiggy.github.io/ut/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In both trainings however, the participants not only responded enthusiastically to the design exercises we conducted, but expressed ongoing interest in applying design thinking to their project work. The design-centric agenda items have actually meshed well with the digital security curricula, engaging participants in the design process, creating users personas, and supporting the tool developers in coming up with prototyped design changes. We&amp;rsquo;ll post soon on building user testing directly in to the training process.&lt;/p&gt;
 
 &lt;p&gt;The dSchool&amp;rsquo;s &lt;a href=&#34;https://dschool.stanford.edu/groups/designresources/wiki/4dbb2/The_Wallet_Project.html&#34; target=&#34;_blank&#34;&gt;Wallet Exercise&lt;/a&gt; has been very useful as a short, fun way to get into the mindset of design, as it leads you through a series of thought, listening, and feedback exercises with a partner. It - along with many of the other design exercises &amp;ndash; creates a great icebreaker effect by putting everyone on the same level as they work through a problem.&lt;/p&gt;
 
-&lt;p&gt;We&amp;rsquo;ve updated the &lt;a href=&#34;https://squiggy.github.io/trainings.html#schedule&#34;&gt;TFT schedule&lt;/a&gt; to better reflect how these first TFTs went - you&amp;rsquo;ll see a back-and-forth between threat modeling, design exercises, and tool trainings.&lt;/p&gt;</description>
+&lt;p&gt;We&amp;rsquo;ve updated the &lt;a href=&#34;https://squiggy.github.io/ut/trainings.html#schedule&#34;&gt;TFT schedule&lt;/a&gt; to better reflect how these first TFTs went - you&amp;rsquo;ll see a back-and-forth between threat modeling, design exercises, and tool trainings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Training and Design</title>
-      <link>https://squiggy.github.io/blog/2015-11-21-sdworkshop-trainings-and-design/</link>
+      <link>https://squiggy.github.io/ut/blog/2015-11-21-sdworkshop-trainings-and-design/</link>
       <pubDate>Sat, 21 Nov 2015 12:09:25 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/blog/2015-11-21-sdworkshop-trainings-and-design/</guid>
-      <description>&lt;p&gt;At the &lt;a href=&#34;https://squiggy.github.io/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;, we realized that our original plan of book-ending a classic digital security training with human centered design exercises was not ideal &amp;ndash; many elements of learning and exploration that are key to training are similarly core to collaborative design.&lt;/p&gt;
+      <guid>https://squiggy.github.io/ut/blog/2015-11-21-sdworkshop-trainings-and-design/</guid>
+      <description>&lt;p&gt;At the &lt;a href=&#34;https://squiggy.github.io/ut/2015/11/20/securitydesigworkshop.html&#34;&gt;Security and Design Workshop&lt;/a&gt;, we realized that our original plan of book-ending a classic digital security training with human centered design exercises was not ideal &amp;ndash; many elements of learning and exploration that are key to training are similarly core to collaborative design.&lt;/p&gt;
 
 &lt;p&gt;To test this out, we spent one afternoon running a digital security training on mobile security. We based the training on the &lt;a href=&#34;https://www.level-up.cc/resources-for-trainers/pedagogical-resources/adult-learners&#34;&gt;ADIDS adult-learning approach&lt;/a&gt;, and used a selection of &lt;a href=&#34;https://www.level-up.cc&#34;&gt;Level Up curricula&lt;/a&gt; components, integrating human-centered design components into the flow of the training.  The rest of this post will run through the components of the training and the outcomes from it.&lt;/p&gt;</description>
     </item>
