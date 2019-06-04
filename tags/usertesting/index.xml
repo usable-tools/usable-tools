@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>usertesting on USABLE Tools</title>
+    <link>https://squiggy.github.io/ut/tags/usertesting/</link>
+    <description>Recent content in usertesting on USABLE Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2016 10:47:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://squiggy.github.io/ut/tags/usertesting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>User Testing in Digital Security Training</title>
+      <link>https://squiggy.github.io/ut/blog/2016-07-07-usertesting/</link>
+      <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/2016-07-07-usertesting/</guid>
+      <description>&lt;p&gt;During our first Tool Feedback Training, we faced some natural reluctance to &amp;ldquo;complain&amp;rdquo; about a tool being trained upon, which was magnified by the effect of having a representative from the tool in the training.  To accommodate this, we leveraged the high number of facilitators during each hands-on activity to gather observational data. The trainer would set a short goal (create an account, create a record, share a record), and the participants would work in small groups to accomplish this task, with a facilitator observing each group to note where confusion or problems were occurring.  To balance this with maintaining the flow of the training, the facilitators would keep each group from floundering, and the trainer would review the process for everyone before moving onwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/TFT-usertesting.jpg&#34; alt=&#34;&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yahoo!</title>
+      <link>https://squiggy.github.io/ut/blog/2016-08-15-yahoo/</link>
+      <pubDate>Thu, 07 Jul 2016 10:47:00 +0000</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/2016-08-15-yahoo/</guid>
+      <description>&lt;p&gt;Thanks to our friends over at &lt;a href=&#34;https://yahoobhrp.tumblr.com/post/148985458174/security-and-product-design-with-human-rights-in&#34; target=&#34;_blank&#34;&gt;Yahoo!&lt;/a&gt; for a great blog post outlining their amazing support of our work!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

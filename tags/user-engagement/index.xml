@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>user-engagement on USABLE Tools</title>
+    <link>https://squiggy.github.io/ut/tags/user-engagement/</link>
+    <description>Recent content in user-engagement on USABLE Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Dec 2018 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://squiggy.github.io/ut/tags/user-engagement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcing New USABLE Personas</title>
+      <link>https://squiggy.github.io/ut/blog/2018-12-28-new-usable-personas/</link>
+      <pubDate>Fri, 28 Dec 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/2018-12-28-new-usable-personas/</guid>
+      <description>Through a series of regional User Experience (UX) Workshops, the USABLE project is enhancing digital security trainers’ understanding of specific usability roadblocks that hinder adoption of important security practices for the highest risk groups across the globe and how to capture and articulate these challenges to tool developers.</description>
+    </item>
+    
+    <item>
+      <title>USABLE at RightsCon Toronto</title>
+      <link>https://squiggy.github.io/ut/blog/2018-05-10-usable-at-rightscon/</link>
+      <pubDate>Thu, 10 May 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/2018-05-10-usable-at-rightscon/</guid>
+      <description>In response to the emerging security and privacy concerns in product and user experience design, we would like to invite you to the UX/Tech Meetup at RightsCon Toronto on behalf of Internews and Access Now.</description>
+    </item>
+    
+    <item>
+      <title>USABLE at the Internet Freedom Festival</title>
+      <link>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</link>
+      <pubDate>Fri, 03 Mar 2017 11:00:00 +0000</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</guid>
+      <description>The USABLE team is excited to be gearing up for the Internet Freedom Festival this year to contiue sharing lessons learned by developers looking to listen and engage with their users.</description>
+    </item>
+    
+  </channel>
+</rss>

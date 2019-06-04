@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personas on USABLE Tools</title>
+    <link>https://squiggy.github.io/ut/tags/personas/</link>
+    <description>Recent content in personas on USABLE Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2016 11:49:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://squiggy.github.io/ut/tags/personas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>USABLE Updates, Resources and more!</title>
+      <link>https://squiggy.github.io/ut/blog/2016-09-19-followingup/</link>
+      <pubDate>Tue, 20 Sep 2016 11:49:01 +0000</pubDate>
+      
+      <guid>https://squiggy.github.io/ut/blog/2016-09-19-followingup/</guid>
+      <description>We can&amp;rsquo;t believe it&amp;rsquo;s been two months since the UXForum! To be fair, we had a lot of sleep to catch up on, and there have been some exciting staff transitions over on our team.</description>
+    </item>
+    
+  </channel>
+</rss>

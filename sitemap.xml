@@ -34,17 +34,7 @@
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/events/event-example/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://squiggy.github.io/ut/blog/</loc>
-    <lastmod>2019-05-20T23:50:48-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/events/event-example2/</loc>
     <lastmod>2019-05-20T23:50:48-07:00</lastmod>
   </url>
   
@@ -59,119 +49,227 @@
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example3/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example5/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example4/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example1/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example2/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/personas/persona-example0/</loc>
-    <lastmod>2019-05-20T23:15:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example34/</loc>
-    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2018-12-28-new-usable-personas/</loc>
+    <lastmod>2018-12-28T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://squiggy.github.io/ut/tags/</loc>
-    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <lastmod>2018-12-28T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/tags/development/</loc>
-    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/tags/user-engagement/</loc>
+    <lastmod>2018-12-28T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/tags/go/</loc>
-    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2018-05-10-usable-at-rightscon/</loc>
+    <lastmod>2018-05-10T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/uxfund/</loc>
+    <lastmod>2018-05-10T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/tags/golang/</loc>
-    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</loc>
+    <lastmod>2017-03-03T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/smallgrants/</loc>
+    <lastmod>2017-03-03T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/tags/templates/</loc>
-    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2016-12-28-uxfund-results/</loc>
+    <lastmod>2016-12-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2016-09-19-followingup/</loc>
+    <lastmod>2016-09-20T11:49:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/personas/</loc>
+    <lastmod>2016-09-20T11:49:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/tags/themes/</loc>
-    <lastmod>2019-05-02T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/tags/resources/</loc>
+    <lastmod>2016-09-20T11:49:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example33/</loc>
-    <lastmod>2019-04-20T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/tags/uxforum/</loc>
+    <lastmod>2016-09-20T11:49:01+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example32/</loc>
-    <lastmod>2016-11-02T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2016-09-15-powertotheusers/</loc>
+    <lastmod>2016-09-20T11:35:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example30/</loc>
-    <lastmod>2016-08-12T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/tags/feedback/</loc>
+    <lastmod>2016-09-20T11:35:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example3/</loc>
-    <lastmod>2016-07-01T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/tags/tft/</loc>
+    <lastmod>2016-09-20T11:35:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example2/</loc>
-    <lastmod>2016-03-20T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2016-09-15-uxfundextension/</loc>
+    <lastmod>2016-09-15T20:21:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example1/</loc>
-    <lastmod>2016-02-20T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2016-07-07-usertesting/</loc>
+    <lastmod>2016-07-07T10:47:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example0/</loc>
-    <lastmod>2016-01-12T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/blog/2016-08-15-yahoo/</loc>
+    <lastmod>2016-07-07T10:47:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://squiggy.github.io/ut/blog/blog-example/</loc>
-    <lastmod>2014-05-20T23:50:48-07:00</lastmod>
+    <loc>https://squiggy.github.io/ut/tags/training/</loc>
+    <lastmod>2016-07-07T10:47:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/usertesting/</loc>
+    <lastmod>2016-07-07T10:47:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2016-07-06-protecting-high-risk-users/</loc>
+    <lastmod>2016-07-06T15:01:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/accessibility/</loc>
+    <lastmod>2016-07-06T15:01:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/design/</loc>
+    <lastmod>2016-07-06T15:01:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/usability/</loc>
+    <lastmod>2016-07-06T15:01:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/ux/</loc>
+    <lastmod>2016-07-06T15:01:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2016-06-17-uxforum/</loc>
+    <lastmod>2016-06-17T16:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2016-04-22-originstories/</loc>
+    <lastmod>2016-04-22T10:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/medium/</loc>
+    <lastmod>2016-04-22T10:57:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/originstory/</loc>
+    <lastmod>2016-04-22T10:57:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2016-01-22-tft/</loc>
+    <lastmod>2016-01-28T13:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/hcd/</loc>
+    <lastmod>2016-01-28T13:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/humancentereddesign/</loc>
+    <lastmod>2016-01-28T13:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2015-11-21-sdworkshop-trainings-and-design/</loc>
+    <lastmod>2015-11-21T12:09:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/adids/</loc>
+    <lastmod>2015-11-21T12:09:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/levelup/</loc>
+    <lastmod>2015-11-21T12:09:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/update/</loc>
+    <lastmod>2015-11-21T12:09:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/workshop/</loc>
+    <lastmod>2015-11-21T12:09:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2015-11-20-securitydesigworkshop/</loc>
+    <lastmod>2015-11-20T12:09:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/blog/2015-10-09-announcing-usable/</loc>
+    <lastmod>2015-10-09T12:09:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://squiggy.github.io/ut/tags/launch/</loc>
+    <lastmod>2015-10-09T12:09:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
