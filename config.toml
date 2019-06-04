@@ -22,7 +22,7 @@ summaryLength = 20
     email = "connect@usable.tools"
     twitter = "https://twitter.com/USABLE_tools"
     github = "https://github.com/OpenInternet/USABLE"
-    feed = "https://usable.tools/feed.xml"
+    feed = "index.xml"
 
   [params.sub_footer]
     attribution = '</p>Usable tools is run and operated by <a href="https://internews.org">Internews</a>'
