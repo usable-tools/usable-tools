@@ -1,13 +1,13 @@
 ---
 title: "L. N."
-image: "images/personas/90f47e10f1b3978758ae123751736389.png"
+image: "/images/personas/cn-ln.png"
 role: "Women's Rights Activist"
 gender: "Woman"
 country: "China"
 short_quote: '"My ideal homeland is one where women are treated with respect and have equal access to education and work opportunities"'
 date: 2019-05-20T23:15:28-07:00
 pdf: "/pdfs/personas/persona-example.pdf"
-draft: false
+draft: true
 ---
 
 ## Overview

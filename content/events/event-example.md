@@ -1,9 +1,9 @@
 ---
 title: "Another Event"
 date: 2019-05-20T23:50:48-07:00
-eventdate: 2018-07-20T23:50:48-07:00
+eventdate: 2019-01-20T23:50:48-07:00
 main_image: "images/events/calendar_bg.png"
-draft: false
+draft: true
 ---
 
 ## Heading two
