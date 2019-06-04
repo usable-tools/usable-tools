@@ -1,8 +1,8 @@
-baseURL = "https://squiggy.github.io/ut/"
+# baseURL = "https://squiggy.github.io/"
 languageCode = "en-us"
 title = "USABLE Tools"
 
-paginate = 5
+paginate = 12
 summaryLength = 20
 
 [params]
