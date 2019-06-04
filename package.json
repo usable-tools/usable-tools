@@ -12,7 +12,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "list.js": "^1.5.0"
-  }
+  "dependencies": {}
 }
