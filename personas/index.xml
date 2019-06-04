@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personas on USABLE Tools</title>
-    <link>https://squiggy.github.io/ut/personas/</link>
+    <link>https://squiggy.github.io/personas/</link>
     <description>Recent content in Personas on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2019 23:50:48 -0700</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/ut/personas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/personas/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

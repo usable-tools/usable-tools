@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uxfund on USABLE Tools</title>
-    <link>https://squiggy.github.io/ut/tags/uxfund/</link>
+    <link>https://squiggy.github.io/tags/uxfund/</link>
     <description>Recent content in uxfund on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 May 2018 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/ut/tags/uxfund/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/tags/uxfund/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>USABLE at RightsCon Toronto</title>
-      <link>https://squiggy.github.io/ut/blog/2018-05-10-usable-at-rightscon/</link>
+      <link>https://squiggy.github.io/blog/2018-05-10-usable-at-rightscon/</link>
       <pubDate>Thu, 10 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/ut/blog/2018-05-10-usable-at-rightscon/</guid>
+      <guid>https://squiggy.github.io/blog/2018-05-10-usable-at-rightscon/</guid>
       <description>In response to the emerging security and privacy concerns in product and user experience design, we would like to invite you to the UX/Tech Meetup at RightsCon Toronto on behalf of Internews and Access Now.</description>
     </item>
     
     <item>
       <title>USABLE at the Internet Freedom Festival</title>
-      <link>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</link>
+      <link>https://squiggy.github.io/blog/2017-03-03-usable-at-iff/</link>
       <pubDate>Fri, 03 Mar 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/ut/blog/2017-03-03-usable-at-iff/</guid>
+      <guid>https://squiggy.github.io/blog/2017-03-03-usable-at-iff/</guid>
       <description>The USABLE team is excited to be gearing up for the Internet Freedom Festival this year to contiue sharing lessons learned by developers looking to listen and engage with their users.</description>
     </item>
     
     <item>
       <title>Announcing the UXFund Results!</title>
-      <link>https://squiggy.github.io/ut/blog/2016-12-28-uxfund-results/</link>
+      <link>https://squiggy.github.io/blog/2016-12-28-uxfund-results/</link>
       <pubDate>Wed, 28 Dec 2016 08:00:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/ut/blog/2016-12-28-uxfund-results/</guid>
+      <guid>https://squiggy.github.io/blog/2016-12-28-uxfund-results/</guid>
       <description>The USABLE team is proud to announce the UXFund results for the small, but targeted usability enhancement grants. Many great proposals were received and, after a thorough review process, five organizations for short-term awards were selected.</description>
     </item>
     
     <item>
       <title>Power to the Users -- From trainings to the UXForum and onwards.</title>
-      <link>https://squiggy.github.io/ut/blog/2016-09-15-powertotheusers/</link>
+      <link>https://squiggy.github.io/blog/2016-09-15-powertotheusers/</link>
       <pubDate>Tue, 20 Sep 2016 11:35:00 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/ut/blog/2016-09-15-powertotheusers/</guid>
+      <guid>https://squiggy.github.io/blog/2016-09-15-powertotheusers/</guid>
       <description>&lt;p&gt;Three years ago, I led a digital security training for independent media in Kyiv during the peak of the EuroMaidan protests. &lt;a href=&#34;https://medium.com/local-voices-global-change/what-good-are-secure-communications-tools-if-no-one-uses-them-690ce2bdf9ec#.hla4lsxya&#34;&gt;It didn&amp;rsquo;t go as planned&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This spring, we returned.  We worked with an amazingly skilled trainer who led the local &lt;a href=&#34;https://dss380.org/&#34;&gt;Digital Security School&lt;/a&gt; which had since emerged thanks to the hard work of &lt;a href=&#34;https://equalit.ie/&#34;&gt;eQualit.ie&lt;/a&gt;, and we brought together an amazing community of experts and practitioners who face complex challenges in their work as they dealt with the repercussions of the post-Maidan Ukrainian reality.  This alone would have made for a successful training; but our goal with USABLE is to scale beyond this and get to underlying problems around tool uptake.  So, we also brought a designer (who is now leading frog design&amp;rsquo;s social impact team) and a developer who led a digital security tool that the community was interested in learning more about.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/uxforum-bigboard.jpg&#34; alt=&#34;Notes on strong passwords and laptop security from the UXForum&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/uxforum-bigboard.jpg&#34; alt=&#34;Notes on strong passwords and laptop security from the UXForum&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;Building this &amp;ldquo;Tool Feedback Training&amp;rdquo; approach to connecting high-risk users and tool developers through the training and design process, and the results we have already achieved, has been an amazing journey.  It may &amp;ndash; and should &amp;ndash; seem simple, but the complexities of making that precise connection is far too often presumed, but not actually done. Real people facing very specific and complex security challenges become an amorphous &amp;ldquo;they.&amp;rdquo; &amp;ldquo;They&amp;rdquo; needs many things from constant, bleeding-edge security improvements to changes supporting very specific use cases; but it turns out that if you actually engage the people beyond the &amp;ldquo;they&amp;rdquo; - that you learn real, often simple, changes in user experience are the path forward.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UXFund: Extended to September 30!</title>
-      <link>https://squiggy.github.io/ut/blog/2016-09-15-uxfundextension/</link>
+      <link>https://squiggy.github.io/blog/2016-09-15-uxfundextension/</link>
       <pubDate>Thu, 15 Sep 2016 20:21:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/ut/blog/2016-09-15-uxfundextension/</guid>
+      <guid>https://squiggy.github.io/blog/2016-09-15-uxfundextension/</guid>
       <description>We are extending the UXFund deadline for two more weeks - through Sep. 30! Apply Today!.</description>
     </item>
     

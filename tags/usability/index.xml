@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>usability on USABLE Tools</title>
-    <link>https://squiggy.github.io/ut/tags/usability/</link>
+    <link>https://squiggy.github.io/tags/usability/</link>
     <description>Recent content in usability on USABLE Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Jul 2016 15:01:01 +0000</lastBuildDate>
     
-	<atom:link href="https://squiggy.github.io/ut/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://squiggy.github.io/tags/usability/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Protecting High-Risk Tech Users: A Movement for Usability</title>
-      <link>https://squiggy.github.io/ut/blog/2016-07-06-protecting-high-risk-users/</link>
+      <link>https://squiggy.github.io/blog/2016-07-06-protecting-high-risk-users/</link>
       <pubDate>Wed, 06 Jul 2016 15:01:01 +0000</pubDate>
       
-      <guid>https://squiggy.github.io/ut/blog/2016-07-06-protecting-high-risk-users/</guid>
+      <guid>https://squiggy.github.io/blog/2016-07-06-protecting-high-risk-users/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Connecting developers with users improves tools for human rights defenders&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Janvier Hakizimana has a radical idea.&lt;/p&gt;
@@ -25,7 +25,7 @@
 
 &lt;p&gt;Adaptation — making tech tools more open, accessible, and customizable — matters in Janvier’s line of work. He works to support human rights defenders in the East and Horn of Africa who need secure tools to document and report human rights violations.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/ut/images/blog/usability-secure-apps-screen readers_Credit_Mariel Garcia M.jpg&#34; alt=&#34;Testing the usability of secure apps through screen readers, at a USABLE training in Mexico. Credit: Mariel Garcia&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;
+&lt;p&gt;&lt;img src=&#34;https://squiggy.github.io/images/blog/usability-secure-apps-screen readers_Credit_Mariel Garcia M.jpg&#34; alt=&#34;Testing the usability of secure apps through screen readers, at a USABLE training in Mexico. Credit: Mariel Garcia&#34; style=&#34;width: 100%; height: auto;&#34;/&gt;
 &lt;em&gt;Testing the usability of secure apps through screen readers, at a USABLE training in Mexico. Credit: Mariel Garcia M&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;When a tool can’t adapt to local conditions — when it is entirely reliant on an internet connection, for example, users in low-connectivity areas may not be able to use it on a broad scale.&lt;/p&gt;
