@@ -20,32 +20,40 @@
 <div class="strip strip-grey">
   <div class="container whitebox">
     {{ if lt .Paginator.PageNumber 2 }}
+    {{ if .Params.main_image }}
       <div class="row blog-featured">
         {{ range first 1 .Pages.ByPublishDate.Reverse }}
-        <div class="col-12 col-md-8">
-          <div class="main-photo">
-            <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a>
+          <div class="col-12 col-md-8">
+            <div class="main-photo">
+              <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a>
+            </div>
           </div>
-        </div>
-        <div class="col-12 col-md-4 text-padding">
-          <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
-          <div class="summary"> <a href="{{ .Permalink }}"> {{ .Summary }} </a></div>
-          <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
-          <div class="by-line">By {{ .Params.author }}</div>
-          <div class="publish-date">{{ .Date.Format "January 2, 2006" }}</div>
-        </div>
+          <div class="col-12 col-md-4 text-padding">
+            <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
+            <div class="summary"> <a href="{{ .Permalink }}"> {{ .Summary }} </a></div>
+            <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
+            <div class="by-line">By {{ .Params.author }}</div>
+            <div class="publish-date">{{ .Date.Format "January 2, 2006" }}</div>
+          </div>
         {{ end }}
       </div>
+    {{ end }}
+
+    {{ if .Params.main_image }}
       <div class="row">
         <div class="col-12">
           <p>Previous posts:</p>
         </div>
       </div>
     {{ end }}
+
+    {{ end }}
     <div class="row">
       {{ range (.Paginate (after 1 .Pages.ByPublishDate.Reverse)).Pages }}
         <div class="col-12 col-md-4 blog-item">
-          <div class="main-photo"><a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a></div>
+          {{ if .Params.main_image }}
+            <div class="main-photo"><a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a></div>
+          {{ end }}
           <h3><a href="{{ .Permalink }}">{{ .Title}}</a></h3>
           <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
           <div class="by-line">By {{ .Params.author }}</div>

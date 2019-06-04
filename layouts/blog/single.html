@@ -17,10 +17,12 @@
           <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
           <div class="by-line">By {{ .Params.author }}</div>
           <div class="publish-date">{{ .PublishDate.Format "January 2, 2006" }}</div>
-          <div class="main-photo">
-            <img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" />
-            <div class="main-caption small"> {{ .Params.main_image_caption }} </div>
-          </div>
+          {{ if .Params.main_image }}
+            <div class="main-photo">
+              <img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" />
+              <div class="main-caption small"> {{ .Params.main_image_caption }} </div>
+            </div>
+          {{ end }}
           <div class="content">
             {{.Content}}
           </div>
