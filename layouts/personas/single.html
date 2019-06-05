@@ -5,17 +5,22 @@
 {{ define "main" }}
   <div class="strip strip-grey">
     <div class="container whitebox">
-      <div class="row">
-        <div clas="col-12">
-          {{ partial "breadcrumbs.html" . }}
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-12 col-md-11">
-          <div class="persona persona-single">
+      <div class="persona persona-single">
+        <div class="row">
+          <div clas="col-12">
+            {{ partial "breadcrumbs.html" . }}
             <div class="persona-pdf small"><a href="{{ .Site.BaseURL }}{{ .Params.pdf }}">Download as PDF</a></div>
-            <div class="persona-photo"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" /></div>
-            <h1 class="title">{{ .Params.country}}: {{.Title}}</h1>
+
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-12 col-md-4">
+            <div class="main-photo persona-photo"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" /></div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-12 col-md-11">
+            <h1 class="title">{{.Title}}</h1>
             <div class="role"> {{ .Params.role }}</div>
             <div class="quote"> {{ .Params.short_quote }}</div>
             <div class="content">

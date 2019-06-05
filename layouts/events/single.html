@@ -9,7 +9,6 @@
       <div class="col-12 col-md-8">
         <div class="event event-single">
           <h1 class="title">{{.Title}}</h1>
-          <div class="publish-date"><strong>Event date:</strong> {{ dateFormat "Monday, Jan 2, 2006, 3:4AM" .Params.eventdate }}</div>
           <div class="main-photo"><img src="{{ .Site.BaseURL }}/{{ .Params.main_image }}" alt="Edit me" /></div>
           <div class="content">
             {{.Content}}

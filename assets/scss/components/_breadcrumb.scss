@@ -1,6 +1,7 @@
 .breadcrumb {
   background-color: transparent;
   color: $light-blue;
+  padding-top: 0;
 
   .breadcrumb-item {
     + .breadcrumb-item::before {

@@ -19,7 +19,7 @@
     margin-top: 0;
   }
   .usable-blue-box {
-    background-color: $secondary;
+    background: $secondary url(../images/usable-circle_vector.svg) no-repeat -6% top;
     border-radius: 1rem;
     color: #fff;
     padding: 2rem;
@@ -29,6 +29,7 @@
     }
   }
   .usable-blue-white-box {
+    background: #fff url(../images/usable-smile_vector-light.svg) no-repeat 4% 74%;
     border: $secondary solid 1px;
     border-radius: 1rem;
     padding: 2rem;
@@ -37,5 +38,10 @@
     h2 {
       color: $secondary;
     }
+  }
+  h2#who-we-work-with {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 4rem;
   }
 }

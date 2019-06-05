@@ -16,7 +16,7 @@ For needfinding, USABLE is integrating core aspects of the <a href="http://inter
 For the rest of the workshop, we worked on integrating HCD practices into the training process.  The final day began with a series of human centered design exercises led by <a href="https://www.thoughtworks.com/" target="_blank">ThoughtWorks</a> that would be adaptable for the TFT scenarios, from introductory exercises to more practical ones, such as having participants design the training or manual for a tool as a way to focus the tool's actual interface on those aspects that truly require training, as opposed to those which could be set to secure defaults, automated, or provided as "advanced" options.
 
 ### Learnings
-<!--more-->
+
 
 #### Blending training with design
 

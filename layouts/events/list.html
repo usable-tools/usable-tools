@@ -25,7 +25,6 @@
       </div>
       <div class="col-12 col-md-6 event-list-content">
         <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
-        <div class="publish-date"><strong>Event date:</strong> {{ dateFormat "Monday, Jan 2, 2006, 3:4AM" .Params.eventdate }}</div>
         <div class="summar"> {{ .Summary }} </div>
         <div class="event-more-link"><a href="{{ .Permalink }}">Find out more</a></div>
       </div>

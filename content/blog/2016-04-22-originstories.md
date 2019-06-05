@@ -8,7 +8,7 @@ Over at Medium, we just published <a href="https://medium.com/local-voices-globa
 
 <img src="/images/blog/EuroMaidan_ccby_Alexandra Gnatoush-Flickr.jpg" alt="Ukraine’s EuroMaidan protest. Photo by Alexandra (Nessa) Gnatoush - ccby / Flickr" style="width: 100%; height: auto;"/>
 <span align="right" style="font-size: .75em !important; color: #888 !important;">Ukraine’s EuroMaidan protest. Photo by Alexandra (Nessa) Gnatoush - <a href="https://www.flickr.com/photos/nessa_flame/11503772463/in/photostream/" target="_blank">Flickr</a></span>
-<!--more-->
+
 
 ### What Good Are Secure Communications Tools if No One Uses Them?
 

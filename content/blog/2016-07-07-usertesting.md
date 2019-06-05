@@ -10,7 +10,7 @@ During our first Tool Feedback Training, we faced some natural reluctance to "co
 
 <img src="/images/blog/TFT-usertesting.jpg" alt="" style="width: 100%; height: auto;"/>
 
-<!--more-->
+
 
 This essentially provided user testing during the <a href="https://www.level-up.cc/leading-trainings/preparing-ADIDS-sessions/" target="_blank">ADIDS</a> "deepening" stage by encouraging exploration to achieve these goals. Between activities, the facilitators could dive in and ask more about the problematic parts of the process without embarrassing either the tool developer or individual participants.
 

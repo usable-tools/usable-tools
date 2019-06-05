@@ -39,6 +39,10 @@
 // Libraries
 @import 'libraries/hamburgers/hamburgers';
 
+// Slick
+@import 'slick/slick';
+@import 'slick/slick-theme';
+
 // Components
 @import 'components/reset';
 @import 'components/page';
@@ -62,6 +66,8 @@
 @import 'components/smile';
 @import 'components/breadcrumb';
 @import 'components/page-default-list';
+@import 'components/about-carousel';
+
 
 // Font Awesome
 @import 'fontawesome/variables';

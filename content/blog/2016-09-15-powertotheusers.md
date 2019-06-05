@@ -15,7 +15,7 @@ This spring, we returned.  We worked with an amazingly skilled trainer who led t
 
 Building this "Tool Feedback Training" approach to connecting high-risk users and tool developers through the training and design process, and the results we have already achieved, has been an amazing journey.  It may -- and should -- seem simple, but the complexities of making that precise connection is far too often presumed, but not actually done. Real people facing very specific and complex security challenges become an amorphous "they." "They" needs many things from constant, bleeding-edge security improvements to changes supporting very specific use cases; but it turns out that if you actually engage the people beyond the "they" - that you learn real, often simple, changes in user experience are the path forward.
 
-<!--more-->
+
 
 The Kyiv training followed tightly on the heels of another, and we then went on to test this approach out in 5 total communities across the globe, from LGBTI activists to election monitors to media activists to women journalists to persons with disabilities.  Each training blew our minds in new and amazing ways.  Can the tool protect you against both censorship and intense surveillance? Can it be used with a screen reader? Does it work offline if the network is shut down?
 

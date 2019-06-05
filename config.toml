@@ -1,11 +1,14 @@
-baseURL = "https://squiggy.github.io/ut"
+baseURL = "https://squiggy.github.io/"
 languageCode = "en-us"
 title = "USABLE Tools"
 
 paginate = 12
 summaryLength = 20
 
+
 [params]
+
+  mainSections = ["front_carousel"]
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a beautiful small business theme for Hugo (Static Site Generator). It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated."

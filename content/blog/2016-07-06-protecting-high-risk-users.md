@@ -24,7 +24,7 @@ Janvier supports human rights defenders, in part as a trainer for USABLE, a proj
 
 Next week, USABLE will hold its first UX Forum in San Francisco, bringing digital security trainers and activists from Africa, Latin America, Eastern Europe and the Middle East with developers in the center of US tech development, for three days of hands-on collaboration. USABLE’s focus on human-centered design focuses the process on the real-world needs of activists working on sexual orientation and gender identity rights, media, democracy, and human rights in challenging and threatening environments.
 
-<!--more-->
+
 
 Mariel Garcia M, a technologist and USABLE trainer in Mexico, has seen first-hand the real risks for activists. “[Mexico] is a country where activists are at great risk; not just of intervention of their communications, but they’re also at risk of death, and torture.”
 

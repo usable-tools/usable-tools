@@ -8,7 +8,7 @@ At the <a href="/2015/11/20/securitydesigworkshop.html">Security and Design Work
 
 To test this out, we spent one afternoon running a digital security training on mobile security. We based the training on the <a href="https://www.level-up.cc/resources-for-trainers/pedagogical-resources/adult-learners">ADIDS adult-learning approach</a>, and used a selection of <a href="https://www.level-up.cc">Level Up curricula</a> components, integrating human-centered design components into the flow of the training.  The rest of this post will run through the components of the training and the outcomes from it.
 
-<!--more-->
+
 
 The ADIDS model uses a mix of engagements to help adult participants learn a specific topic, starting with an opening Activity that introduces the topic in an engaging fashion, then Discussing the topic, then the lecture/training section ("Input"), followed by a hands-on "Deepening" - often installing and using a specific tool, and closing with a Synthesis that summarizes the entire topic and answers remaining questions. (Learn more about <a href="https://www.level-up.cc/leading-trainings/preparing-ADIDS-sessions">ADIDS at LevelUp</a>).
 

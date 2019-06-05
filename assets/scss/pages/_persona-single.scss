@@ -67,11 +67,12 @@
   }
   .persona-single {
     text-align: center;
+    position: relative;
   }
   .persona-pdf {
     position: absolute;
-    top: -50px;
-    right: 0.75rem;
+    top: 0px;
+    right: 0rem;
     a {
       color: $orange;
       padding-right: 1rem;
