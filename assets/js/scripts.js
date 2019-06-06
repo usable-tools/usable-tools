@@ -23,8 +23,8 @@
     dots: true,
     arrows: true,
     fade: true,
-    prevArrow: '<button class="prev-arrow"><i class="fas fa-arrow-left"></i></button>',
-    nextArrow: '<button class="next-arrow"><i class="fas fa-arrow-right"></i></button>'
+    prevArrow: '<button class="prev-arrow">Previous<i class="fas fa-arrow-left"></i></button>',
+    nextArrow: '<button class="next-arrow">Next<i class="fas fa-arrow-right"></i></button>'
   });
 
 })();

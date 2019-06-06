@@ -54,7 +54,7 @@
           {{ if .Params.main_image }}
             <div class="main-photo"><a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" alt="{{ .Params.main_image_caption }}"/></a></div>
           {{ end }}
-          <h3><a href="{{ .Permalink }}">{{ .Title}}</a></h3>
+          <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
           <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>
           <div class="by-line">By {{ .Params.author }}</div>
           <div class="publish-date">{{ .Date.Format "January 2, 2006" }}</div>

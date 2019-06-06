@@ -21,7 +21,7 @@
     {{ range (.Pages.ByParam "eventdate" ).Reverse }}
     <div class="row whitebox justify-content-left">
       <div class="col-12 col-md-6 event-list-photo">
-        <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}/{{ .Params.main_image }}" alt="{{ .Params.main_image_caption }}" /></a>
+        <img src="{{ .Site.BaseURL }}/{{ .Params.main_image }}" alt="{{ .Params.main_image_caption }}" />
       </div>
       <div class="col-12 col-md-6 event-list-content">
         <h2><a href="{{ .Permalink }}">{{ .Title}}</a></h2>
