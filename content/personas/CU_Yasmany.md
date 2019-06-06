@@ -1,6 +1,7 @@
 ---
 title: 'Cuba: "Yasmany""'
 image: "/images/personas/cu-yasmany.png"
+alt: Edit me
 role: "Journalist"
 country: "Cuba"
 gender: "Men"

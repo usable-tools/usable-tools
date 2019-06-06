@@ -25,7 +25,7 @@
         {{ range first 1 .Pages.ByPublishDate.Reverse }}
           <div class="col-12 col-md-8">
             <div class="main-photo">
-              <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a>
+              <a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" alt="{{ .Params.main_image_caption }} " /></a>
             </div>
           </div>
           <div class="col-12 col-md-4 text-padding">
@@ -52,7 +52,7 @@
       {{ range (.Paginate (after 1 .Pages.ByPublishDate.Reverse)).Pages }}
         <div class="col-12 col-md-4 blog-item">
           {{ if .Params.main_image }}
-            <div class="main-photo"><a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" /></a></div>
+            <div class="main-photo"><a href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" alt="{{ .Params.main_image_caption }}"/></a></div>
           {{ end }}
           <h3><a href="{{ .Permalink }}">{{ .Title}}</a></h3>
           <div class="float-left">{{ partial "usable-smile-icon.html" . }}</div>

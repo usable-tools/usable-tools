@@ -63,7 +63,7 @@
                   {{ end }}
                 </div>
                 <div class="col-12 col-md-5 order-md-1 align-self-center highlights-image">
-                  <div class="tour-img"><img src="{{ .Params.main_image }}" alt=".Title" /></div>
+                  <div class="tour-img"><img src="{{ .Params.main_image }}" alt="{{ .Params.main_image_caption }}" /></div>
                 </div>
               </div>
             </li>
@@ -71,18 +71,22 @@
         </ul>
       </div>
 
-      <div class="row justify-content-around personas">
-        <div class="col-12 col-md-5 align-self-center">
-          <div class="label-title personas-title"><i class="fas fa-users"></i> PERSONAS</div>
-          <h2>Meet the <span class="brown">Users</span></h2>
-          <p>Personas, or general profiles or snapshots of end users, play an important role in the tool design process and allow developers to better understand the needs and uses for their products in some of the most challenging environments in the world.</p>
+      {{ range .Site.Data.personas }}
+        <div class="row justify-content-around personas">
+          <div class="col-12 col-md-5 align-self-center">
+            <div class="label-title personas-title"><i class="fas fa-users"></i> PERSONAS</div>
+            <h2>Meet the <span class="brown">Users</span></h2>
+            <p>{{ .description }}</p>
+            <div class="more-link"><a href="{{ .Site.BaseURL }}personas">Find Your Personas <i class="fas fa-arrow-right"></i></a></div>
+          </div>
+          <div class="col-12 col-md-5 align-self-center">
+            <div class="tour-img"><img src="{{ .Site.BaseURL }}{{ .image }}" alt="{{ .alt }}" /></div>
+          </div>
+        </div>
+      {{end}}
 
-          <div class="more-link"><a href="{{ .Site.BaseURL }}personas">Find Your Personas <i class="fas fa-arrow-right"></i></a></div>
-        </div>
-        <div class="col-12 col-md-5 align-self-center">
-          <div class="tour-img"><img src="images/landing-page_personas-image.jpg" alt="Photo of a watch" /></div>
-        </div>
-      </div>
+
+
     </div>
   </div>
 </div>

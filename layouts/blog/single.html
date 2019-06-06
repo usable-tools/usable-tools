@@ -19,7 +19,7 @@
           <div class="publish-date">{{ .PublishDate.Format "January 2, 2006" }}</div>
           {{ if .Params.main_image }}
             <div class="main-photo">
-              <img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" />
+              <img src="{{ .Site.BaseURL }}{{ .Params.main_image }}" alt=" {{ .Params.main_image_caption }}"/>
               <div class="main-caption small"> {{ .Params.main_image_caption }} </div>
             </div>
           {{ end }}

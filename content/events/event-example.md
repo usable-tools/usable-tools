@@ -3,6 +3,7 @@ title: "Another Event"
 date: 2019-05-20T23:50:48-07:00
 eventdate: 2019-01-20T23:50:48-07:00
 main_image: "images/events/calendar_bg.png"
+main_image_caption: If this isn't used as a caption, it will at least be used for image alt text.
 draft: true
 ---
 

@@ -3,7 +3,7 @@ title: "Blog Example"
 date: 2014-05-20T23:50:48-07:00
 author: "Ashley"
 main_image: "images/blog/uxforum-bigboard.png"
-main_image_caption: "Photo by dylan nolte on Upsplash"
+main_image_caption: If this isn't used as a caption, it will at least be used for image alt text.
 tags: ["go","golang","templates","themes","development"]
 draft: true
 ---

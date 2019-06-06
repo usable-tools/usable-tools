@@ -3,6 +3,7 @@ title: USABLE at IFF 2019
 date: 2019-05-20T23:50:48-07:00
 eventdate: 2019-08-24T23:50:48-07:00
 main_image: "images/events/calendar_bg.png"
+main_image_caption: Edit me
 ---
 
 # USABLE at IFF 2019
