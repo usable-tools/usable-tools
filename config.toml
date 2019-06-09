@@ -46,27 +46,6 @@ summaryLength = 20
   weight = 2
 
 [[menu.main]]
-  identifier = "the-challenge"
-  name = "The Challenge"
-  url = "/the-challenge"
-  weight = 1
-  parent = "about"
-
-[[menu.main]]
-  identifier = "the-usable-response"
-  name = "The USABLE Response"
-  url = "/the-usable-response"
-  weight = 2
-  parent = "about"
-
-[[menu.main]]
-  identifier = "who-we-work-with"
-  name = "Who We Work With"
-  url = "/who-we-work-with"
-  weight = 3
-  parent = "about"
-
-[[menu.main]]
   identifier = "blog"
 	name = "Blog"
 	url = "/blog"
