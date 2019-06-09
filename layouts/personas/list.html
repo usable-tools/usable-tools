@@ -21,8 +21,9 @@
     <div class="row justify-content-center content">
       {{ range .Pages }}
         <div class="col-6 col-md-3 persona-item">
-          <div class="main-photo"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="Persona image for {{ .Params.title }}"/></div>
-          <div><a href="{{ .Permalink }}">{{ .Params.title }}</a></div>
+          <a href="{{ .Permalink }}">
+          <span class="main-photo"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="Persona image for {{ .Params.title }}"/></span>
+          <span class="persona-title">{{ .Params.title }}</span></a>
         </div>
         {{ end }}
     </div>
