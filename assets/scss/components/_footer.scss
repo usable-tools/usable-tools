@@ -40,10 +40,9 @@
         display: none;
       }
       &.about, &.blog, &.events, &.personas, &.contact, &.sitemap, &.privacy-policy {
-        margin: 1rem 0;
+        margin: 1rem;
         @include media-breakpoint-up(md) {
-          width: 190px;
-          float: left;
+        display: inline-block;
           .child-menu {
             li {
               padding: 0;

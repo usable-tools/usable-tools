@@ -1,0 +1,11 @@
+.sitemap {
+  li {
+    list-style-type: none;
+    margin-left: 2rem;
+  }
+  li:first-child {
+    font-weight: bold;
+    margin-left: 0;
+  }
+
+}

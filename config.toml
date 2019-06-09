@@ -62,15 +62,4 @@ summaryLength = 20
 	name = "Personas"
 	url = "/personas/"
   weight = 5
-
-# [[menu.main]]
-#   identifier = "contact"
-#   name = "Contact Us"
-#   url = "#"
-#   weight = 6
-#
-# [[menu.main]]
-#   identifier = "sitemap"
-#   name = "Site Map"
-#   url = "#"
-#   weight = 7
+  
