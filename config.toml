@@ -1,4 +1,4 @@
-baseURL = "https://usable-tools.github.io/ut/"
+baseURL = "https://usable-tools.github.io/usable-tools/"
 languageCode = "en-us"
 title = "USABLE Tools"
 
@@ -62,4 +62,3 @@ summaryLength = 20
 	name = "Personas"
 	url = "/personas/"
   weight = 5
-  
