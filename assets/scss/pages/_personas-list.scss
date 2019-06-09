@@ -1,6 +1,7 @@
 .page-personas-list {
   .intro {
     color: #fff;
+    background-color: $orange;
     background: url(../images/personas/alex-radelich-462768-unsplash.png) no-repeat center center;
     background-size: auto 100%;
     @include media-breakpoint-up(md) {
