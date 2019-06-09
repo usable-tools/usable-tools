@@ -17,10 +17,20 @@
       width: 10px;
       margin: 0 2px;
     }
-    .logo2 img {
-      width: 110px;
-      margin-right: 5px;
+    .logo2 {
+      min-width: 90%;
+      margin: 1rem auto;
+      display: block;
       @include media-breakpoint-up(md) {
+        display: inline;
+        margin: 0;
+      }
+
+      img {
+        width: 110px;
+        @include media-breakpoint-up(md) {
+          margin-right: 40px;
+        }
       }
     }
     p {

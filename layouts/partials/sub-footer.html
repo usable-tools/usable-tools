@@ -3,6 +3,11 @@
     <div class="row justify-content-center">
       <div class="col-12 col-md-8">
         <div class="sub-footer-inner">
+
+          <ul class="social-links">
+            {{ partial "social.html" . }}
+          </ul>
+
           <p>
             <a class="logo2" href="{{ .Site.BaseURL }}"><img alt="Internews" src="{{ .Site.BaseURL }}images/logo2.svg" /></a>
             Usable tools is run and operated by <a href="https://internews.org">Internews</a>
@@ -10,7 +15,7 @@
           <p>© Internews</p>
           <p class="cc"><img alt="CC" src="{{ .Site.BaseURL }}images/cc.svg" /> This work is licensed under a Creative Commons Attribution <a href="https://creativecommons.org">4.0 International License</a></p>
           <p class="privacy-policy"><a href=" {{ .Site.BaseURL }}privacy-policy">Privacy Policy</a></p>
-
+          {{ partial "website-credits.html" . }}
         </div>
       </div>
     </div>

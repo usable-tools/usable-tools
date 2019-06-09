@@ -53,7 +53,7 @@
       }
       &.about, &.blog, &.events, &.personas {
         @include media-breakpoint-up(md) {
-          height: 200px;
+          min-height: 1rem;
         }
       }
     }
