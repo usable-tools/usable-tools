@@ -25,8 +25,8 @@
     arrows: true,
     fade: true,
     autoplay: true,
-    prevArrow: '<button class="prev-arrow">Previous<i class="fas fa-arrow-left"></i></button>',
-    nextArrow: '<button class="next-arrow">Next<i class="fas fa-arrow-right"></i></button>'
+    prevArrow: '<button class="prev-arrow"><span>Previous</span><i class="fas fa-arrow-left"></i></button>',
+    nextArrow: '<button class="next-arrow"><span>Next</span><i class="fas fa-arrow-right"></i></button>'
   });
 
 })();

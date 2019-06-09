@@ -13,7 +13,7 @@
     li {
       margin: 0;
     }
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
       padding-left: 12rem;
       padding-right: 12rem;
     }
@@ -32,7 +32,7 @@
       border-radius: 200px;
       border: $primary solid 1px;
       display: none;
-      @include media-breakpoint-up(md) {
+      @include media-breakpoint-up(xl) {
         display: inline-block;
       }
     }
@@ -85,20 +85,27 @@
     color: $primary;
     position: absolute;
     bottom: -3%;
-    @include media-breakpoint-up(md) {
+    z-index: 100;
+    cursor: pointer;
+    span {
+      text-indent: -9999px;
+      overflow: hidden;
+      display: inline-block;
+    }
+    @include media-breakpoint-up(lg) {
       bottom: 25%;
     }
     font-size: 1.5rem;
   }
   button.prev-arrow {
     left: 2rem;
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
       left: 7rem;
     }
   }
   button.next-arrow {
     right: 2rem;
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
       right: 7rem;
     }
   }
