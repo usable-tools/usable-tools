@@ -35,11 +35,9 @@
 
   {{ $jquery := resources.Get "./js/jquery.min.js" }}
   {{ $slick := resources.Get "./js/slick.min.js" }}
-  {{ $list := resources.Get "./js/list.min.js" }}
   {{ $scripts := resources.Get "./js/scripts.js" }}
   <script type="text/javascript" src="{{ $jquery.Permalink }}"></script>
   <script type="text/javascript" src="{{ $slick.Permalink }}"></script>
-  <script type="text/javascript" src="{{ $list.Permalink }}"></script>
   <script type="text/javascript" src="{{ $scripts.Permalink }}"></script>
 
 </body>
