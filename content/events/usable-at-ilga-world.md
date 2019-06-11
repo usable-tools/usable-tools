@@ -6,8 +6,6 @@ main_image: "images/events/calendar_bg.png"
 main_image_caption: Edit me
 ---
 
-# USABLE at ILGA World
-
 The USABLE team attended ILGA World 2019, a bi-annual convening of LGBTQIA advocates and funders from all over the globe. Attending this conference allowed the USABLE team to meet with LGBTQI users, discuss the tools that are currently being used in the field, and better understand the threats that this particular community is facing in different parts of the world. Ultimately, this information shapes the tool teams that the USABLE team works with and expand the network of at-risk users with whom the project team can connect relevant developers.
 
 In partnership with Grindr for Equality, the USABLE team co-organized a session entitled “Protecting Ourselves in a Digital World: The Basics of Digital Security and Online Safety.” The first component was a quick activity designed to capture current practices, threats, and questions of the community members in attendance. Participants were given three different colors of sticky notes and asked to spend 3-5 minutes documenting the following:

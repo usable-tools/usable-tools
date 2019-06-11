@@ -6,8 +6,6 @@ main_image: "images/events/calendar_bg.png"
 main_image_caption: Edit me
 ---
 
-# UXForum 2018: Dublin, Ireland
-
 The second UXForum took place in Dublin, Ireland in July 2018. The event brought together human rights defenders, digital security trainers, design experts, and software developers to discuss how to capture and integrate user feedback from high-risk communities on digital security tools, and make those tools stronger and more effective as a result. Over 20 different countries were represented at the event.
 
 Over eight tool team representatives, from password managers to VPN tools, attended the event and had opportunities to directly connect and understand security challenges at risk groups across the globe face when doing their work.

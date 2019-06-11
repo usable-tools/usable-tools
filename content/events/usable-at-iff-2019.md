@@ -6,8 +6,6 @@ main_image: "images/events/calendar_bg.png"
 main_image_caption: Edit me
 ---
 
-# USABLE at IFF 2019
-
 The USABLE team attended the 2019 Internet Freedom Festival in Valencia, Spain. During the week, the team connected with digital security trainers, open source tool teams, and user-experience (UX) experts to discuss past, current, and future USABLE work.
 
 USABLE partnered with Okthanks to co-facilitate a session entitled “The Power of Personas.” The one-hour session provided a general overview of user personas and featured multiple examples, including [USABLE personas](https://usable.tools/personas) and [Okthanks personas](https://okthanks.com/blog/peronaslatin-america). The remainder of the session focused on the process of creating user personas, demonstrated via a group activity.
