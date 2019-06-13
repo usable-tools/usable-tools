@@ -4,7 +4,7 @@ main_image: images/landing-page_highlights-image.jpg
 main_image_caption: Use this for alt text.
 link_path: personas/ua_oleksandr
 weight: 2
-draft: false
+draft: true
 ---
 
 <h2>What's Happening with <span class="orange">USABLE</span>?</h2>
