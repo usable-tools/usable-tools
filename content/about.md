@@ -1,5 +1,5 @@
 ---
-title: "Why USABLE"
+title: "Why USABLE?"
 date: 2019-05-30T15:32:37-07:00
 layout: page
 intro: "The USABLE project (Usable Security Apps by Leveraging End-users) is building feedback loops across the world, connecting digital security trainers working with at-risk communities, design experts, and open source tool developers. This human-centered design approach to the development of digital security software aims to solve real problems and build better, more usable tools for communities who need them most."
