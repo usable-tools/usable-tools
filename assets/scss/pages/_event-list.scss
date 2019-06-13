@@ -4,7 +4,7 @@
     background: url(../images/events/events_header-image.jpg) no-repeat center center;
     background-size: auto 100%;
     background-color: $secondary;
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(sm) {
       background-size: 100% auto;
     }
     object-fit: cover;
@@ -47,7 +47,9 @@
   .event-list-photo {
     img {
       border-radius: 0;
-      @include img-fluid();
+      min-height: 100%;
+      max-width: 100%;
+      object-fit: cover;
       border-top-left-radius: 1.2rem;
       border-top-right-radius: 1.2rem;
       @include media-breakpoint-up(md) {

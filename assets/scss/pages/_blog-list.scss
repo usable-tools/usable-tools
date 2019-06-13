@@ -3,7 +3,7 @@
     color: #fff;
     background: url(../images/debby-hudson-627097-unsplash.png) no-repeat center center;
     background-size: auto 100%;
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
       background-size: 100% auto;
     }
     object-fit: cover;
