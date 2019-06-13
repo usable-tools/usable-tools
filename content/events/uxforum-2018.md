@@ -2,7 +2,7 @@
 title: "UXForum 2018: Dublin, Ireland"
 date: 2018-07-20T23:50:48-07:00
 eventdate: 2019-01-20T23:50:48-07:00
-main_image: "images/events/calendar_bg.png"
+main_image: "images/events/events-page_ux-forum-image.jpg"
 main_image_caption: Edit me
 ---
 

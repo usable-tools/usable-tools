@@ -2,7 +2,7 @@
 title: USABLE at IFF 2019
 date: 2019-05-20T23:50:48-07:00
 eventdate: 2019-08-24T23:50:48-07:00
-main_image: "images/events/calendar_bg.png"
+main_image: "images/events/events-page_internet-freedom-festival-image.jpg"
 main_image_caption: Edit me
 ---
 
