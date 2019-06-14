@@ -1,4 +1,5 @@
 baseURL = "https://usable-tools.github.io/usable-tools/"
+canonifyURLs = "true"
 languageCode = "en-us"
 title = "USABLE Tools"
 
@@ -11,20 +12,20 @@ summaryLength = 20
   mainSections = ["front_carousel"]
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a beautiful small business theme for Hugo (Static Site Generator). It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_description = "The USABLE project (Usable Security Apps by Leveraging End-users) is building feedback loops across the world, connecting digital security trainers working with at-risk communities, design experts, and open source tool developers."
     meta_og_title = "USABLE Tools"
     meta_og_type = "website"
     meta_og_url = "https://usable.tools"
     meta_og_image = "https://usable.tools/images/safe.png"
-    meta_og_description = "Serif is a beautiful small business theme for Hugo (Static Site Generator). It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_twitter_card = "summary"
+    meta_og_description = "The USABLE project (Usable Security Apps by Leveraging End-users) is building feedback loops across the world, connecting digital security trainers working with at-risk communities, design experts, and open source tool developers. "
+    meta_twitter_card = "The USABLE project (Usable Security Apps by Leveraging End-users) is building feedback loops across the world, connecting digital security trainers working with at-risk communities, design experts, and open source tool developers. "
     meta_twitter_site = "@USABLE_tools"
     meta_twitter_creator = "@USABLE_tools"
 #
   [params.contact_us]
     email = "connect@usable.tools"
     twitter = "https://twitter.com/USABLE_tools"
-    github = "https://github.com/OpenInternet/USABLE"
+    github = "https://github.com/usable-tools"
     feed = "index.xml"
 
   [params.sub_footer]
