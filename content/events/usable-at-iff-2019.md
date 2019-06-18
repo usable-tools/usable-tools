@@ -1,9 +1,9 @@
 ---
 title: USABLE at IFF 2019
 date: 2019-05-20T23:50:48-07:00
-eventdate: 2019-08-24T23:50:48-07:00
+eventdate: 2019-04-08T23:50:48-07:00
 main_image: "images/events/events-page_internet-freedom-festival-image.jpg"
-main_image_caption: Edit me
+main_image_caption: Stickie notes from IFF 2019
 ---
 
 The USABLE team attended the 2019 Internet Freedom Festival in Valencia, Spain. During the week, the team connected with digital security trainers, open source tool teams, and user-experience (UX) experts to discuss past, current, and future USABLE work.
