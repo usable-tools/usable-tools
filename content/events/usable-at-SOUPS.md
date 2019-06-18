@@ -31,4 +31,4 @@ Please submit a short summary (less than 1000 words, approximately 2 pages) of y
 
 USENIX will be charging a registration fee ($75 per half day tutorial/workshop, $150 for full day) this year.
 
-All USABLE project events are governed by our Code of Conduct. In addition, SOUPS is governed by the [USENIX Code of Conduct](https://www.usenix.org/conferences/coc).
+All USABLE project events are governed by our [Code of Conduct](/codeofconduct). In addition, SOUPS is governed by the [USENIX Code of Conduct](https://www.usenix.org/conferences/coc).
