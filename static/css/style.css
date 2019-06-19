@@ -17145,6 +17145,9 @@ readers do not read off random characters that represent icons */
     .page-personas-list .persona-item {
       padding: 3rem; } }
 
+.page-personas-list #personas-list .search {
+  min-width: 400px; }
+
 .page-persona h1 {
   font-size: 1.6rem;
   margin-top: 1.5rem; }
