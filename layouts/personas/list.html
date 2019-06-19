@@ -18,14 +18,31 @@
 
 <div class="strip strip-grey">
   <div class="container whitebox">
-    <div class="row justify-content-center content">
-      {{ range .Pages }}
-        <div class="col-6 col-md-3 persona-item">
-          <a href="{{ .Permalink }}">
-          <span class="main-photo"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="Persona image for {{ .Params.title }}"/></span>
-          <span class="persona-title">{{ .Params.title }}</span></a>
-        </div>
+
+    <div id="personas-list">
+
+      <input class="search" placeholder="Search gender, country, tools etc" />
+
+      <ul class="row list justify-content-center">
+        {{ range .Pages }}
+          <li class="col-6 col-md-3 persona-item">
+
+            <a href="{{ .Permalink }}">
+              <span class="main-photo"><img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="Persona image for {{ .Params.title }}"/></span>
+              <span class="persona-title">{{ .Params.title }}</span>
+            </a>
+
+            <div class="role hidden">{{ .Params.role }}</div>
+            <div class="name hidden">{{ .Params.name }}</div>
+            <div class="community hidden">{{ .Params.community }}</div>
+            <div class="tools hidden">{{ .Params.tools }}</div>
+            <div class="profession hidden">{{ .Params.profession }}</div>
+            <div class="gender hidden">{{ .Params.gender }}</div>
+            <div class="country hidden">{{ .Params.country }}</div>
+
+          </li>
         {{ end }}
+      </ul>
     </div>
   </div>
 </div>

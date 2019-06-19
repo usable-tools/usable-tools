@@ -29,4 +29,10 @@
     nextArrow: '<button class="next-arrow"><span>Next</span><i class="fas fa-arrow-right"></i></button>'
   });
 
+  var options = {
+    valueNames: ['name', 'role', 'community', 'tools', 'profession', 'gender', 'country' ]
+  };
+
+  var userList = new List('personas-list', options);
+
 })();
