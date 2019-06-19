@@ -5390,16 +5390,9 @@ a.text-dark:hover, a.text-dark:focus {
 
 /* Slider */
 .slick-loading .slick-list {
-  background: #fff url("./ajax-loader.gif") center center no-repeat; }
+  background: #fff url("./../images/ajax-loader.gif") center center no-repeat; }
 
 /* Icons */
-@font-face {
-  font-family: "slick";
-  src: url("./fonts/slick.eot");
-  src: url("./fonts/slick.eot?#iefix") format("embedded-opentype"), url("./fonts/slick.woff") format("woff"), url("./fonts/slick.ttf") format("truetype"), url("./fonts/slick.svg#slick") format("svg");
-  font-weight: normal;
-  font-style: normal; }
-
 /* Arrows */
 .slick-prev,
 .slick-next {
@@ -5434,7 +5427,7 @@ a.text-dark:hover, a.text-dark:focus {
     opacity: 0.25; }
   .slick-prev:before,
   .slick-next:before {
-    font-family: "slick";
+    font-family: "montserrat-regular";
     font-size: 20px;
     line-height: 1;
     color: #F15D22;
@@ -5506,7 +5499,7 @@ a.text-dark:hover, a.text-dark:focus {
         content: "•";
         width: 20px;
         height: 20px;
-        font-family: "slick";
+        font-family: "montserrat-regular";
         font-size: 70px;
         line-height: 20px;
         text-align: center;
@@ -17033,10 +17026,10 @@ readers do not read off random characters that represent icons */
 
 .page-blog-list .intro, .page-blog .intro {
   color: #fff;
-  background: url(../images/debby-hudson-627097-unsplash.png) no-repeat center center;
+  background: url(../images/blog/blog-page_banner_unsplash-Dariusz-Sankowski.jpg) no-repeat center center;
   background-size: auto 100%;
   object-fit: cover; }
-  @media (min-width: 768px) {
+  @media (min-width: 992px) {
     .page-blog-list .intro, .page-blog .intro {
       background-size: 100% auto; } }
   .page-blog-list .intro h1, .page-blog .intro h1 {
@@ -17077,7 +17070,7 @@ readers do not read off random characters that represent icons */
   background-size: auto 100%;
   background-color: #005CAB;
   object-fit: cover; }
-  @media (min-width: 768px) {
+  @media (min-width: 576px) {
     .page-event-list .intro {
       background-size: 100% auto; } }
   .page-event-list .intro h1 {
@@ -17112,8 +17105,9 @@ readers do not read off random characters that represent icons */
 
 .page-event-list .event-list-photo img {
   border-radius: 0;
+  min-height: 100%;
   max-width: 100%;
-  height: auto;
+  object-fit: cover;
   border-top-left-radius: 1.2rem;
   border-top-right-radius: 1.2rem; }
   @media (min-width: 768px) {
@@ -17140,7 +17134,13 @@ readers do not read off random characters that represent icons */
 
 .page-personas-list .persona-item {
   padding: 1rem;
+  list-style-type: none;
   text-align: center; }
+  .page-personas-list .persona-item .hidden {
+    visibility: hidden;
+    position: absolute;
+    left: -9999px;
+    overflow: hidden; }
   @media (min-width: 768px) {
     .page-personas-list .persona-item {
       padding: 3rem; } }
