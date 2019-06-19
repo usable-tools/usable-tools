@@ -50,4 +50,4 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 This Code of Conduct adapts the Creative Commons licensed work from [ConfCodeofConduct](http://confcodeofconduct.com/), [Code of Conduct Builder](https://github.com/gembarrett/coconduct-builder) and [Citizen Code of Conduct](http://citizencodeofconduct.org/) and incorporates concepts from the [Internet Freedom Code of Conduct](https://internetfreedomfestival.org/wiki/index.php/Code_of_Conduct) as well as the [ISC Project's anti-harassment policy](https://iscproject.org/anti-harrassment-policy/).
 
-This content is available as a CC-BY license.
+This content is available as a CC-BY 4.0 International license.
