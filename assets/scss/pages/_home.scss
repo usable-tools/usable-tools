@@ -1,18 +1,26 @@
 .tour-img {
-  // display: none;
-
+  min-height: 400px;
+  max-width: 400px;
+  max-height: 400px;
+  min-width: 400px;
+  margin: 0 auto;
+  overflow: hidden;
+  @include media-breakpoint-up(lg) {
+    max-height: 500px;
+    max-width: 500px;
+  }
   img {
     @include img-fluid();
     border-radius: 100rem;
-    min-width: 100%;
-    height: auto;
+    min-height: 400px;
+    min-width: 400px;
+    object-fit: cover;
   }
-  @include media-breakpoint-up(md) {
-    // display: block;
+  @include media-breakpoint-up(lg) {
     img {
       border-radius: 100rem;
       min-height: 500px;
-      max-width: 500px;
+      min-width: 500px;
     }
   }
 }
@@ -89,14 +97,11 @@
       }
       .highlights {
         padding: 3rem 0 0;
+        .tour-img {
+          margin-top: 2rem;
+        }
         @include media-breakpoint-up(md) {
           padding: 7rem 0 1rem;
-        }
-        .highlights-image {
-          display: none;
-          @include media-breakpoint-up(md) {
-            display: block;
-          }
         }
         h2 {
           line-height: 1.3;

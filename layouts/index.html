@@ -53,7 +53,7 @@
           {{ range $pages }}
             <li class="carousel-item">
               <div class="row justify-content-around highlights">
-                <div class="col-12 col-md-5 order-md-7 align-self-center">
+                <div class="col-12 pl-4 pr-4 col-xl-6 order-xl-7 align-self-center">
                   <div class="label-title highlights-title"><i class="fas fa-lightbulb"></i> HIGHLIGHTS</div>
                   {{ .Content }}
                   {{ if .Params.link_text }}
@@ -62,7 +62,7 @@
                     <div class="more-link"><a href="{{.Site.BaseURL }}{{ .Params.link_path}}">Read more <i class="fas fa-arrow-right"></i></a></div>
                   {{ end }}
                 </div>
-                <div class="col-12 col-md-5 order-md-1 align-self-center highlights-image">
+                <div class="col-12 pl-4 pr-4 pl-md-1 pr-md-1 col-xl-6 order-xl-1 align-self-center highlights-image">
                   <div class="tour-img"><img src="{{ .Params.main_image }}" alt="{{ .Params.main_image_caption }}" /></div>
                 </div>
               </div>
@@ -73,13 +73,13 @@
 
       {{ range .Site.Data.personas }}
         <div class="row justify-content-around personas">
-          <div class="col-12 col-md-5 align-self-center">
+          <div class="col-12 pl-4 pr-4 pl-xl-1 pr-xl-1 col-xl-5 align-self-center">
             <div class="label-title personas-title"><i class="fas fa-users"></i> PERSONAS</div>
             <h2>Meet the <span class="brown">Users</span></h2>
             <p>{{ .description }}</p>
             <div class="more-link"><a href="{{ .Site.BaseURL }}personas">Find Your Personas <i class="fas fa-arrow-right"></i></a></div>
           </div>
-          <div class="col-12 col-md-5 align-self-center">
+          <div class="col-12 col-xl-6 align-self-center">
             <div class="tour-img"><img src="{{ .Site.BaseURL }}{{ .image }}" alt="{{ .alt }}" /></div>
           </div>
         </div>

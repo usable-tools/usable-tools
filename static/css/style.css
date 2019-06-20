@@ -16887,18 +16887,29 @@ readers do not read off random characters that represent icons */
   position: static;
   width: auto; }
 
-.tour-img img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 100rem;
-  min-width: 100%;
-  height: auto; }
-
-@media (min-width: 768px) {
+.tour-img {
+  min-height: 400px;
+  max-width: 400px;
+  max-height: 400px;
+  min-width: 400px;
+  margin: 0 auto;
+  overflow: hidden; }
+  @media (min-width: 992px) {
+    .tour-img {
+      max-height: 500px;
+      max-width: 500px; } }
   .tour-img img {
+    max-width: 100%;
+    height: auto;
     border-radius: 100rem;
-    min-height: 500px;
-    max-width: 500px; } }
+    min-height: 400px;
+    min-width: 400px;
+    object-fit: cover; }
+  @media (min-width: 992px) {
+    .tour-img img {
+      border-radius: 100rem;
+      min-height: 500px;
+      min-width: 500px; } }
 
 .page-home .front-intro {
   margin-top: 10px;
@@ -16958,14 +16969,11 @@ readers do not read off random characters that represent icons */
     font-family: "montserrat-bold", Arial, sans-serif, -apple-system; }
   .page-home #tour .whitebox .highlights {
     padding: 3rem 0 0; }
+    .page-home #tour .whitebox .highlights .tour-img {
+      margin-top: 2rem; }
     @media (min-width: 768px) {
       .page-home #tour .whitebox .highlights {
         padding: 7rem 0 1rem; } }
-    .page-home #tour .whitebox .highlights .highlights-image {
-      display: none; }
-      @media (min-width: 768px) {
-        .page-home #tour .whitebox .highlights .highlights-image {
-          display: block; } }
     .page-home #tour .whitebox .highlights h2 {
       line-height: 1.3; }
     .page-home #tour .whitebox .highlights .more-link {
