@@ -12,7 +12,7 @@
   <!-- CSS -->
   {{- $inServerMode := .Site.IsServer }}
   {{- $cssTarget := "css/style.css" }}
-  <link rel="stylesheet" href="{{ $cssTarget }}">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}{{ $cssTarget }}">
 
   {{ block "header_css" . }}{{ end }}
 
