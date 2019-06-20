@@ -17130,7 +17130,7 @@ readers do not read off random characters that represent icons */
   background: url(../images/personas/alex-radelich-462768-unsplash.png) no-repeat center center;
   background-size: auto 100%;
   object-fit: cover; }
-  @media (min-width: 768px) {
+  @media (min-width: 1576px) {
     .page-personas-list .intro {
       background-size: 100% auto; } }
   .page-personas-list .intro h1 {

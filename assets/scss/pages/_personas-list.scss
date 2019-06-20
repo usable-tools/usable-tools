@@ -4,7 +4,9 @@
     background-color: $orange;
     background: url(../images/personas/alex-radelich-462768-unsplash.png) no-repeat center center;
     background-size: auto 100%;
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lx) {
+    }
+    @media (min-width: 1576px) {
       background-size: 100% auto;
     }
     object-fit: cover;
