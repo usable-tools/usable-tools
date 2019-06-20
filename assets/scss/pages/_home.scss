@@ -23,7 +23,7 @@
     text-align: center;
     max-width: 1440px;
     padding: 1rem;
-    background: #fff url(../images/logo-pieces-background_landing-page_mobile.svg) no-repeat center center;
+    background: #fff url(../images/logo-pieces-background_landing-page_mobile.svg) no-repeat top center;
     background-size: 100%;
     position: relative;
     z-index: 10;
@@ -40,16 +40,17 @@
       }
     }
     .front-intro-title {
-      margin-top: 15rem;
+      margin-top: 12rem;
+      @include media-breakpoint-up(md) {
+        margin-top: 15rem;
+      }
       span {
         text-transform: uppercase;
       }
     }
     .front-intro-content {
-      visibility: hidden;
-      max-height: 100px;
+      padding: 20px 0;
       @include media-breakpoint-up(md) {
-        visibility: visible;
         padding: 20px 42px;
       }
     }
@@ -72,6 +73,7 @@
     }
     .slick-dots {
       left: -10px;
+      bottom: -45px;
     }
     .highlights-title {
       color: $orange;

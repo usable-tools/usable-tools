@@ -6171,7 +6171,7 @@ ul.social-links {
   font-style: normal; }
 
 .down-arrow {
-  margin: 6rem 0 3rem;
+  margin: 0rem 0 6rem;
   text-align: center;
   font-size: 1.6rem;
   text-indent: 9999px;
@@ -16905,7 +16905,7 @@ readers do not read off random characters that represent icons */
   text-align: center;
   max-width: 1440px;
   padding: 1rem;
-  background: #fff url(../images/logo-pieces-background_landing-page_mobile.svg) no-repeat center center;
+  background: #fff url(../images/logo-pieces-background_landing-page_mobile.svg) no-repeat top center;
   background-size: 100%;
   position: relative;
   z-index: 10; }
@@ -16921,15 +16921,16 @@ readers do not read off random characters that represent icons */
       .page-home .front-intro h1 {
         font-size: 4.5rem; } }
   .page-home .front-intro .front-intro-title {
-    margin-top: 15rem; }
+    margin-top: 12rem; }
+    @media (min-width: 768px) {
+      .page-home .front-intro .front-intro-title {
+        margin-top: 15rem; } }
     .page-home .front-intro .front-intro-title span {
       text-transform: uppercase; }
   .page-home .front-intro .front-intro-content {
-    visibility: hidden;
-    max-height: 100px; }
+    padding: 20px 0; }
     @media (min-width: 768px) {
       .page-home .front-intro .front-intro-content {
-        visibility: visible;
         padding: 20px 42px; } }
 
 .page-home #tour {
@@ -16945,7 +16946,8 @@ readers do not read off random characters that represent icons */
         .page-home #tour .container .whitebox {
           padding: 10px; } }
   .page-home #tour .slick-dots {
-    left: -10px; }
+    left: -10px;
+    bottom: -45px; }
   .page-home #tour .highlights-title {
     color: #F15D22;
     font-family: "montserrat-bold", Arial, sans-serif, -apple-system; }

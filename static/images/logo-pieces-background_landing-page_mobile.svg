@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg32"
-   version="1.1"
-   viewBox="0 0 414.182 573.093"
+   width="414.182"
    height="573.093"
-   width="414.182">
+   viewBox="0 0 414.182 573.093"
+   version="1.1"
+   id="svg32">
   <metadata
      id="metadata36">
     <rdf:RDF>
@@ -27,49 +27,44 @@
     <clipPath
        id="clip-path">
       <rect
-         stroke-width="1"
-         stroke="#707070"
-         fill="#fff"
-         transform="translate(129 80)"
-         height="573.093"
-         width="414.182"
+         id="Rectangle_5"
          data-name="Rectangle 5"
-         id="Rectangle_5" />
+         width="414.182"
+         height="573.093"
+         transform="translate(129 80)"
+         fill="#fff"
+         stroke="#707070"
+         stroke-width="1" />
     </clipPath>
   </defs>
   <g
-     clip-path="url(#clip-path)"
+     id="logo-pieces-background_landing-page_mobile"
      transform="translate(-129,-80)"
-     id="logo-pieces-background_landing-page_mobile">
+     clip-path="url(#clip-path)">
     <path
-       style="fill:#6cb33f"
-       transform="translate(-75.638,376.383)"
+       id="path124"
        d="M 133.449,-31.123 A 145.162,145.162 0 0 1 96.973,57.77 L 135.1,95.893 a 196.275,196.275 0 0 0 51.53,-126.879 l -53.177,-0.137 z"
-       id="path124" />
+       transform="translate(-75.638,376.383)"
+       style="fill:#6cb33f" />
     <path
-       style="fill:#005cab"
-       transform="translate(205.585,233.556)"
+       id="path132"
        d="m 109.948,-33.291 76.767,-12.7 A 198.3,198.3 0 0 0 66.492,-93.3 l 0.141,50.317 a 147.052,147.052 0 0 1 43.315,9.691 z"
-       id="path132" />
+       transform="translate(205.585,233.556)"
+       style="fill:#005cab" />
     <path
-       style="fill:#f15d22"
-       transform="translate(241.129,588.756)"
-       d="m 106.4,-50.686 c 1.338,1.236 2.695,2.478 3.994,3.778 2.285,2.285 4.443,4.66 6.57,7.053 a 150.1,150.1 0 0 1 11.558,15 l 5.26,-31.8 2.705,-16.328 -9.3,1.531 -38.84,6.434 a 143.938,143.938 0 0 1 18.053,14.332 z"
-       id="path140" />
-    <path
-       style="fill:#fbb034"
-       transform="translate(55.789,276.768)"
+       id="path130"
        d="M 92.2,-39.33 57.038,-74.488 A 196.175,196.175 0 0 0 4.167,52.438 l 50.151,0.115 A 144.958,144.958 0 0 1 92.2,-39.33 Z"
-       id="path130" />
+       transform="translate(55.789,276.768)"
+       style="fill:#fbb034" />
     <path
-       style="fill:#48413a"
-       transform="translate(-153.802,53.306)"
+       id="path3803-9"
        d="m 175.475,267.05 c 0,15.107 -12.772,27.354 -28.527,27.354 -15.755,0 -28.528,-12.247 -28.528,-27.354 0,-15.107 12.772,-27.35 28.527,-27.35 15.755,0 28.528,12.243 28.528,27.35 z"
-       id="path3803-9" />
+       transform="translate(-153.802,53.306)"
+       style="fill:#48413a" />
     <path
-       style="fill:#b2cee6"
-       transform="translate(103.577,232.104)"
+       id="path126"
        d="m 151.52,-42.77 -0.142,-50.556 A 197.782,197.782 0 0 0 23.437,-41.373 l 35.5,35.5 a 146.182,146.182 0 0 1 92.587,-36.894 z"
-       id="path126" />
+       transform="translate(103.577,232.104)"
+       style="fill:#b2cee6" />
   </g>
 </svg>
