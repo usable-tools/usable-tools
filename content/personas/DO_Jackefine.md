@@ -3,7 +3,7 @@ title: 'Dominican Republic: "Jackefine"'
 image: "/images/personas/do-jackefine.png"
 role: "Administrative Assistant"
 country: "Dominican Republic"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Latin America and the Caribbean"
 profession: "Other Professional"
 community: "Youth"

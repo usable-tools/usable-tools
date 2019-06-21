@@ -3,7 +3,7 @@ title: 'Syria: "Marwa"'
 image: "/images/personas/sy-m.png"
 role: "Journalist"
 country: "Syria"
-gender: "Women"
+gender: ["Women", "Female"]
 region: Middle East and Northern Africa
 profession: "Journalist"
 community:

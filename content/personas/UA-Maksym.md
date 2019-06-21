@@ -3,7 +3,7 @@ title: 'Ukraine: "Maksym"'
 image: "/images/personas/ua-maksym.png"
 role: "Teacher/Activist"
 country: "Ukraine"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Eastern Europe and Eurasia"
 profession: ["Academic", "Activist"]
 community:

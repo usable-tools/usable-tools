@@ -3,7 +3,7 @@ title: 'Nicaragua: "Esteban Ramirez"'
 image: "/images/personas/ni-esteban.png"
 role: "Journalist"
 country: "Nicaragua"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Latin America and the Caribbean"
 profession: "Journalist"
 community:

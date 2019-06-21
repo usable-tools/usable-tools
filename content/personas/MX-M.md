@@ -3,7 +3,7 @@ title: 'Mexico: "Maria"'
 image: "/images/personas/mx-m.png"
 role: "Advocate for the Rights of Persons with Disabilities"
 country: "Mexico"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Latin America and the Caribbean"
 profession: "Activist"
 community: "Persons with Disabilities"

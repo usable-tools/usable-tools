@@ -4,7 +4,7 @@ image: "/images/personas/cu-yasmany.png"
 alt: Edit me
 role: "Journalist"
 country: "Cuba"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Latin America and the Caribbean"
 profession: "Journalist"
 community: "Ethnic/Religious Minority"

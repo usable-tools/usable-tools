@@ -3,7 +3,7 @@ title: 'China: "L. N."'
 image: "/images/personas/cn-ln.png"
 role: "Women's Rights Activist"
 country: "China"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Asia"
 profession: "Activist"
 community:

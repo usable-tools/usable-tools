@@ -3,7 +3,7 @@ title: 'Indonesia: "Ayu"'
 image: "/images/personas/id-ayu.png"
 role: "Transwoman and LGBTQI Activist"
 country: "Indonesia"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Asia"
 profession: "Activist"
 community: "LGBTQI"

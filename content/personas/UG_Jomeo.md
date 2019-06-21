@@ -3,7 +3,7 @@ title: 'Uganda: "Jomeo Richard""'
 image: "/images/personas/ug-jomeo.png"
 role: "Anti-Corruption Activist"
 country: "Uganda"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Sub-Saharan Africa"
 profession: "Activist"
 community:

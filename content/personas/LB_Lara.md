@@ -3,7 +3,7 @@ title: 'Lebanon: "Lara"'
 image: "/images/personas/lb-lara.png"
 role: "Journalist/Activist"
 country: "Lebanon"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Middle East and Northern Africa"
 profession: ["Journalist", "Activist"]
 community:

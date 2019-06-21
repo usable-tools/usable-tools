@@ -3,7 +3,7 @@ title: 'Jordan: "Ahmed"'
 image: "/images/personas/jo-ahmed.png"
 role: "University Student"
 country: "Jordan"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Middle East and Northern Africa"
 profession: "Student"
 community: "Youth"

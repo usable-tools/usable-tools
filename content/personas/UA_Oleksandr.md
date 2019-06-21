@@ -3,7 +3,7 @@ title: 'Ukraine: "Oleksandr"'
 image: "/images/personas/ua-oleksandr.png"
 role: "Television Journalist"
 country: "Ukraine"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Eastern Europe and Eurasia"
 profession: "Journalist"
 community: ""

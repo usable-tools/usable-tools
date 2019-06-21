@@ -3,7 +3,7 @@ title: 'Ukraine: "Anna"'
 image: "/images/personas/ua-anna.png"
 role: "Anti-Corruption Lawyer"
 country: "Ukraine"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Eastern Europe and Eurasia"
 profession: "Lawyer"
 community: "Messaging Apps"

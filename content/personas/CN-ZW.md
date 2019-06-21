@@ -3,7 +3,7 @@ title: 'China: "Z. W."'
 image: "/images/personas/cn-zw.png"
 role: "Academic and Blogger"
 country: "China"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Asia"
 profession: "Academic"
 community:

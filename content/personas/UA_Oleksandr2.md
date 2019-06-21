@@ -3,7 +3,7 @@ title: 'Ukraine: "Oleksandr"'
 image: "/images/personas/ua-oleksandr2.png"
 role: "Lawyer/Human Rights Defender"
 country: "Ukraine"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Eastern Europe and Eurasia"
 profession: "Lawyer"
 community:

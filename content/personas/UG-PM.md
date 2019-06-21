@@ -3,7 +3,7 @@ title: 'Uganda: "Paul Mukasa"'
 image: "/images/personas/ug-pm.png"
 role: "LGBTI Activist"
 country: "Uganda"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Sub-Saharan Africa"
 profession: "Activist"
 community: "LGBTQI"

@@ -3,7 +3,7 @@ title: 'Indonesia: "Husna"'
 image: "/images/personas/id-husna.png"
 role: "Advocate for Freedom of Expression"
 country: "Indonesia"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Asia"
 profession: "Activist"
 community: "Ethnic/Religious Minority"

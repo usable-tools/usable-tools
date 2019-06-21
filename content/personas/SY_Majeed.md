@@ -3,7 +3,7 @@ title: 'Syria: "Majeed"'
 image: "/images/personas/sy-majeed.png"
 role: "Civil Society Activist"
 country: "Syria"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Middle East and Northern Africa"
 profession: "Activist"
 community:

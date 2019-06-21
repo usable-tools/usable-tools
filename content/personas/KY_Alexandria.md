@@ -3,7 +3,7 @@ title: 'Kenya: "Alexandria Christian"'
 image: "/images/personas/ky-alexandria.png"
 role: "Lawyer"
 country: "Kenya"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Sub-Saharan Africa"
 profession: "Lawyer"
 community:

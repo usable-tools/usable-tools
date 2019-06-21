@@ -3,7 +3,7 @@ title: 'Nepal: "Chumi"'
 image: "/images/personas/np-chumi.png"
 role: "LGBTI Activist"
 country: "Nepal"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Asia"
 profession: "Activist"
 community: "LGBTQI"

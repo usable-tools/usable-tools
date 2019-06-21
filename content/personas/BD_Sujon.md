@@ -3,7 +3,7 @@ title: 'Bangladesh: "Habibur Rahman Sujon"'
 image: "/images/personas/bd-sujon.png"
 role: "Economics Student"
 country: "Bangladesh"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Asia"
 profession: "Student"
 community: ["LGBTQI", "Youth"]

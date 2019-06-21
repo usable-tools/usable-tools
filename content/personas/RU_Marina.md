@@ -3,7 +3,7 @@ title: 'Russia: "Marina"'
 image: "/images/personas/ru-marina.png"
 role: "Activist/Blogger/Local Community Organizer"
 country: "Russia"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Eastern Europe and Eurasia"
 profession: ["Activist", "Blogger"]
 community:

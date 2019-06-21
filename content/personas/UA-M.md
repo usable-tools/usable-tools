@@ -3,7 +3,7 @@ title: 'Ukraine: "Masha"'
 image: "/images/personas/ua-m.png"
 role: "NGO Volunteer Coordinator"
 country: "Ukraine"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Eastern Europe and Eurasia"
 profession: "Activist"
 community:

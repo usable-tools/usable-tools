@@ -3,7 +3,7 @@ title: 'Nepal: "Maya"'
 image: "/images/personas/np-maya.png"
 role: "Freelance Journalist/Advocate"
 country: "Nepal"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Asia"
 profession: ["Journalist", "Activist"]
 community:

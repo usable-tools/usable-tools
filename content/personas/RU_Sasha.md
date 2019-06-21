@@ -3,7 +3,7 @@ title: 'Russia: "Sasha"'
 image: "/images/personas/ru-sasha.png"
 role: "Systems Administrator"
 country: "Russia"
-gender: "Men"
+gender: ["Men", "Male"]
 region: "Eastern Europe and Eurasia"
 profession: "IT Support/Trainer"
 community:

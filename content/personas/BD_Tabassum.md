@@ -3,7 +3,7 @@ title: 'Bangladesh: "Tabassum"'
 image: "/images/personas/bd-tabassum.png"
 role: "Bank Clerk and LGBT Activist"
 country: "Bangladesh"
-gender: "Women"
+gender: ["Women", "Female"]
 region: "Asia"
 profession: "Other Professional"
 community: "LGBTQI"

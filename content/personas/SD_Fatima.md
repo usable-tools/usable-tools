@@ -3,7 +3,7 @@ title: 'Sudan: "Fatima"'
 image: "/images/personas/sd-fatima.png"
 role: "Advocate for Women's Rights"
 country: "Sudan"
-gender: "Women"
+gender: ["Women", "Female"]
 region: Middle East and Northern Africa
 profession: "Activist"
 community:
