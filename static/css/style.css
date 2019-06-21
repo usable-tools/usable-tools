@@ -17156,7 +17156,8 @@ readers do not read off random characters that represent icons */
       padding: 3rem; } }
 
 .page-personas-list #personas-list .search {
-  min-width: 400px; }
+  min-width: 400px;
+  width: 100%;}
 
 .page-persona h1 {
   font-size: 1.6rem;
