@@ -9,7 +9,7 @@ aliases:
 
 The USABLE "Safe" icon is based loosely on [this design from the Noun Project/Steven-Haycock](https://thenounproject.com/search/?q=safe&i=18255")
 
-Web design by [Justic D.](https://jdeblois.com) and Developed by [Squiggy R.](https://squiggyrubio.net)
+Web design by [Justin D.](https://jdeblois.com) and Developed by [Squiggy R.](https://squiggyrubio.net)
 
 Photos included in the [personas](/personas) are CC-BY (identified in each document) from the following: [Azzazello](https://www.flickr.com/photos/eilard), [Luigi Morante](https://www.flickr.com/photos/eudaimos/), [Hendrik Callens](https://www.flickr.com/photos/n3k/), [Charles Roffey](https://www.flickr.com/photos/charlesfred/), and CC-0 sources via [Unsplash](https://unsplash.com/).
 
