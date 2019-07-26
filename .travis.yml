@@ -24,7 +24,7 @@ deploy:
   - provider: pages
     edge: true
     github_token: ${GITHUB_TOKEN}
-    fqdn: dev.usable.tools
+    fqdn: usable.tools
     local_dir: public
     skip_cleanup: true
     target_branch: master
