@@ -10,12 +10,12 @@ aliases:
 
 ## *Integrating User-experience Activities into Existing Training Practices*
 
-This methodology may be used by digital security trainers, user-experience experts, and open source tool teams and is broken down into 3 parts:
+This methodology may be used by digital security trainers, user-experience experts, and open source tool teams and is broken down into parts:
 
 * Part I: Activities to Better Understand your Users:
 * Part II: Tool-specific Feedback
 * Part III: Feedback Outside of Trainings
-* Part IV: Communicating with Deveopers
+* Part IV: Communicating with Developers
 
 
 ## Introduction
