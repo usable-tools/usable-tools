@@ -22,7 +22,7 @@ script:
 
 deploy:
   - provider: pages
-    edge: true
+#    edge: true
     github_token: ${GITHUB_TOKEN}
     fqdn: usable.tools
     local_dir: public
