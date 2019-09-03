@@ -3,6 +3,8 @@ title:  "Announcing the Second Round of UXFund Grantees!"
 date:   2019-08-26 08:00:00
 tags: ["uxfund", "smallgrants"]
 author: Ashley
+main_image: "images/logos/UXFund2-logos.png" # 342px × 178p ~2x1
+main_image_caption: "UXFund Second Round Grantees"
 ---
 
 The USABLE team is excited to announce the second round of UXFund grantees. These teams will receive small grants for usability and accessibility enhancements, as well as for organizing targeted engagements with at-risk users. After a robust review process, six organizations were selected.
