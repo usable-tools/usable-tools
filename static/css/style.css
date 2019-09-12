@@ -175,6 +175,10 @@ svg:not(:root) {
 table {
   border-collapse: collapse; }
 
+div.content table td, div.content table th {
+          border: 1px solid black;
+        }
+        
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
