@@ -178,7 +178,7 @@ table {
 div.content table td, div.content table th {
           border: 1px solid black;
         }
-        
+
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
@@ -6000,9 +6000,11 @@ h3 {
   width: 100%; }
   .main-photo img {
     max-width: 100%;
+    min-height: 200px;
     height: auto;
-    min-width: 100%;
-    border-radius: 1.2rem; }
+    border-radius: 1.2rem;
+    max-height: 400px;
+  }
   .main-photo .main-caption {
     margin: 1rem 0;
     color: #005CAB; }
