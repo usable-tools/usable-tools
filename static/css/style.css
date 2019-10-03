@@ -133,7 +133,7 @@ sup {
 
 a {
   color: #002D62;
-  text-decoration: none;
+  text-decoration: underline;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
