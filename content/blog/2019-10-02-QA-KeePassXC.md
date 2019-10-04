@@ -1,6 +1,6 @@
 ---
 title: "Q&A with the KeePassXC team"
-date: 2019-10-01 11:00:00
+date: 2019-10-02 11:00:00
 author: "Jonathan White, KeePassXC"
 main_image: "images/logos/KeePassXCLogo.png" # 342px × 178p ~2x1
 main_image_caption: "KeePassXC logo"
