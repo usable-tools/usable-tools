@@ -16,7 +16,7 @@ The Guardian Project worked with Okthanks to complete user stories and host list
 
 Based on the listening group findings, the design team created a new, “mini,” redesign of the Orbot app. After creating an interactive prototype, the team released the beta version of the orbotmini app, which is currently only 4.77 MB (eventually will be 3MB).
 
-<img src="/images/blog/OrbotMini_screenshot.png" alt="Screenshots of the orbotmini beta app "style="width: 60%; height: auto;"/>
-*Screenshots of the orbotmini beta app.*
-
+<div style="text-align:center"><img src="/images/blog/OrbotMini_Screenshot.PNG" alt="Screenshots of the orbotmini beta app "style="width: 60%; height: auto;"/>
+<br />*Screenshots of the orbotmini beta app.*
+</div><br />
 Working with Accessibility Lab, Guardian received a full accessibility audit of the Orbot app and website and have launched their new website using a static Hugo framework. You can view their new website at https://guardianproject.info, which uses a clean web template, enabling them to better implement and support accessibility requirements.

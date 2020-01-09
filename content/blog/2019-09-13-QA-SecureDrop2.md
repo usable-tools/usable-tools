@@ -1,7 +1,7 @@
 ---
 title: "Q&A with the SecureDrop Team"
 date: 2019-09-10 11:00:00
-tags: ["development", "UXfund", "SecureDrop"]
+tags: ["development", "UXfund", "SecureDrop", "QA"]
 author: Jennifer Helsby, SecureDrop
 main_image: "/images/logos/SecureDropLogo.png" # 356px × 178p ~2x1
 main_image_caption: "SecureDrop logo"
