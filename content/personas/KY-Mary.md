@@ -1,60 +1,50 @@
 ---
-title: 'Uganda: "Paul Mukasa"'
-image: "/images/personas/ug-pm.png"
-role: "LGBTI Activist"
-country: "Uganda"
-gender: ["Men", "Male"]
+title: 'Kenya: "Mary"'
+image: "/images/personas/KY-Mary.png"
+role: "IT Assistant and Trainer"
+country: "Kenya"
+gender: ["Women", "Female"]
 region: "Sub-Saharan Africa"
-profession: "Activist"
-community: "LGBTQI"
-tools: "Two Factor Authentication"
-threats: ["Device Confiscation", "Surveillance"]
-short_quote: '"Tracking my volunteers helps me keep them safe"'
-date: 2019-05-20T23:15:28-07:00
-pdf: "/pdfs/personas/UG-PM.pdf"
+profession: "IT Assistant"
+community: "Environmentalist"
+tools: ["Veracrypt", "Laptop"]
+threats: ["Phishing", "DDOS"]
+short_quote: '"Nothing is impossible, the word itself says 'I'm Possible'"'
+date: 2020-04-03 T23:15:28-07:00
+pdf: "/pdfs/personas/KY_Mary.pdf"
 draft: false
 ---
 
 ## Overview
 
-Paul is LGBTI in Uganda, where it is **illegal** and not socially accepted. He faces both **ostracism and physical risk.**
-
-Paul and his organization work with politicians and civil society leaders to improve the acceptance of LGBTI issues across Uganda.
-
-Paul is currently leading an internal project at his organization to improve their **security practices** - both at the organization and at many staff members' homes, they have biometric alarm systems installed after a series of break-ins and office raids where laptops were stolen. Other practices Paul is working to address are sharing laptops in the office and discouraging using cybercafes.
-
-Paul is between 29 and 35. He is single and lives alone, as his close family have emigrated.
+Mary is a **digital security trainer, gender policy expert, and a research consultant** with many years of experience conducting research for different organizations. She also trains activists and local communities on skills for adopting strategic non-violence and movement building to affect social change. She works as an **IT assistant** for an organization that promotes environmental rights. Recently, the organization was hit by **ransomware** and they lost a lot of information.
 
 
 ## Goals
 
-Keeping himself and his colleagues safe -- both at their office and their homes
-
-Maintaining ability to **advocate** for social change
-
-Ability to have an active social and family life
+Mary wants to learn more about ethical hacking in order to help human rights defenders better protect their systems. Since her organization was recently attacked by ransomware, she wants to make sure she has the best antivirus possible to **protect their network and data.** She would like to **strengthen her organization's IT policies,** including back up procedures, to prevent this from happening again.
 
 
 ## Threats
 
-Strong social norms against LGBTI - including everyday people, religious fundamentalists, police with prejudices, and **illegality**
+**Distributed Denial of Service (DDOS)** attacks have been happening to other HROs in the region.
 
-Office and home **raids and robberies;** including the seizure of laptops. Stolen information can be sold to the media, which "out" activists publicly
+**Spam and phishing** emails and SMS messages are often received by members of her organization.
 
-Intense government **surveillance** of activist and NGO activity using powerful tools
+**Physical security** is a concern, as office and home break ins are common in the area.
 
 
 ## Strengths
 
-Paul has readily adopted many digital security practices - enabling **two factor authentication** for accounts
+Mary is able to train others in digital security, including those in her organization.
 
-Paul has developed complex **operational security** practices, such as having personal protocols of how to engage with new contacts in public spaces instead of at the office, to reduce associational risk.
+She uses **file encryption and a password manager** to store strong passwords.
 
-After recent office raids, Paul and other staff have moved to saving documents in cloud storage and not on laptops.
+She has a **strong technical background,** and can install and configure different operating systems.
 
 
 ## Questions
 
-How do I **protect information** against my devices being confiscated?
+How can **internet of things** devices be secured?
 
-How do I encourage colleagues, partners, and funders to adopt better security practices?
+How can I stop or minimize spam emails in my gmail inbox?
