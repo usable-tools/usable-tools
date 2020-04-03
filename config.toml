@@ -6,6 +6,11 @@ title = "USABLE Tools"
 paginate = 12
 summaryLength = 20
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 [params]
 
