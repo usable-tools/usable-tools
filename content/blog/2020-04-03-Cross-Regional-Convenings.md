@@ -2,7 +2,7 @@
 title: "Upcoming Cross-Regional Convenings"
 date: 2020-04-03 09:00:00
 author: "Ashley"
-main_image: "images/blog/unsplash_cc0_ruben-bagues-135824.resized.jpg" # 342px × 178p ~2x1
+main_image: "images/blog/Photo1_accessibility+developers.JPEG" # 342px × 178p ~2x1
 main_image_caption: ""
 tags: ["SAFETAG", "feedback", "Cross Regional Convenings"]
 draft: false
