@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Cross-Regional Convenings"
+title: "Apply to Participate in Upcoming Cross-Regional Convenings!!"
 date: 2020-04-03 09:00:00
 author: "Ashley"
 main_image: "images/blog/accessibility+developers.JPG" # 342px × 178p ~2x1
