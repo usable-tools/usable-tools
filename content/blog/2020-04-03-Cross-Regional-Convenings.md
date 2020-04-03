@@ -2,7 +2,7 @@
 title: "Upcoming Cross-Regional Convenings"
 date: 2020-04-03 09:00:00
 author: "Ashley"
-main_image: "images/blog/Photo1_accessibility+developers.JPEG" # 342px × 178p ~2x1
+main_image: "images/blog/accessibility+developers.JPG" # 342px × 178p ~2x1
 main_image_caption: ""
 tags: ["SAFETAG", "feedback", "Cross Regional Convenings"]
 draft: false
@@ -10,7 +10,7 @@ draft: false
 
 This year, Internews will be hosting two Cross-Regional Convenings to bring together digital security trainers, SAFETAG auditors, usability and accessibility experts, and tool developers to map privacy and security tools being used by at-risk organizations and to identify concrete ways that we can support improvements to those tools.
 
-Over the past few years, we have worked with the Internet freedom community to develop a variety of activities for trainers to deploy during digital security trainings to collect tool-specific feedback and critical information about at-risk users. We have also compiled useful information on how to identify open source tools interested in feedback, connect with tool developers, and format and prioritize recommendations. All of these activities and resources can be found in the [UX Feedback Collection Guidebook](https://usable.tools/guidebook). Internews partner Okthanks also developed a set of activities to facilitate a participatory design and development process. Those activities can be found in the[  Exploratorium](https://okthanks.com/exploratorium). These activities are for the community and any feedback or additions to the collection (or Exploratorium) are highly appreciated. The Cross-Regional Convenings will build on this work, expanding the number of individuals trained in feedback collection and increasing the number of tool teams implementing usability and accessibility improvements.
+Over the past few years, we have worked with the Internet freedom community to develop a variety of activities for trainers to deploy during digital security trainings to collect tool-specific feedback and critical information about at-risk users. We have also compiled useful information on how to identify open source tools interested in feedback, connect with tool developers, and format and prioritize recommendations. All of these activities and resources can be found in the [*UX Feedback Collection Guidebook*](https://usable.tools/guidebook). Internews partner Okthanks also developed a set of activities to facilitate a participatory design and development process. Those activities can be found in the [*Exploratorium*](https://okthanks.com/exploratorium). These activities are for the community and any feedback or additions to the collection (or Exploratorium) are highly appreciated. The Cross-Regional Convenings will build on this work, expanding the number of individuals trained in feedback collection and increasing the number of tool teams implementing usability and accessibility improvements.
 
 During the convenings, attendees will:
 
@@ -32,6 +32,6 @@ At this time, we are planning to hold certain sessions of the Cross-Regional Con
 
 ## How to Apply 
 
-If you are interested in participating in these convenings, please [apply here!](https://docs.google.com/forms/d/e/1FAIpQLSeMCH6GJRtMNhNniXHuqSPK1r2qpSVZI2rr5MxqPfROZcX3xw/viewform?usp=sf_link)
+If you are interested in participating in these convenings, please [*apply here!*](https://docs.google.com/forms/d/e/1FAIpQLSeMCH6GJRtMNhNniXHuqSPK1r2qpSVZI2rr5MxqPfROZcX3xw/viewform?usp=sf_link)
 
 Any and all skill-levels and backgrounds are invited to apply. Whether you have previously participated in a UX event hosted by Internews or you are new to the human-centered design space, there will be relevant programming for everyone.
