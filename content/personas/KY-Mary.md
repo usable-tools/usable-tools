@@ -6,7 +6,7 @@ country: "Kenya"
 gender: ["Women", "Female"]
 region: "Sub-Saharan Africa"
 profession: "IT Assistant"
-community: "Environmentalist"
+community: "Environmental Rights"
 tools: ["Veracrypt", "Laptop"]
 threats: ["Phishing", "DDOS"]
 short_quote: '"Nothing is impossible, the word itself says 'I'm Possible'"'
