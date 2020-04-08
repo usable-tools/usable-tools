@@ -9,7 +9,7 @@ profession: "IT Assistant"
 community: "Environmental Rights"
 tools: ["Laptop", "Veracrypt"]
 threats: ["Phishing", "DDOS"]
-short_quote: "Nothing is impossible, for the word itself says I am Possible"
+short_quote: "Nothing is impossible, for the word itself says I'm Possible"
 date: 2019-05-20T23:15:28-07:00
 pdf: "/pdfs/personas/KY_Mary.pdf"
 draft: false
