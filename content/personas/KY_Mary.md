@@ -1,16 +1,16 @@
 ---
 title: 'Kenya: "Mary"'
 image: "/images/personas/ky-mary.png"
-role: "IT Assistant and Trainer"
+role: "IT Assistant"
 country: "Kenya"
 gender: ["Women", "Female"]
 region: "Sub-Saharan Africa"
 profession: "IT Assistant"
 community: "Environmental Rights"
-tools: ["Veracrypt", "Laptop"]
+tools: ["Laptop", "Veracrypt"]
 threats: ["Phishing", "DDOS"]
-short_quote: '"Nothing is impossible, for the word itself says I"m Possible'"
-date: 2020-04-03T23:15:28-7:00
+short_quote: "Nothing is impossible, for the word itself says I am Possible"
+date: 2019-05-20T23:15:28-07:00
 pdf: "/pdfs/personas/KY_Mary.pdf"
 draft: false
 ---
