@@ -1,9 +1,9 @@
 ---
 title: "Kenya: Peter"
 image: "/images/personas/ky-peter.png"
-role: ["Researcher", "Healthcare Worker"]
+role: "Researcher"
 gender: ["Man", "Male"]
-region: "Middle East and Northern Africa"
+region: "Sub-saharan Africa"
 profession: "Researcher"
 community: "Environmental Rights"
 tools: ["Dropbox", "Laptop"]
