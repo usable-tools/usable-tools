@@ -1,6 +1,6 @@
 ---
 title: 'Kenya: "Mary"'
-image: "/images/personas/ky-mary.png"
+image: "/images/personas/KY-Mary.png"
 role: "IT Assistant"
 country: "Kenya"
 gender: ["Women", "Female"]
