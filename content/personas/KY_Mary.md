@@ -27,7 +27,7 @@ Mary wants to learn more about ethical hacking in order to help human rights def
 
 ## Threats
 
-**Distributed Denial of Service (DDOS)** attacks have been happening to other HROs in the region.
+**Distributed Denial of Service (DDOS)** attacks have been happening to other Human Rights Organizations in the region.
 
 **Spam and phishing** emails and SMS messages are often received by members of her organization.
 
