@@ -12,7 +12,7 @@ country: "Kenya"
 short_quote: '"No human is limited..."'
 date: 2019-05-20T23:15:28-07:00
 pdf: "/pdfs/personas/KY_Peter.pdf"
-draft: true
+draft: false
 ---
 
 ## Overview
