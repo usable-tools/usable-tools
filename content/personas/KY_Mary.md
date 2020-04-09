@@ -19,6 +19,8 @@ draft: false
 
 Mary is a **digital security trainer, gender policy expert, and a research consultant** with many years of experience conducting research for different organizations. She also trains activists and local communities on skills for adopting strategic non-violence and movement building to affect social change. She works as an **IT assistant** for an organization that promotes environmental rights. Recently, the organization was hit by **ransomware** and they lost a lot of information.
 
+She uses a **laptop for work and trainings** and uses **bitlocker and Veracrypt** to encrypt files and drives. She makes sure to use secure plug-ins in browser to enhance security. She also uses a cellphone daily and occasionally uses **social media.**
+
 
 ## Goals
 
