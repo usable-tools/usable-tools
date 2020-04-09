@@ -6000,7 +6000,6 @@ h3 {
   width: 100%; }
   .main-photo img {
     max-width: 100%;
-    min-height: 200px;
     height: auto;
     border-radius: 1.2rem;
     max-height: 400px;
