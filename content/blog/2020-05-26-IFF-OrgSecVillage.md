@@ -11,7 +11,7 @@ draft: false
 
 Internews is excited to announce that we will be hosting a virtual IFF Organizational Security Village from **June 8-12**. This event will bring together security auditors, digital security trainers, and other experts and practitioners for a five-day program of over 20 community-led sessions exploring five major themes in organizational security.
 
-<div style="text-align: center"><a href="https://globaltech.internews.org/blog/iff-orgsec"><img src="/images/blog/IFFOSV_Theme.png" alt="Five OrgSec Village Themes are 1. Approaches to OrgSec 2. OrgSec In Practice 3. Advanced Threats 4. Funding OrgSec Work 5. Monitoring and Evaluation" style="border: 0; width: 75%; padding: 1em;" /></a></div>
+<div style="text-align: center"><img src="/images/blog/IFFOSV_Theme.png" alt="Five OrgSec Village Themes are 1. Approaches to OrgSec 2. OrgSec In Practice 3. Advanced Threats 4. Funding OrgSec Work 5. Monitoring and Evaluation" style="border: 0; width: 75%; padding: 1em;" /></div>
 
 ### Virtual Village Format
 
