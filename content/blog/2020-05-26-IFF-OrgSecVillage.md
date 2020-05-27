@@ -9,7 +9,7 @@ draft: false
 ---
 ## IFF OrgSec Village
 
-Internews is excited to announce that we will be hosting a virtual IFF Organizational Security Village from **June 8-12**. This event will bring together security auditors, digital security trainers, and other experts and practitioners for a five-day program of over 20 community-led sessions exploring five major themes in organizational security.
+Internews is excited to announce that we will be hosting a virtual Internet Freedom Festival (IFF) Organizational Security Village from **June 8-12**. This event will bring together security auditors, digital security trainers, and other experts and practitioners for a five-day program of over 20 community-led sessions exploring five major themes in organizational security.
 
 <div style="text-align: center"><img src="/images/blog/IFFOSV_Theme.png" alt="Five OrgSec Village Themes are 1. Approaches to OrgSec 2. OrgSec In Practice 3. Advanced Threats 4. Funding OrgSec Work 5. Monitoring and Evaluation" style="border: 0; width: 75%; padding: 1em;" /></div>
 
@@ -17,7 +17,7 @@ Internews is excited to announce that we will be hosting a virtual IFF Organizat
 
 Based on feedback from the community, we have decided to host live sessions during the week, with each day of programming beginning around 12:30 UTC, and ending no later than 20:00 UTC. Each session will last approximately 50 minutes, with a short break in between sessions. We will be sharing a schedule and additional information on each session prior to the event. You are invited to join as many or as few sessions as you would like!
 
-We recognize that some folks may not be able to join due to timing or prior engagements. To ensure that everyone has the opportunity to contribute in some way, non-attributed, editable notes from each session will be made available. We will also use the IFF Mattermost for asynchronous collaboration and networking.
+We recognize that some folks may not be able to join due to timing or prior engagements. To ensure that everyone has the opportunity to contribute in some way, non-attributed, editable notes from each session will be made available. We will also use the IFF Mattermost for asynchronous collaboration and networking. If you do not have an IFF Mattermost account, please email team@internetfreedomfestival.org.
 
 ## Registration and CoC
 
