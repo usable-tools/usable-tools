@@ -1,7 +1,7 @@
 ---
 title: "Introducing ADOPTABLE"
 date: 2020-07-07 09:00:00
-author: "Ashley and Adriana"
+author: "Ashley, Adriana"
 main_image: "images/blog/focus_bw_human.jpg" # 342px × 178p ~2x1
 main_image_caption: ""
 tags: ["SAFETAG", "OrgSec", "UXFund", "USABLE", "funding", "UXForum", "ADOPTABLE"]
