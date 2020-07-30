@@ -4,8 +4,7 @@ date:   2019-08-11 10:09:25
 layout: page
 draft: false
 aliases:
-    - /methodology
-    - /guidebook
+    - /AXISevent2020
 ---
 
 <div style="text-align: center"><a href="/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf"><img src="/images/guidebook-download.png" alt="UX Feedback Guidebook cover" style="border: 0; padding: 1em;" /></a></div>
