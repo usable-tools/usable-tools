@@ -17,9 +17,10 @@ Each week of the convening offers participants a chance to collect stamps toward
 Following the convenings, participants will be able to integrate feedback collection into their existing audits and/or trainings, resulting in actionable feedback that will be shared directly with tool teams and developers. Additionally, participants will have the option to apply for funding to put these skills into practice.
 
 
-Individuals who receive this certification have the following qualifications:
+**Individuals who receive this certification have the following qualifications:**
 
-- Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools <img src="/images/AXIS/Stamps.PNG" alt="AXIS Certification Stamps" style="width: 15%; border: 0; float: right;" />
+<img src="/images/AXIS/Stamps.PNG" alt="AXIS Certification Stamps" style="width: 14%; border: 0; float: right;" />
+- Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools
 
 - Ability to connect and build trust with at-risk communities/users
 
