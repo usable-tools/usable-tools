@@ -2,13 +2,13 @@
 title: "Feedback Collection Certification"
 date: 2020-07-31 09:00:00
 author: "Adriana, Ashley"
-main_image: "images/blog/AxisLogo.png" # 342px × 178p ~2x1
+main_image: "images/events/AxisLogo.png" # 342px × 178p ~2x1
 main_image_caption: ""
 tags: ["AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
 ---
 
-We are excited to offer a new **Feedback Collection Certification**. As part of our 2020 event, **Axis: A Global Feedback Exchange for Trainers, Auditors, Designers, and Developers**, we are bringing together key communities to map privacy and security tools being used by at-risk organizations and to identify concrete ways that we can support improvements to those tools. 
+We are excited to offer a new **Feedback Collection Certification**. As part of our 2020 event, **Axis: A Global Feedback Exchange for Trainers, Auditors, Designers, and Developers**, we are bringing together key communities to map privacy and security tools being used by at-risk organizations and to identify concrete ways that we can support improvements to those tools.
 
 During the convenings, participants will explore and provide feedback on existing feedback collection resources such as The UX Feedback Collection Guidebook, the Exploratorium, and more. They will map tools being used in at-risk communities, develop organizational archetypes and adversary personas, practice feedback collection activities, learn how to synthesize and prioritize feedback, how to share that information with tool developers, and more.
 
