@@ -122,5 +122,7 @@ This closing session will outline immediate next steps (including the launch of 
 # Featured Resources
 
 - **[USABLE's UX Feedback Collection Guidebook](https://usable.tools/guidebook)**
+
 - **[Okthanks' Exploratorium](https://okthanks.com/exploratorium)**
+
 - **[Simply Secure's Knowledge Base](https://simplysecure.org/knowledge-base/)**
