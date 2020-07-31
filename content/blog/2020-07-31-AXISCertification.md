@@ -22,20 +22,29 @@ Following the convenings, participants will be able to integrate feedback collec
 <img src="/images/AXIS/Stamps.PNG" alt="AXIS Certification Stamps" style="width: 14%; border: 0; float: right;" />
 - Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools
 
+
 - Ability to connect and build trust with at-risk communities/users
+
 
 - Understanding of human-centered design and user-experience
 
+
 - Ability to collect tool-specific feedback during digital security trainings and/or organizational security audits (utilizing editable templates and activities for feedback collection)
+
 
 - Ability to understand and capture user needs and challenges at the individual, organization, and/or community levels (and present in the form of personas, archetypes, user stories, etc.)
 
+
 - Knowledge of common adversary tactics and strategies
+
 
 - Ability to synthesize, prioritize, and format tool-specific user feedback
 
+
 - Ability to communicate feedback effectively to developers and/or tool teams
 
+
 - Understanding of how to facilitate feedback collection activities virtually  
+
 
 - Access to a global network of digital security trainers, auditors, UX designers and accessibility experts, and developers
