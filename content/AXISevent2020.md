@@ -23,11 +23,11 @@ aliases:
 
 **Discovering AXIS Attendees** *(Tuesday, August 4)*
 
-This session will allow participants to explore their own personal/professional journey, learn about other participants, and establish group dynamics for the remainder of the event.
+- This session will allow participants to explore their own personal/professional journey, learn about other participants, and establish group dynamics for the remainder of the event.
 
 **Mapping Organizational Security Challenges and Tools** *(Thursday, August 6)*
 
-During this session, participants will map common security challenges that at-risk organizations face (such as shared passwords or collaborative documents) allowing us to identify regional and global trends. We will also map common tools that are being used by at-risk users and organizations.
+- During this session, participants will map common security challenges that at-risk organizations face (such as shared passwords or collaborative documents) allowing us to identify regional and global trends. We will also map common tools that are being used by at-risk users and organizations.
 
 ## On Your Own
 
@@ -36,7 +36,7 @@ During this session, participants will map common security challenges that at-ri
 
 ## Community-led Skill Shares
 
-**Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
+- **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
 
 
 # Week Two: August 10-14
@@ -45,11 +45,11 @@ During this session, participants will map common security challenges that at-ri
 
 **Building Trust and Engaging with At-risk Users** *(Tuesday, August 11)*
 
-Beyond technical skills, engaging with end-users also requires a set of "soft" skills. Join this session to learn more about building and maintaining trust with at-risk communities, facilitating feedback collection, and more!
+- Beyond technical skills, engaging with end-users also requires a set of "soft" skills. Join this session to learn more about building and maintaining trust with at-risk communities, facilitating feedback collection, and more!
 
 **Developing User Personas and Organizational Archetypes** *(Thursday, August 13)*
 
-This will be an interactive session where participants work together to develop user personas and organizational archetypes. These resources play an important role in the design process and allow developers to better understand community needs.
+- This will be an interactive session where participants work together to develop user personas and organizational archetypes. These resources play an important role in the design process and allow developers to better understand community needs.
 
 ## On Your Own
 
@@ -58,7 +58,7 @@ This will be an interactive session where participants work together to develop 
 
 ## Community-led sessions
 
-**Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
+- **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
 
 
 # Week Three: August 17-21
@@ -67,11 +67,11 @@ This will be an interactive session where participants work together to develop 
 
 **Developing Adversary Personas and Archetypes** *(Tuesday, August 18)*
 
-During this session, participants will work together to develop adversary personas and archetypes. These resources will illuminate the various motivations, favored means of attack, and resources being used by malicious actors targeting at-risk individuals or organizations. Understanding adversary capabilities will allow us to anticipate attacks and proactively develop practices and responses.
+- During this session, participants will work together to develop adversary personas and archetypes. These resources will illuminate the various motivations, favored means of attack, and resources being used by malicious actors targeting at-risk individuals or organizations. Understanding adversary capabilities will allow us to anticipate attacks and proactively develop practices and responses.
 
 **Content Sprint: Activities for Feedback Collection at the Organizational Level** *(Thursday, August 20)*
 
-This session will be formatted as a content sprint, where participants are invited to review, edit, and add to the existing library of feedback collection activities.
+- This session will be formatted as a content sprint, where participants are invited to review, edit, and add to the existing library of feedback collection activities.
 
 ## On Your Own
 
@@ -80,7 +80,7 @@ This session will be formatted as a content sprint, where participants are invit
 
 ## Community-led sessions
 
-**Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
+- **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
 
 
 # Week Four: August 24-28
@@ -89,11 +89,11 @@ This session will be formatted as a content sprint, where participants are invit
 
 **Considerations for Virtual Feedback Collection** *(Tuesday, August 25)*
 
-This session will explore the process and impact of virtual feedback collection. Collaboratively, we will develop a list of considerations for collecting feedback virtually.
+- This session will explore the process and impact of virtual feedback collection. Collaboratively, we will develop a list of considerations for collecting feedback virtually.
 
 **What's next? How do we put this into practice?** *(Thursday, August 27)*
 
-This closing session will outline immediate next steps (including the launch of a funding pool) and map actionable ways participants can implement lessons learned during AXIS in their every day work.
+- This closing session will outline immediate next steps (including the launch of a funding pool) and map actionable ways participants can implement lessons learned during AXIS in their every day work.
 
 ## On Your Own
 
@@ -101,7 +101,7 @@ This closing session will outline immediate next steps (including the launch of 
 
 ## Community-led sessions
 
-**Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
+- **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
 
 
 # Featured Resources
