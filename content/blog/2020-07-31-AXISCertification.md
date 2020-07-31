@@ -19,7 +19,7 @@ Following the convenings, participants will be able to integrate feedback collec
 
 Individuals who receive this certification have the following qualifications:
 
-- Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools <a<img src="/images/AXIS/Knowledge.png" alt="Knowledge of Open Source Tools Stamp" style="width: 15%; border: 0; float: right; padding: 1em;" /></a>
+- Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools <img src="/images/AXIS/Knowledge.png" alt="Knowledge of Open Source Tools Stamp" style="width: 15%; border: 0; float: right;" />
 
 - Ability to connect and build trust with at-risk communities/users
 
