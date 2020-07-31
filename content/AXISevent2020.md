@@ -5,6 +5,7 @@ layout: page
 draft: false
 aliases:
     - /AXISevent2020
+    - /AXIS2020
 ---
 
 <div style="text-align: center"><img src="/images/events/AxisLogo.png" alt="AXIS event logo, Blue Globe with stamps in circle" style="border: 0; padding: 1em;" /></a></div>
@@ -37,10 +38,6 @@ During this session, participants will map common security challenges that at-ri
 
 **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
 
-- Session One: *Wednesday, August 5* at 9:00am ET (1:00pm UTC, 9:00am Santiago(CLT), 4:00pm Kampala(EAT), 4:00pm Kyiv(EEST), 8:00pm Bangkok(UTC +7))
-
-- Session Two: *Wednesday, August 5* at 9:00pm ET (1:00am UTC, 9:00pm Santiago(CLT), 4:00am Kampala(EAT), 4:00am Kyiv(EEST), 8:00pm Bangkok(UTC +7))
-
 
 # Week Two: August 10-14
 
@@ -62,10 +59,6 @@ This will be an interactive session where participants work together to develop 
 ## Community-led sessions
 
 **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
-
-- Session Three: *Wednesday, August 12* at 9:00am ET (1:00pm UTC, 9:00am Santiago(CLT), 4:00pm Kampala(EAT), 4:00pm Kyiv(EEST), 8:00pm Bangkok(UTC +7))
-
-- Session Four: *Wednesday, August 12* at 9:00pm ET (1:00am UTC, 9:00pm Santiago(CLT), 4:00am Kampala(EAT), 4:00am Kyiv(EEST), 8:00pm Bangkok(UTC +7))
 
 
 # Week Three: August 17-21
@@ -89,10 +82,6 @@ This session will be formatted as a content sprint, where participants are invit
 
 **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
 
-- Session Five: *Wednesday, August 19* at 9:00am ET (1:00pm UTC, 9:00am Santiago(CLT), 4:00pm Kampala(EAT), 4:00pm Kyiv(EEST), 8:00pm Bangkok(UTC +7))
-
-- Session Six: *Wednesday, August 19* at 9:00pm ET (1:00am UTC, 9:00pm Santiago(CLT), 4:00am Kampala(EAT), 4:00am Kyiv(EEST), 8:00pm Bangkok(UTC +7))
-
 
 # Week Four: August 24-28
 
@@ -113,10 +102,6 @@ This closing session will outline immediate next steps (including the launch of 
 ## Community-led sessions
 
 **Community-led Skill Shares** Topics will be updated here the Friday before each week. Each community-led session will only be offered once per week.
-
-- Session Seven: *Wednesday, August 26* at 9:00am ET (1:00pm UTC, 9:00am Santiago(CLT), 4:00pm Kampala(EAT), 4:00pm Kyiv(EEST), 8:00pm Bangkok(UTC +7))
-
-- Session Eight: *Wednesday, August 26* at 9:00pm ET (1:00am UTC, 9:00pm Santiago(CLT), 4:00am Kampala(EAT), 4:00am Kyiv(EEST), 8:00pm Bangkok(UTC +7))
 
 
 # Featured Resources
