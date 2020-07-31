@@ -12,8 +12,8 @@ aliases:
 **Thank you for joining us for AXIS! Over the course of several weeks in August, we will come together to map privacy and security tools being used by at-risk organizations and identify concrete ways that we can support improvements to those tools. Through live sessions, podcasts, blog posts, and recorded content, participants will explore the process of feedback collection and build their own skills and knowledge. On average, we will ask participants to commit 4-6 hours per week reviewing content or joining live sessions. The full agenda can be found below. Please check back here each week throughout the event for updated content!**
 
 <a href="/pdfs/AgendaAXIS.pdf"><img src="/images/AXIS/AXISAgendaButton.png" alt="Download the AXIS agenda" style="width: 25%; border: 0; float: left; padding: 1em;" /></a>
-<a href="/pdfs/AgendaAXIS.pdf"><img src="/images/AXIS/AXISProgressButton.png" alt="Download the AXIS Progress Sheet" style="width: 25%; border: 0; float: center; padding: 1em;" /></a>
-<a href="/pdfs/AgendaAXIS.pdf"><img src="/images/AXIS/AXISCertButton.png" alt="AXIS Certification Information" style="width: 25%; border: 0; float: right; padding: 1em;" /></a>
+<a href="/pdfs/AgendaAXIS.pdf"><img src="/images/AXIS/AXISProgressButton.PNG" alt="Download the AXIS Progress Sheet" style="width: 25%; border: 0; float: center; padding: 1em;" /></a>
+<a href="/pdfs/AgendaAXIS.pdf"><img src="/images/AXIS/AXISCertButton.PNG" alt="AXIS Certification Information" style="width: 25%; border: 0; float: right; padding: 1em;" /></a>
 
 
 # Week One: August 3-7
@@ -36,7 +36,7 @@ During this session, participants will map common security challenges that at-ri
 
 ## On Your Own
 
-Read: **[Introduction to Human-Centered Design and User-Experience](https://usable.tools/blog/2020-07-31-UXandHCD/)**
+Read: **[Introduction to Human-Centered Design and User-Experience](https://usable.tools/blog/2020-07-31-uxandhcd/)**
 
 ## Community-led sessions
 
