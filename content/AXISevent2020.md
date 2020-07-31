@@ -7,7 +7,7 @@ aliases:
     - /AXISevent2020
 ---
 
-<div style="text-align: center"><a href="/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf"><img src="/images/guidebook-download.png" alt="UX Feedback Guidebook cover" style="border: 0; padding: 1em;" /></a></div>
+<div style="text-align: center"><img src="/images/events/AxisLogo.png" alt="AXIS event logo, Blue Globe with stamps in circle" style="border: 0; padding: 1em;" /></a></div>
 
 **Thank you for joining us for AXIS. Over the course of several weeks in August, we will come together to map privacy and security tools being used by at-risk organizations and identify concrete ways that we can support improvements to those tools. Through live sessions, podcasts, blog posts, and recorded content, participants will explore the process of feedback collection and build their own skills and knowledge. On average, we will ask participants to commit 4-6 hours per week reviewing content or joining live sessions. The full agenda can be found below. Please check back here each week throughout the event for updated content!**
 
