@@ -19,7 +19,7 @@ Following the convenings, participants will be able to integrate feedback collec
 
 **Individuals who receive this certification have the following qualifications:**
 
-<img src="/images/AXIS/Stamps.PNG" alt="AXIS Certification Stamps" style="width: 10%; border: 0; float: right;" />
+<img src="/images/AXIS/Stamps.PNG" alt="AXIS Certification Stamps" style="width: 11%; border: 0; float: right;" />
 - Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools
 
 
