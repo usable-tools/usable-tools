@@ -12,17 +12,29 @@ We are excited to offer a new **Feedback Collection Certification**. As part of 
 
 During the convenings, participants will explore and provide feedback on existing feedback collection resources such as The UX Feedback Collection Guidebook, the Exploratorium, and more. They will map tools being used in at-risk communities, develop organizational archetypes and adversary personas, practice feedback collection activities, learn how to synthesize and prioritize feedback, how to share that information with tool developers, and more.
 
+Each week of the convening offers participants a chance to collect stamps toward the Feedback Collection Certification by engaging and interacting with fundamental concepts important to understanding and implementing feedback within their communities.  
+
 Following the convenings, participants will be able to integrate feedback collection into their existing audits and/or trainings, resulting in actionable feedback that will be shared directly with tool teams and developers. Additionally, participants will have the option to apply for funding to put these skills into practice.
+
 
 Individuals who receive this certification have the following qualifications:
 
-- Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools
+- Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools <a <img src="/images/AXIS/AXISAgendaButton.png" alt="Knowledge of Open Source Tools Stamp" style="width: 10%; border: 0; float: right; padding: 1em;" /></a>
+
 - Ability to connect and build trust with at-risk communities/users
+
 - Understanding of human-centered design and user-experience
+
 - Ability to collect tool-specific feedback during digital security trainings and/or organizational security audits (utilizing editable templates and activities for feedback collection)
+
 - Ability to understand and capture user needs and challenges at the individual, organization, and/or community levels (and present in the form of personas, archetypes, user stories, etc.)
+
 - Knowledge of common adversary tactics and strategies
+
 - Ability to synthesize, prioritize, and format tool-specific user feedback
+
 - Ability to communicate feedback effectively to developers and/or tool teams
+
 - Understanding of how to facilitate feedback collection activities virtually  
+
 - Access to a global network of digital security trainers, auditors, UX designers and accessibility experts, and developers
