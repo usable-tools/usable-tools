@@ -19,24 +19,24 @@ Following the convenings, participants will be able to integrate feedback collec
 
 **Individuals who receive this certification have the following qualifications:**
 
-- Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools
+- **Knowledge of Open Source Tools:** Knowledge of open source privacy and security tools being developed and maintained, as well as an awareness of which at-risk communities are relying on these tools
 
-- Ability to connect and build trust with at-risk communities/users
+- **Building Trust With At-risk Communities:** Ability to connect and build trust with at-risk communities/users
 
-- Understanding of human-centered design and user-experience
+- **Understanding User Experience & Human Centered Design:** Understanding of human-centered design and user-experience
 
-- Ability to collect tool-specific feedback during digital security trainings and/or organizational security audits (utilizing editable templates and activities for feedback collection)
+- **Tool-Specific Feedback Collection:** Ability to collect tool-specific feedback during digital security trainings and/or organizational security audits (utilizing editable templates and activities for feedback collection)
 
-- Ability to understand and capture user needs and challenges at the individual, organization, and/or community levels (and present in the form of personas, archetypes, user stories, etc.)
+- **Understanding the User:** Ability to understand and capture user needs and challenges at the individual, organization, and/or community levels (and present in the form of personas, archetypes, user stories, etc.)
 
-- Knowledge of common adversary tactics and strategies
+- **Understanding Adversaries:** Knowledge of common adversary tactics and strategies
 
-- Ability to synthesize, prioritize, and format tool-specific user feedback
+- **Synthesizing, Prioritizing, and Formatting Feedback:** Ability to synthesize, prioritize, and format tool-specific user feedback
 
-- Ability to communicate feedback effectively to developers and/or tool teams
+- **Communicating User Feedback to Developers:** Ability to communicate feedback effectively to developers and/or tool teams
 
-- Understanding of how to facilitate feedback collection activities virtually  
+- **Virtual Engagements with Users:** Understanding of how to facilitate feedback collection activities virtually  
 
-- Access to a global network of digital security trainers, auditors, UX designers and accessibility experts, and developers
+- **Networking:** Access to a global network of digital security trainers, auditors, UX designers and accessibility experts, and developers
 
 <div style="text-align: center"><img src="/images/AXIS/Stamps_All.PNG" alt="AXIS Stamps" style="border: 0; padding: 1em;" /></div>
