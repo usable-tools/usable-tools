@@ -39,4 +39,4 @@ Following the convenings, participants will be able to integrate feedback collec
 
 - **Networking:** Access to a global network of digital security trainers, auditors, UX designers and accessibility experts, and developers
 
-<div style="text-align: center"><img src="/images/AXIS/Stamps_All.PNG" alt="AXIS Stamps" style="border: 0; padding: 1em;" /></div>
+<div style="text-align: center"><img src="/images/AXIS/Stamps_All.PNG" alt="All AXIS Stamps" style="border: 0; padding: 1em;" /></div>

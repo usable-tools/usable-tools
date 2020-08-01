@@ -8,7 +8,7 @@ tags: [AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
 ---
 
-Though business models vary case by case, there are significant differences between the development ecosystems of closed source tools (many of which are private and commercial) and open source tools. By understanding the humans and processes behind the tool, we can tailor our feedback and maximize the impact of our usability and accessibility recommendations. This blog explores tool team structures, providing insight into the design and development processes they implement.
+Though business models vary case by case, there are significant differences between the development ecosystems of closed source tools (many of which are private and commercial) and open source tools. By understanding the humans and processes behind the tool, we can tailor our feedback and maximize the impact of our usability and accessibility recommendations. This blog explores tool team structures, providing insight into the design and development processes they implement. 
 
 ## Understanding the Closed Source Ecosystem
 
@@ -42,4 +42,4 @@ A few examples of Open Source Ecosystems include:
 
 Given these ecosystems, relevant and synthesized feedback from at-risk users via proper channels is incredibly valuable, particularly for open source tool teams with limited capacity. Trainers, auditors, and other facilitators who engage regularly with at-risk users are uniquely positioned to serve as trusted intermediaries between end users and tool teams. Based on their in-depth knowledge of user needs and challenges, as well as their understanding of privacy and security tools, trainers and auditors are able to synthesize and prioritize feedback. By ensuring that tool teams receive high-quality feedback reduces the burden for development teams, particularly those that may have limited bandwidth and resources, and increases the likelihood of tool teams implementing meaningful usability and accessibility enhancements within the tools at-risk communities rely on.
 
-Though resources and structures may vary, the important role that users play in each of these ecosystems is undeniable. It is critical that we continue to connect, build trust, and close the feedback loop between tool creators and end users. In the end, we are all part of the same ecosystem working towards a more usable and secure future. 
+Though resources and structures may vary, the important role that users play in each of these ecosystems is undeniable. It is critical that we continue to connect, build trust, and close the feedback loop between tool creators and end users. In the end, we are all part of the same ecosystem working towards a more usable and secure future.
