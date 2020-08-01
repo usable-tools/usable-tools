@@ -2,13 +2,13 @@
 title: "Understanding Development Ecosystems & The Role of Trainers and Auditors"
 date: 2020-07-31 09:00:00
 author: "Ashley"
-main_image: "images/events/AxisLogo.png" # 342px × 178p ~2x1
+main_image: "images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
 main_image_caption: ""
 tags: [AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
 ---
 
-Though business models vary case by case, there are significant differences between the development ecosystems of closed source tools (many of which are private and commercial) and open source tools. By understanding the humans and processes behind the tool, we can tailor our feedback and maximize the impact of our usability and accessibility recommendations. This blog explores tool team structures, providing insight into the design and development processes they implement. 
+Though business models vary case by case, there are significant differences between the development ecosystems of closed source tools (many of which are private and commercial) and open source tools. By understanding the humans and processes behind the tool, we can tailor our feedback and maximize the impact of our usability and accessibility recommendations. This blog explores tool team structures, providing insight into the design and development processes they implement.
 
 ## Understanding the Closed Source Ecosystem
 

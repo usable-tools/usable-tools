@@ -2,7 +2,7 @@
 title: "Feedback Collection Certification"
 date: 2020-07-31 09:00:00
 author: "Adriana, Ashley"
-main_image: "images/events/AxisLogo.png" # 342px × 178p ~2x1
+main_image: "images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
 main_image_caption: ""
 tags: ["AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
@@ -39,4 +39,4 @@ Following the convenings, participants will be able to integrate feedback collec
 
 - **Networking:** Access to a global network of digital security trainers, auditors, UX designers and accessibility experts, and developers
 
-<div style="text-align: center"><img src="/images/AXIS/Stamps_All.PNG" alt="All AXIS Stamps" style="border: 0; padding: 1em;" /></div>
+<div style="text-align: center"><img src="/images/AXIS/AllStamps.PNG" alt="All AXIS Stamps" style="border: 0; padding: 1em;" /></div>
