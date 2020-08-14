@@ -10,6 +10,8 @@ draft: false
 
 **Collecting feedback from at-risk users is a critical first step, but it is not the final step in the process. To maximize the impact of the feedback loop between end-users and developers, trainers, auditors, and other facilitators should ensure that the feedback shared is of high quality, relevant, and consistent. This requires time spent reviewing, synthesizing, and prioritizing which pieces of feedback should be shared with the developer. The questions below will help guide trainers, auditors, and facilitators through this process.**
 
+<img src="/images/blog/Friends_Comic.png" alt="Image of comic that reads 'Before posting a new comic I sometimes ask a friend for feedback'" style="width: 33.33%; border: 0; float: right; padding: 1em;" />
+
 ### What are the common areas of confusion or frustration?
 
 It is important to focus on feedback that is common among multiple users. If multiple users are experiencing similar frustrations, this demonstrates that it is a shared challenge and not a one-off “user” error or misunderstanding. Understanding the scale of the issue will also help the developer prioritize the improvement.
