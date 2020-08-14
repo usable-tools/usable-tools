@@ -3,7 +3,7 @@ title: "Feedback Collection Certification"
 date: 2020-07-31 09:00:00
 author: "Adriana, Ashley"
 main_image: "images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
-main_image_caption: ""
+main_image_caption: "Image of the AxIS event logo"
 tags: ["AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
 ---

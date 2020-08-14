@@ -3,7 +3,7 @@ title: "Understanding Development Ecosystems & The Role of Trainers and Auditors
 date: 2020-07-31 09:00:00
 author: "Ashley"
 main_image: "images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
-main_image_caption: ""
+main_image_caption: "Image of the AXIS event logo"
 tags: [AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
 ---

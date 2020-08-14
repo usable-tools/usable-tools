@@ -3,7 +3,7 @@ title: "Overview of Feedback Collection Activities"
 date: 2020-08-07 09:00:00
 author: "Internews, Okthanks, Simply Secure"
 main_image: "images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
-main_image_caption: ""
+main_image_caption: "Image of the AXIS event logo"
 tags: [AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
 ---
