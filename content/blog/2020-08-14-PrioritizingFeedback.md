@@ -36,4 +36,4 @@ Most developers receive ad-hoc feedback from passionate users, who typically hav
 
 ### Stamp for this activity:
 
-<div style="text-align: center"><img src="/images/AXIS/PrioritizingFeedback.png" alt="Image of synthesizing and prioritizing feedback AXIS stamp" style="border: 0; padding: 1em;" /></div>
+<div style="text-align: center"><img src="/images/AXIS/PrioritizingFeedback.png" alt="Image of synthesizing and prioritizing feedback AXIS stamp" style="width:30%; border: 0; padding: 1em;" /></div>
