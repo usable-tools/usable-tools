@@ -3,7 +3,7 @@ title: "Selecting a Tool and Identifying Developers During the Feedback Collecti
 date: 2020-08-07 09:00:00
 author: "Ashley"
 main_image: "images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
-main_image_caption: ""
+main_image_caption: "Image of the AXIS event logo"
 tags: [AXIS", "USABLE", "HCD", "Guidebook", "ADOPTABLE"]
 draft: false
 ---
@@ -31,3 +31,7 @@ To maximize the impact of the feedback you are able to collect, look up the tool
 You may not always be able to know which method of feedback is preferred. If you do and you are comfortable or familiar with this method, contact the developers through this channel. If not, submit the feedback via the method with which you feel most comfortable. Submitting feedback via a less common channel is better than submitting no feedback.
 
 To make things a bit easier, USABLE has put together a quick list of products that have been vocal about wanting feedback from their users. This list of tools can be found *[here](https://usable.tools/pdfs/UXfeedbackCollectionGuidebook_ListOfTools.pdf).*
+
+### Stamp for this activity:
+
+<div style="text-align: center"><img src="/images/AXIS/FeedbackCollection.png" alt="Image of Tool-specific feedback collection AXIS stamp" style="border: 0; padding: 1em;" /></div>
