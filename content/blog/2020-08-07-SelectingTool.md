@@ -34,4 +34,4 @@ To make things a bit easier, USABLE has put together a quick list of products th
 
 ### Stamp for this activity:
 
-<div style="text-align: center"><img src="/images/AXIS/FeedbackCollection.png" alt="Image of Tool-specific feedback collection AXIS stamp" style="border: 0; padding: 1em;" /></div>
+<div style="text-align: center"><img src="/images/AXIS/FeedbackCollection.png" alt="Image of Tool-specific feedback collection AXIS stamp" style="width: 33.33%; border: 0; padding: 1em;" /></div>
