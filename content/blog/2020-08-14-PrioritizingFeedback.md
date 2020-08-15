@@ -10,17 +10,17 @@ draft: false
 
 **Collecting feedback from at-risk users is a critical first step, but it is not the final step in the process. To maximize the impact of the feedback loop between end-users and developers, trainers, auditors, and other facilitators should ensure that the feedback shared is of high quality, relevant, and consistent. This requires time spent reviewing, synthesizing, and prioritizing which pieces of feedback should be shared with the developer. The questions below will help guide trainers, auditors, and facilitators through this process.**
 
-<img src="/images/blog/Friends_Comic.png" alt="Image of comic that reads 'Before posting a new comic I sometimes ask a friend for feedback'" style="width: 33.33%; border: 0; float: right; padding: 1em;" />
+<img src="/images/blog/Friends_Comic.png" alt="Image of comic that reads 'Before posting a new comic I sometimes ask a friend for feedback'" style="width: 40%; border: 0; float: right; padding: 1em;" />
 
 ### What are the common areas of confusion or frustration?
 
-It is important to focus on feedback that is common among multiple users. If multiple users are experiencing similar frustrations, this demonstrates that it is a shared challenge and not a one-off “user” error or misunderstanding. Understanding the scale of the issue will also help the developer prioritize the improvement.
+It is important to focus on feedback that is common among multiple users. If multiple people are experiencing similar frustrations, this demonstrates that it is a shared challenge and not a one-off “user” error or misunderstanding. Understanding the scale of the issue will also help the developer prioritize the improvement.
 
 ### What are the common features or processes that users appreciate or are able to navigate easily?
 
-While it is easy to focus on areas of a tool that users struggle with, it can also be helpful to highlight features or processes that users appreciate. This information will ensure that developers do not change or remove these features in the future.
+While it is easy to focus on areas of a tool that users struggle with, it can also be helpful to highlight features or processes that users appreciate or depend on day-to-day. This information will ensure that developers do not change or remove these features in the future.
 
-### How frequently does the user need to complete the frustrating or confusing task?
+### How frequently does the user need to complete the task?
 
 Consider the frequency of the task, as well as how important the task may be to the overall function of the tool. For example, if the user is struggling with a particular task within the tool, but it is not a task they will need to complete regularly (such as configuring settings), this may not be a priority for the developer. However, if it is a task that the user will need to complete on a regular basis that is causing frustration, this likely will be a priority for the developer. Alternatively, if a task does not need to be completed often, but is essential to the functioning of the tool, this can also be a major barrier that should be prioritized by the developer. For example, if a user struggles to install the program properly or setup the program to run, this may prevent them from properly using the tool, even though it may only need to be completed once.
 
@@ -35,6 +35,12 @@ Beyond simply highlighting areas of confusion or frustration, the facilitator, t
 ### How can I streamline the feedback process and maintain this feedback loop with the developer?
 
 Most developers receive ad-hoc feedback from passionate users, who typically have some level of technical knowledge, but do not usually represent the average user of the tool or application. Trainers, auditors, and facilitators are positioned to capture feedback from real users, prioritize it based on relevance and quality, and share it in a streamlined format. By formalizing this process, trainers and facilitators will be able to share feedback more regularly.
+
+### Resources/additional information:
+
+- **[Approachability of KeePassXC: Can anyone use it?](https://okthanks.com/blog/2019/3/6/keepassxc-can-anyone-use-it)** Blog post by Okthanks after a usability study of KeePassXC
+- Simply Secure’s **[Guide to Gathering Feedback](https://simplysecure.org/blog/feedback-gathering-guide)**
+- Simply Secure’s **[User Testing & Feedback with Tails Blog Post](https://simplysecure.org/blog/formative-testing)**
 
 ### Stamp for this activity:
 
