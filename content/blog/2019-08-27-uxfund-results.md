@@ -15,7 +15,7 @@ Profiles of this round of UXFund grantees can be found below.
 **Mailvelope** -- https://www.mailvelope.com
 [Mailvelope](https://www.mailvelope.com/en/about) is a free browser plugin for Chrome and Firefox that enables end-to-end encryption integrating directly with your web-based mail provider, whether you are using Gmail, Yahoo! Mail, or Microsoft webmail. Mailvelope is an open-source project currently hosted on [github](https://github.com/mailvelope/mailvelope).
 
-<br/>
+<br clear="both" />
 
 ---
 
@@ -23,7 +23,7 @@ Profiles of this round of UXFund grantees can be found below.
 **KeePassXC (KPXC)** -- https://keepassxc.org
 [KeePassXC](https://keepassxc.org) is a password manager that allows users to store passwords safely and auto-type them into everyday websites and applications. KPXC is an actively developed cross-platform port of the original KeePass application. KPXC is an open-source project currently hosted on [github](https://github.com/keepassxreboot/keepassxc).
 
-<br/>
+<br clear="both" />
 
 ---
 
@@ -35,7 +35,7 @@ Profiles of this round of UXFund grantees can be found below.
 ---
 
 <img src="/images/logos/A11Logo.png" alt="Accessibility Lab Logo" style="float: left; margin: .5em; width: 30%; "/>
-**Accessibility Lab** -- http://a11ylab.com/en
+**Accessibility Lab** -- https://a11ylab.com/en
 [Accessibility Lab](https://a11ylab.com/en) is an organization based in Mexico which specializes in web accessibility audits and trainings. Under this second round of the UXFund, Internews is supporting Accessibility Lab as they expand their capacity to work directly with open source tool teams. In addition to conducting accessibility audits, the Accessibility Lab team will also provide guidance to tool teams and specific recommendations to improve the accessibility of tools and websites.
 
 <br clear="both" />
