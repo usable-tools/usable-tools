@@ -36,7 +36,7 @@ Profiles of this round of UXFund grantees can be found below.
 
 <img src="/images/logos/A11Logo.png" alt="Accessibility Lab Logo" style="float: left; margin: .5em; width: 30%; "/>
 **Accessibility Lab** -- http://a11ylab.com/en
-[Accessibility Lab](http://a11ylab.com/en) is an organization based in Mexico which specializes in web accessibility audits and trainings. Under this second round of the UXFund, Internews is supporting Accessibility Lab as they expand their capacity to work directly with open source tool teams. In addition to conducting accessibility audits, the Accessibility Lab team will also provide guidance to tool teams and specific recommendations to improve the accessibility of tools and websites.
+[Accessibility Lab](https://a11ylab.com/en) is an organization based in Mexico which specializes in web accessibility audits and trainings. Under this second round of the UXFund, Internews is supporting Accessibility Lab as they expand their capacity to work directly with open source tool teams. In addition to conducting accessibility audits, the Accessibility Lab team will also provide guidance to tool teams and specific recommendations to improve the accessibility of tools and websites.
 
 <br clear="both" />
 
@@ -52,4 +52,4 @@ Profiles of this round of UXFund grantees can be found below.
 
 <img src="/images/logos/GuardianLogo.png" alt="The Guardian Project Logo" style="float: left; margin: .5em; width: 30%;"/>
 **Guardian Project (Orbot)** -- https://guardianproject.info/apps/orbot
-[The Guardian Project](https://guardianproject.info/apps/orbot) is a global collective of software developers, designers, advocates, activists, and trainers who develop open source mobile security software and operating system enhancements. Orbot is a free software Proxy server project which allows Android users anonymity on the Internet. Orbot is an open-source project currently hosted on github (https://github.com/guardianproject).
+[The Guardian Project](https://guardianproject.info/apps/orbot) is a global collective of software developers, designers, advocates, activists, and trainers who develop open source mobile security software and operating system enhancements. Orbot is a free software Proxy server project which allows Android users anonymity on the Internet. Orbot is an open-source project currently hosted on [github](https://github.com/guardianproject).
