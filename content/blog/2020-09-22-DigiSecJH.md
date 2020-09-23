@@ -2,9 +2,9 @@
 title: "A very short story about digital security for young women"
 date: 2020-09-22 09:00:00
 author: "Juliana Harsianti"
-main_image: "images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
+main_image: "/images/AXIS/AxisLogo.png" # 342px × 178p ~2x1
 main_image_caption: "Image of the AXIS event logo"
-tags: [AXIS", "USABLE", "Feedback Collection", "ADOPTABLE"]
+tags: ["AXIS", "USABLE", "Feedback Collection", "ADOPTABLE"]
 draft: false
 ---
 
