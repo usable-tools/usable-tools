@@ -1,10 +1,10 @@
 ---
-title: "Rights Con 2020: What happens between SAFETAG-based audits in NGOs? Long term tech support
+title: "Rights Con 2020: What happens between SAFETAG-based audits in NGOs? Long term tech support"
 date: 2020-09-18 09:00:00
 author: "Adriana"
 main_image: "images/blog/RC_01.png" # 342px × 178p ~2x1
-main_image_caption: "Image with USABLE logo and title What happens between SAFETAG-based audits in NGOs? Long term tech support
-tags: ["RightsCon2020"", "USABLE", "Community-led", "SAFETAG", "Audit", "ADOPTABLE"]
+main_image_caption: "Image with USABLE logo and title What happens between SAFETAG-based audits in NGOs? Long term tech support"
+tags: ["RightsCon2020"", "USABLE", "Communityled", "SAFETAG", "Audit", "ADOPTABLE"]
 draft: false
 ---
 
