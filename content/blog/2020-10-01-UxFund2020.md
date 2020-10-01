@@ -1,0 +1,78 @@
+---
+title: "Announcing the 2020-2021 UxFund"
+date: 2020-10-01 09:00:00
+author: "Ashley"
+main_image: "images/blog/UXFund2020.png" # 342px × 178p ~2x1
+main_image_caption: "Image with title Announcing the UXFund 2020-2021 in text"
+tags: ["UXFund", "USABLE", "Feedback Collection", "ADOPTABLE"]
+draft: false
+---
+
+We are excited to announce the launch of the latest round of the UXFund, a targeted pool of funding dedicated to improving the usability of open source security and privacy tools used by at-risk communities around the globe.
+
+Developers, maintainers, and other representatives of open source tool teams are invited to apply on behalf of an open source privacy and security tool. Winning applications must demonstrate a commitment to high-impact usability solutions, and incorporate human-centered design principles, including user testing, engagement with end-users, as well as a willingness to work directly with digital security trainers and auditors around the globe. The goal of this funding is to support stronger feedback loops among tool teams and their target user base, and ultimately make tools more usable for those who need them most.
+
+The majority of the UXFund will support work addressing the needs of at-risk persons and/or vulnerable populations (e.g. ethnic minorities, LGBTQI communities, people with disabilities, and women), but there are limited funds available for deeper tool re-architecture, if clear usability-enhancing outputs are presented.
+
+This round of the UXFund will also prioritize tools or platforms that apply to address unique challenges that are faced at the organization or community level, such as shared password management or encrypted collaboration tools.
+
+The amount of funding provided will vary based on the specific needs of the tool, but will likely range from $5,000 to $50,000 USD. The funding period will likely span from November 2020 through June 2021.
+
+## DEADLINE TO APPLY
+
+All applications should be submitted before October 30, 2020.
+
+## WHAT WILL WE FUND?
+
+- User-testing/user-engagements designed to collect feedback from at-risk users
+- Design sprints
+- UX, design, or accessibility consultants/support
+- Staff time for the design/development of usability and accessibility improvements (new features, documentation, etc.)
+- Experts/consultants to support with reviewing and prioritizing user feedback, documentation, etc.
+- And more!
+
+## HOW WILL APPLICATIONS BE SCORED?
+
+All applications are required to include the following:  
+
+- Must include user testing or feedback collection from target at-risk users (Internews will connect tool teams with communities as needed)
+- Must work with users and/or training or auditing community
+- Must use standard usability and accessibility guidelines where appropriate
+
+Please see below for our judging criteria and funding requirements.
+
+Applications will be reviewed by a three-person technical committee based on the criteria provided below.
+
+1. Quality of Program Idea and Associated Activities: 30 Points
+  - Address a need which would improve the usability for one or more user persona developed under the USABLE project (https://usable.tools/personas/)
+  - Improve accessibility and internationalization
+  - Incorporate human-centered design principles and user testing
+  - Tool is open source and has good development practices
+  - Tool already exists (we are not able to fund the development of new tools)
+
+2. Program Planning/Ability to Achieve Objectives: 15 Points
+  - Provide a detailed work plan for tool development and testing phases
+  - Demonstrate how this work is crucial to promoting high-impact usability solutions
+
+3. Institution’s Record and Capacity: 25 Points
+  - Demonstrate legal registration
+  - Be in good standing in performance and reporting under any previous subgrants, from Internews or any other organization, where applicable
+  - Be able to meet all reporting requirements and deadlines
+
+4. Cost Effectiveness (including Cost Share): 20 Points
+  - Be able and willing to demonstrate the tool’s commitment to continuing proposed activities after the subgrant period ends
+
+5. Program Monitoring and Evaluation: 10 Points
+  - Provide a detailed plan to effectively monitor and evaluate grant progress and deliverables
+
+  This funding will be administered in accordance with The Department of Human Rights and Labor/Department of State [standard terms and conditions](https://www.statebuy.state.gov/fa/Documents/2015DeptTermsAndConditionsForUSandForeignOrg.pdf).
+
+  In addition, regulations and provisions, at minimum, of [2CFR200 and 2CFR600](http://www.ecfr.gov/cgi-bin/text-idx?SID=de342bfd8f33c25cd6f657e006dc5481&node=pt2.1.600&rgn=div5) Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, will apply to subawards issued as a result of this request for applications.
+
+  Proposal budgets will be reviewed in accordance with, and selected subrecipients’ costs will be subject to the cost principles that apply to them to assure reasonableness, allocability, and allowability as per [2CFR200 Subpart E](http://www.ecfr.gov/cgi-bin/text-idx?SID=3a5b24a09e5a2bee7c2d178e2e9ca53e&mc=true&node=pt2.1.200&rgn=div5), Cost Principles.
+
+  ## HOW TO APPLY?
+
+  You may submit an application online via this Google Form: https://docs.google.com/forms/d/e/1FAIpQLScv08zZVkrEXA9B5XLI_DKEsgtB9BV3_RzQFIrvL4rodxtSew/viewform
+
+  If you prefer to submit the application using PGP, you may email afowler@internews.org. Public key is available here: https://usable.tools/pdfs/Ashley_PGPkey.pdf
