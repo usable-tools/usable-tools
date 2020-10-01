@@ -5,6 +5,7 @@ layout: page
 draft: false
 aliases:
     - /UXFundingPool
+    - /UXFCF2020
 
 ---
 
