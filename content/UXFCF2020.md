@@ -16,7 +16,7 @@ Applicants will be expected to organize user engagements, collect feedback direc
 
 Whether collecting tool-specific feedback or developing general resources such as user personas or organizational archetypes, applicants will be providing valuable insights to open source tool teams wishing to implement usability and accessibility improvements.
 
-We expect grants to average $1,500 USD, though some flexibility is available. Please do not submit budget proposals over $5,000 USD. If you are able to implement your project on a small budget, please be modest as it will open up more resources for fellow AXIS participants. All user feedback engagements must be implemented before May 31, 2021.
+The amount of funding provided will vary based on the specific circumstances and proposed activities, but we ask that you do not submit budget proposals over $5,000 USD. If you are able to implement your project on a small budget, please be modest as it will open up more resources for fellow AXIS participants. All user feedback engagements must be implemented before May 31, 2021.
 
 ## DEADLINE TO APPLY
 
