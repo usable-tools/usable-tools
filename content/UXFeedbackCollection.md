@@ -1,78 +1,79 @@
 ---
-title: "Announcing the 2020-2021 UxFund"
+title: "Announcing the 2020-2021 UX Feedback Collection Funding Pool"
 date: 2020-10-01 09:00:00
 author: "Ashley"
-main_image: "images/blog/UXFund2020.png" # 342px × 178p ~2x1
-main_image_caption: "Image with title Announcing the UXFund 2020-2021 in text"
-tags: ["UXFund", "USABLE", "Feedback Collection", "ADOPTABLE"]
+main_image: "images/blog/FCFPool.png" # 342px × 178p ~2x1
+main_image_caption: "Image with title Announcing the 2020-2021 UX Feedback Collection Funding Pool in blue text"
+tags: ["USABLE", "Feedback Collection", "ADOPTABLE"]
 draft: false
 ---
 
-We are excited to announce the launch of the latest round of the UXFund, a targeted pool of funding dedicated to improving the usability of open source security and privacy tools used by at-risk communities around the globe.
+Following AXIS, we are inviting trainers, auditors, and other experts to apply for a modest amount of funding to implement UX feedback collection in their local communities.
 
-Developers, maintainers, and other representatives of open source tool teams are invited to apply on behalf of an open source privacy and security tool. Winning applications must demonstrate a commitment to high-impact usability solutions, and incorporate human-centered design principles, including user testing, engagement with end-users, as well as a willingness to work directly with digital security trainers and auditors around the globe. The goal of this funding is to support stronger feedback loops among tool teams and their target user base, and ultimately make tools more usable for those who need them most.
+Applicants will be expected to organize user engagements, collect feedback directly from at-risk users, and then synthesize and share that feedback with open source privacy and security tool teams. The goal of this funding is to support stronger feedback loops among tool teams and their target user base, and ultimately make tools more usable for those who need them most.
 
-The majority of the UXFund will support work addressing the needs of at-risk persons and/or vulnerable populations (e.g. ethnic minorities, LGBTQI communities, people with disabilities, and women), but there are limited funds available for deeper tool re-architecture, if clear usability-enhancing outputs are presented.
+Whether collecting tool-specific feedback or developing general resources such as user personas or organizational archetypes, applicants will be providing valuable insights to open source tool teams wishing to implement usability and accessibility improvements.
 
-This round of the UXFund will also prioritize tools or platforms that apply to address unique challenges that are faced at the organization or community level, such as shared password management or encrypted collaboration tools.
-
-The amount of funding provided will vary based on the specific needs of the tool, but will likely range from $5,000 to $50,000 USD. The funding period will likely span from November 2020 through June 2021.
+We expect grants to average $1,500 USD, though some flexibility is available. Please do not submit budget proposals over $5,000 USD. If you are able to implement your project on a small budget, please be modest as it will open up more resources for fellow AXIS participants. All user feedback engagements must be implemented before May 31, 2021.
 
 ## DEADLINE TO APPLY
 
-All applications should be submitted before October 30, 2020.
+The application will close on October 30, 2020.
 
 ## WHAT WILL WE FUND?
 
-- User-testing/user-engagements designed to collect feedback from at-risk users
-- Design sprints
-- UX, design, or accessibility consultants/support
-- Staff time for the design/development of usability and accessibility improvements (new features, documentation, etc.)
-- Experts/consultants to support with reviewing and prioritizing user feedback, documentation, etc.
-- And more!
+- Digital security trainings (with integrated feedback collection)
+- Organizational audits (with integrated feedback collection)
+- User engagements
+- Trainer/auditor/designer/user-experience expert meet-ups
+- Developer engagements
+
+Engagements can be in-person, virtual, or a combination of both!
+
+Budgets can include costs such as:
+
+- Funding for you as a trainer, auditor, or facilitator
+- Funding for a co-facilitator/observer to help collect feedback
+- Funding for participants or incentives (stipends, licenses, etc.)
+- Materials (printing, design, etc.)
+- Costs associated with in-person events (venue, catering, travel, etc.)
+- Costs associated with virtual events (data, internet, etc.)
 
 ## HOW WILL APPLICATIONS BE SCORED?
 
-All applications are required to include the following:  
-
-- Must include user testing or feedback collection from target at-risk users (Internews will connect tool teams with communities as needed)
-- Must work with users and/or training or auditing community
-- Must use standard usability and accessibility guidelines where appropriate
-
-Please see below for our judging criteria and funding requirements.
-
 Applications will be reviewed by a three-person technical committee based on the criteria provided below.
 
-1. Quality of Program Idea and Associated Activities: 30 Points
-  - Address a need which would improve the usability for one or more user persona developed under the USABLE project (https://usable.tools/personas/)
-  - Improve accessibility and internationalization
-  - Incorporate human-centered design principles and user testing
-  - Tool is open source and has good development practices
-  - Tool already exists (we are not able to fund the development of new tools)
+1. Proposal reflects the goals of the funding pool:
+- Increases the amount of quality user feedback provided to open source tool developers, elevating the needs of at-risk communities;
+- Provides digital security training or support to at-risk end-users and organizations;
+- Generates and publishes documentation to support feedback loops, such as personas, archetypes, resources for trainers or auditors, or documentation of usability roadblocks in the open source world;
+- Creates and maintains positive, mutually respectful feedback loops among developer and at-risk communities.
 
-2. Program Planning/Ability to Achieve Objectives: 15 Points
-  - Provide a detailed work plan for tool development and testing phases
-  - Demonstrate how this work is crucial to promoting high-impact usability solutions
+2. Proposal is relevant to the local community:
+- Responds to security needs of a particular community;
+- Outlines how tools selected are relevant for the local users or participants;
+- Highlights long-term engagement or any plans for follow-up with the target community.
 
-3. Institution’s Record and Capacity: 25 Points
-  - Demonstrate legal registration
-  - Be in good standing in performance and reporting under any previous subgrants, from Internews or any other organization, where applicable
-  - Be able to meet all reporting requirements and deadlines
+3. Clear outputs from the activity/engagement:
+- Explains how user experience feedback will be collected from target group;
+- Includes a simple work plan and timeline explaining when the activities will take place;
+- Outlines how feedback will be documented and converted to a format that is accessible for developer(s), including target numbers for each output (# of people or organizations engaged/trained, # of personas or archetypes developed, # of pieces of tool-specific feedback collected, etc.);
+- Establishes a clear plan for connecting with the developer or tool team to share feedback (Internews can provide support as needed when connecting with tool teams).
 
-4. Cost Effectiveness (including Cost Share): 20 Points
-  - Be able and willing to demonstrate the tool’s commitment to continuing proposed activities after the subgrant period ends
+4. Includes ongoing engagement plan with an open source developer(s):
+- Includes a specific plan to connect with developer(s), such as Jitsi Meet calls, Email, GitHub issue submissions, etc.;
+- Outlines plan to follow-up with or stay connected with developer(s) after the engagement.
 
-5. Program Monitoring and Evaluation: 10 Points
-  - Provide a detailed plan to effectively monitor and evaluate grant progress and deliverables
+5. Cost effectiveness:
+- Provides reasonable cost estimates that have a clear justification;
+- Highlights any additional funding that may complement this work.
 
-  This funding will be administered in accordance with The Department of Human Rights and Labor/Department of State [standard terms and conditions](https://www.statebuy.state.gov/fa/Documents/2015DeptTermsAndConditionsForUSandForeignOrg.pdf).
+6. Risk Mitigation
+- Demonstrates a record of safely operating in hostile digital environments or engaging with at-risk users;
+- Provides clear justification and mitigation strategies for any proposed in-person engagements (in light of the COVID-19 pandemic).
 
-  In addition, regulations and provisions, at minimum, of [2CFR200 and 2CFR600](http://www.ecfr.gov/cgi-bin/text-idx?SID=de342bfd8f33c25cd6f657e006dc5481&node=pt2.1.600&rgn=div5) Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, will apply to subawards issued as a result of this request for applications.
+## HOW TO APPLY?
 
-  Proposal budgets will be reviewed in accordance with, and selected subrecipients’ costs will be subject to the cost principles that apply to them to assure reasonableness, allocability, and allowability as per [2CFR200 Subpart E](http://www.ecfr.gov/cgi-bin/text-idx?SID=3a5b24a09e5a2bee7c2d178e2e9ca53e&mc=true&node=pt2.1.200&rgn=div5), Cost Principles.
+You may apply as an individual or an organization by submitting an application online via this Google Form: https://docs.google.com/forms/d/e/1FAIpQLScMdyN_uZFK43Z5XRErjL7hT5U27j10tMUu5iOs35U0zaqjBw/viewform?usp=sf_link
 
-  ## HOW TO APPLY?
-
-  You may submit an application online via this Google Form: https://docs.google.com/forms/d/e/1FAIpQLScv08zZVkrEXA9B5XLI_DKEsgtB9BV3_RzQFIrvL4rodxtSew/viewform
-
-  If you prefer to submit the application using PGP, you may email afowler@internews.org. Public key is available here: https://usable.tools/pdfs/Ashley_PGPkey.pdf
+If you prefer to submit the application using PGP, you may email afowler@internews.org. Public key is available here: https://usable.tools/pdfs/Ashley_PGPkey.pdf
