@@ -46,32 +46,32 @@ Budgets can include costs such as:
 
 Applications will be reviewed by a three-person technical committee based on the criteria provided below.
 
-1. Proposal reflects the goals of the funding pool:
+**1. Proposal reflects the goals of the funding pool:**
 - Increases the amount of quality user feedback provided to open source tool developers, elevating the needs of at-risk communities;
 - Provides digital security training or support to at-risk end-users and organizations;
 - Generates and publishes documentation to support feedback loops, such as personas, archetypes, resources for trainers or auditors, or documentation of usability roadblocks in the open source world;
 - Creates and maintains positive, mutually respectful feedback loops among developer and at-risk communities.
 
-2. Proposal is relevant to the local community:
+**2. Proposal is relevant to the local community:**
 - Responds to security needs of a particular community;
 - Outlines how tools selected are relevant for the local users or participants;
 - Highlights long-term engagement or any plans for follow-up with the target community.
 
-3. Clear outputs from the activity/engagement:
+**3. Clear outputs from the activity/engagement:**
 - Explains how user experience feedback will be collected from target group;
 - Includes a simple work plan and timeline explaining when the activities will take place;
 - Outlines how feedback will be documented and converted to a format that is accessible for developer(s), including target numbers for each output (# of people or organizations engaged/trained, # of personas or archetypes developed, # of pieces of tool-specific feedback collected, etc.);
 - Establishes a clear plan for connecting with the developer or tool team to share feedback (Internews can provide support as needed when connecting with tool teams).
 
-4. Includes ongoing engagement plan with an open source developer(s):
+**4. Includes ongoing engagement plan with an open source developer(s):**
 - Includes a specific plan to connect with developer(s), such as Jitsi Meet calls, Email, GitHub issue submissions, etc.;
 - Outlines plan to follow-up with or stay connected with developer(s) after the engagement.
 
-5. Cost effectiveness:
+**5. Cost effectiveness:**
 - Provides reasonable cost estimates that have a clear justification;
 - Highlights any additional funding that may complement this work.
 
-6. Risk Mitigation
+**6. Risk Mitigation**
 - Demonstrates a record of safely operating in hostile digital environments or engaging with at-risk users;
 - Provides clear justification and mitigation strategies for any proposed in-person engagements (in light of the COVID-19 pandemic).
 
