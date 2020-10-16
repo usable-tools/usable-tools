@@ -15,11 +15,8 @@ draft: false
 **Panel:**
 
     - Nancy Reyes, Trainer and Accessibility Consultant at [Accessibility Lab](http://www.a11ylab.com/?lang=EN)
-
     - Mario Felaco, Security Auditor at [Conexo](https://conexo.org)
-
     - Carrie Winfrey, Founder and Design Lead at [Okthanks](https://okthanks.com)
-
     - Helen Nyinakiiza, Digital Security Trainer in Kampala, Uganda
 
 ### Why is it important to involve users in the design and development of open source tools? How do we sustain feedback loops between at-risk users and open source tool teams?
