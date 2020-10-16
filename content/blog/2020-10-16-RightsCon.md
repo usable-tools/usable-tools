@@ -12,7 +12,7 @@ draft: false
 
 **Moderator:** Ashley Fowler, Technical Program Officer at [Internews](https://internews.org/)
 
-**Panel:**
+- **Panel:**
 
     - Nancy Reyes, Trainer and Accessibility Consultant at [Accessibility Lab](http://www.a11ylab.com/?lang=EN)
     - Mario Felaco, Security Auditor at [Conexo](https://conexo.org)
