@@ -13,9 +13,13 @@ draft: false
 **Moderator:** Ashley Fowler, Technical Program Officer at [Internews](https://internews.org/)
 
 **Panel:**
+
     - Nancy Reyes, Trainer and Accessibility Consultant at [Accessibility Lab](http://www.a11ylab.com/?lang=EN)
+
     - Mario Felaco, Security Auditor at [Conexo](https://conexo.org)
+
     - Carrie Winfrey, Founder and Design Lead at [Okthanks](https://okthanks.com)
+
     - Helen Nyinakiiza, Digital Security Trainer in Kampala, Uganda
 
 ### Why is it important to involve users in the design and development of open source tools? How do we sustain feedback loops between at-risk users and open source tool teams?
@@ -26,21 +30,21 @@ Feedback should not only be collected towards the end of the development cycle, 
 
 Nancy noted that it is imperative to also include people with disabilities in the design process of the tool, and seek their feedback early on in the process, in order to build more accessible tools.
 
----
+<img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
 Web Accessibility Guidelines exist and can support the inclusion of people with disabilities. Learn more at https://w3.org/TR/WCAG21/.
 
----
+<img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
 ### Are there simple ways to integrate feedback collection into existing training or engagements with end users?
 
 There are lots of lightweight and fun ways to collect feedback! Panelists shared several methods they have used, emphasizing that you can even collect feedback over dinner or coffee. In fact, making it a no pressure, lightweight social event helps people feel more comfortable and results in more accurate, real feedback. If you are conducting a more formal digital security training, you can wander around and observe how people are interacting with the tool and identify where they are facing hurdles. Collect those insights and pain points as feedback you can later send to the tool developer. It can be particularly useful to identify a co-trainer or “observer” whose sole responsibility during a training is to watch and document user behavior, capturing specific feedback that can inform tool teams.
 
----
+<img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
 Listening groups, surveys, and trainings are all different channels for  collecting feedback. Check out the [UX Feedback Collection Guidebook](https://usable.tools/guidebook/) and the Okthanks [Exploratorium](https://okthanks.com/exploratorium) for more activities! There are also initiatives like [USABLE](https://usable.tools) and the [OTF Usability Lab](https://www.opentech.fund/labs/usability-lab/) that can fund user engagements or design and accessibility support for open source tool teams.
 
----
+<img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
 ### What role does trust play when collecting user feedback?
 
