@@ -21,7 +21,7 @@ The amount of funding provided will vary based on the specific circumstances and
 
 ## DEADLINE TO APPLY
 
-The application will close on October 30, 2020.
+The application will close on November 15, 2020.
 
 ## WHAT WILL WE FUND?
 
