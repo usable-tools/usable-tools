@@ -9,6 +9,12 @@ aliases:
 
 <div style="text-align: center"><img src="/images/AXIS/AxisLogo.png" alt="AXIS event logo, Blue Globe with stamps in circle" style="border: 0; padding: 1em;" /></a></div>
 
+Many of the most at-risk communities around the globe rely on open source privacy and security tools. However, these tools are often designed, developed, and maintained by individuals or small teams who have little to no access to their target audience — journalists, activists, human rights defenders, and other high-risk groups. This often results in tools that poorly fit the threats, challenges, and/or accessibility or usability requirements of end-users. Internews and the USABLE Team have worked with many community members across the globe to support tool developers who want to better understand their users’ needs, security practices, and operating environment, establishing stronger feedback loops between the communities who make the tools and the communities who use them.
+
+Most activities found in the [UX Feedback Collection Guidebook](https://usable.tools/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf) were inspired by existing formal methods of feedback collection and were adapted by the USABLE team, digital security trainers, and user-experience (UX) specialists. The activities and resources shared below take into account the specific limitations of open source projects and the sensitivities around working with high-risk communities.
+
+<img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
+
 
 # Human-Centered Design and the Development Ecosystem
 
@@ -16,8 +22,8 @@ Human-centered design is a principle that intentionally places humans, their nee
 
 ## Blogs
 
-- **[Introduction to Human-Centered Design and User-Experience](https://usable.tools/blog/2020-07-31-uxandhcd/)**
-- **[Understanding Development Ecosystems and the Role of Trainers and Auditors](https://usable.tools/blog/2020-07-31-ecosystems/)**
+- [Introduction to Human-Centered Design and User-Experience](https://usable.tools/blog/2020-07-31-uxandhcd/)
+- [Understanding Development Ecosystems and the Role of Trainers and Auditors](https://usable.tools/blog/2020-07-31-ecosystems/)
 
 <img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
@@ -28,14 +34,14 @@ This section includes blogs, podcasts, activities, and templates to help digital
 
 ## Blogs
 
-- **[Selecting a Tool and Identifying Developers](https://usable.tools/blog/2020-08-07-selectingtool/)**
-- **[Overview of Feedback Collection Activities](https://usable.tools/blog/2020-08-07-axisoverview/)**
+- [Selecting a Tool and Identifying Developers](https://usable.tools/blog/2020-08-07-selectingtool/)
+- [Overview of Feedback Collection Activities](https://usable.tools/blog/2020-08-07-axisoverview/)
 
 ## Podcasts
 
-- **An Introduction to Personas and Archetypes** <div style="text-align: center"><audio controls style="width: 100%"><source src="/audio/AXIS_PersonasIntro.mp3" type="audio/mpeg"> You can download the <a href="/audio/AXIS_PersonasIntro.mp3">MP3 interview</a></audio></div>
+- An Introduction to Personas and Archetypes <div style="text-align: center"><audio controls style="width: 100%"><source src="/audio/AXIS_PersonasIntro.mp3" type="audio/mpeg"> You can download the <a href="/audio/AXIS_PersonasIntro.mp3">MP3 interview</a></audio></div>
 Find the transcript for this recording at: https://usable.tools//pdfs/AXIS/AXIS_PersonasIntro.pdf
-- **Communicating the Importance of feedback Collection to Users** <div style="text-align: center"><audio controls style="width: 100%"><source src="/audio/FeedbackImportance.mp3" type="audio/mpeg"> You can download the <a href="/audio/FeedbackImportance.mp3">MP3 interview</a></audio></div>
+- Communicating the Importance of feedback Collection to Users <div style="text-align: center"><audio controls style="width: 100%"><source src="/audio/FeedbackImportance.mp3" type="audio/mpeg"> You can download the <a href="/audio/FeedbackImportance.mp3">MP3 interview</a></audio></div>
 
 ## Activities
 
@@ -78,10 +84,10 @@ This section includes resources and guidance for digital security trainers and u
 
 ## Blogs
 
-- **[Synthesizing and Prioritizing Feedback](https://usable.tools/blog/2020-08-14-prioritizingfeedback/)**
-- **[Communicating with Developers](https://usable.tools/blog/2019-10-04-guidebook-communicating-with-developers/)**
-- **[Github for Non-developers](https://usable.tools/blog/2019-10-04-guidebook-github/)**
-- **[Communication Channels for Sharing Feedback](https://usable.tools/blog/2019-10-04-guidebook-comms-channels/)**
+- [Synthesizing and Prioritizing Feedback](https://usable.tools/blog/2020-08-14-prioritizingfeedback/)
+- [Communicating with Developers](https://usable.tools/blog/2019-10-04-guidebook-communicating-with-developers/)
+- [Github for Non-developers](https://usable.tools/blog/2019-10-04-guidebook-github/)
+- [Communication Channels for Sharing Feedback](https://usable.tools/blog/2019-10-04-guidebook-comms-channels/)
 
 ## Activities
 
@@ -131,10 +137,10 @@ The UX Feedback Collection Guidebook aims to facilitate feedback loops between u
 
 The guidebook is a compilation of activities designed to integrate user-feedback collection into existing digital security training frameworks. The four-part resource contains:
 
-     - background information,
-     - facilitation instructions,
-     - editable templates, and
-     - guidance on communicating with tool developers.
+   - background information,
+   - facilitation instructions,
+   - editable templates, and
+   - guidance on communicating with tool developers.
 
 Most activities were inspired by existing formal methods of feedback collection and were adapted by the USABLE team, digital security trainers, and user-experience (UX) specialists as part of the larger USABLE approach (https://usable.tools). The activities take into account the specific limitations of open source projects and the sensitivities around working with high-risk communities.
 
