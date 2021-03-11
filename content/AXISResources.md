@@ -59,8 +59,6 @@ Find the transcript for this recording at: https://usable.tools//pdfs/AXIS/AXIS_
 - [**10 Tips for Collecting Quality User Feedback from Grassroots HRDs, Activists, and Security Tool Users,**](https://usable.tools/blog/2020-08-28-10tipsforfeedback/) written by Gole Andrew.  
 - [**A Very Short Story About Digital Security For Young Women,**](https://usable.tools/blog/2020-09-22-digisecjh/) written by Juliana Harsianti.
 
-<img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
-
 ### Listen
 
 - **Making Easy Decisions: The Digital Security Checklist** You can make easy decisions about digital security. Listen as Łukasz walks us through a helpful checklist to make simple decisions about the tools we decide to use. View the checklist at https://lukaszkrol.net/due_diligence/.
@@ -73,6 +71,7 @@ Find the transcript for this recording at https://usable.tools//pdfs/AXIS/AXIS_L
 
 Find the transcript for this recording [here](https://usable.tools//pdfs/AXIS/AnxietyGames_Transcript.pdf)!
 
+<img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
 ## Featured Resources for Feedback Collection
 
