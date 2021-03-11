@@ -10,7 +10,7 @@ aliases:
 <div style="text-align: center"><img src="/images/AXIS/AxisLogo.png" alt="AXIS event logo, Blue Globe with stamps in circle" style="border: 0; padding: 1em;" /></a></div>
 
 
-## An Introduction to Human-Centered Design and the Development Ecosystem
+# An Introduction to Human-Centered Design and the Development Ecosystem
 
 ### Readings
 
@@ -21,7 +21,7 @@ aliases:
 
 
 
-## Incorporating Feedback Collection
+# Incorporating Feedback Collection
 
 ### Read
 
@@ -37,7 +37,7 @@ Find the transcript for this recording at: https://usable.tools//pdfs/AXIS/AXIS_
 
 
 
-## Synthesizing Feedback and Connecting with Developers
+# Synthesizing Feedback and Connecting with Developers
 
 ### Read
 
@@ -52,7 +52,7 @@ Find the transcript for this recording at: https://usable.tools//pdfs/AXIS/AXIS_
 
 
 
-## Community-developed Resources
+# Community-developed Resources
 
 ### Read
 
@@ -73,7 +73,7 @@ Find the transcript for this recording [here](https://usable.tools//pdfs/AXIS/An
 
 <img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
-## Featured Resources for Feedback Collection
+# Featured Resources for Feedback Collection
 
 <a href="https://usable.tools/guidebook"><img src="/images/AXIS/GuidebookButton.png" alt="USABLE's UX Feedback Collection Guidebook" style="width: 33.33%; border: 0; float: left; padding: 2em;" /></a>
 <a href="https://okthanks.com/exploratorium"><img src="/images/AXIS/ExploreButton.png" alt="Okthanks' Exploratorium" style="width: 33.33%; border: 0; float: center; padding: 2em;" /></a>
