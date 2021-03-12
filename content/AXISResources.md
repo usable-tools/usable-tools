@@ -11,7 +11,8 @@ aliases:
 
 Many of the most at-risk communities around the globe rely on open source privacy and security tools. However, these tools are often designed, developed, and maintained by individuals or small teams who have little to no access to their target audience — journalists, activists, human rights defenders, and other high-risk groups. This often results in tools that poorly fit the threats, challenges, and/or accessibility or usability requirements of end-users. Internews and the USABLE Team have worked with many community members across the globe to support tool developers who want to better understand their users’ needs, security practices, and operating environment, establishing stronger feedback loops between the communities who make the tools and the communities who use them.
 
-Most activities found in the [UX Feedback Collection Guidebook](https://usable.tools/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf) were inspired by existing formal methods of feedback collection and were adapted by the USABLE team, digital security trainers, and user-experience (UX) specialists. The activities and resources shared below take into account the specific limitations of open source projects and the sensitivities around working with high-risk communities.
+The activities and resources shared below were inspired by existing formal methods of feedback collection and were adapted by the USABLE team, digital security trainers, and user-experience (UX) specialists. They take into account the specific limitations of open source projects and the sensitivities around working with high-risk communities. More details on each of the below activities can be found in the [UX Feedback Collection Guidebook](https://usable.tools/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf).
+
 
 <img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
 
@@ -122,45 +123,3 @@ Find the transcript for this recording at https://usable.tools//pdfs/AXIS/AXIS_L
 <a href="https://simplysecure.org/knowledge-base/"><img src="/images/AXIS/SSButton.png" alt="Simply Secure Knowledge Base" style="width: 33.33%; border: 0; float: right; padding: 2em;" /></a>
 
 <img src="/images/AXIS/line.PNG" style="width: 100%; border: 0;" />
-
-# Frequently Asked Questions
-
-- **What is the purpose of the UX Feedback Collection Guidebook?**
-When developers receive feedback and insights into end-users’ needs, practices, and operating environments, they are able to employ more human-centered design approaches, resulting in usable and accessible products that reflect the needs of real users.
-
-The UX Feedback Collection Guidebook aims to facilitate feedback loops between users and tool developers by equipping digital security trainers and other trusted facilitators with the skills and resources they need to:
-
-   1. Safely gather information around end-users’ needs, practices, and operating environments
-   2. Collect tool-specific feedback from at-risk users
-   3. Synthesize, prioritize, and structure information or feedback
-   4. Share information or feedback with relevant developers or tool teams
-
-The guidebook is a compilation of activities designed to integrate user-feedback collection into existing digital security training frameworks. The four-part resource contains:
-
-   - background information,
-   - facilitation instructions,
-   - editable templates, and
-   - guidance on communicating with tool developers.
-
-Most activities were inspired by existing formal methods of feedback collection and were adapted by the USABLE team, digital security trainers, and user-experience (UX) specialists as part of the larger USABLE approach (https://usable.tools). The activities take into account the specific limitations of open source projects and the sensitivities around working with high-risk communities.
-
-- **How do I select an activity?**
-It is not necessary to integrate every activity into your training or event. As the facilitator, you should select which activities to run based on your available resources and time. You may select one activity to integrate into your existing training or combine multiple activities to create a standalone feedback collection event. These resources are designed to make the feedback collection process as straight-forward and time efficient as possible for the facilitator. See [“How to select an activity?”](https://usable.tools/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf#page=9) in the guidebook for more considerations.
-
-- **What if I have time constraints?**
-It is important to note up front that there are inherent trade-offs involved in integrating feedback work into digital security trainings. The goal of training is to increase knowledge and enhance the skills of the participants. The goal of gathering feedback is to contribute to the design and development process of the tools themselves. Providing critical security skills must always come first. However, the activities shared above and in the guidebook are designed to be flexible, fit within existing training approaches, and, most importantly, contribute to long-term change in user-experience. Feedback collection does not need to be a time-consuming process requiring extensive resources or skills. In fact, valuable information and tool feedback can be collected quite easily with strong facilitation. For a list of Feedback Collection Activities with the time required to complete, see [Appendix B: List of All Activities](https://drive.google.com/file/d/1JdBTw72roZZaVwbcbMHp4ScyOc4aNwQN/view).
-
-- **What if I want to collect feedback without combining it with a training?**
-If you are interested in collecting feedback outside of a “traditional” training, [Part III: Collecting Feedback Outside of Trainings](https://usable.tools/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf#page=42) of this guidebook offers alternative options including:
-
-     - In-Person Developer Engagement
-     - Digital Security Trainer Meet-Ups (to Document, Synthesize, and Prioritize Tool-Specific Feedback or Create User Personas)
-     - Tool Feedback Session at International or Local Events
-     - Collecting Feedback Virtually
-
-- **Is there a way to submit feedback? Is there a preferred method of feedback submission (specifically for user-feedback)?**
-To maximize the impact of the feedback you are able to collect, look up the tool developers and how to contact them in advance. It can be frustrating to collect valuable feedback, but have no one to share it with.
-
-You may not always be able to know which method of feedback is preferred. If you do and you are comfortable or familiar with this method, contact the developers through this channel. If not, submit the feedback via the method with which you feel most comfortable. Submitting feedback via a less common channel is better than submitting no feedback. To make things a bit easier, USABLE has put together a quick list of products that have been vocal about wanting feedback from their users. This list of tools can be found as [Appendix C](https://drive.google.com/file/d/10-ZRQRI95OTtD8IQmRVEcKCus2AoYRXE/view?usp=sharing) in the guidebook.
-
-For more information on submitting feedback and communicating with developers, see [Part IV: Communicating with Developers and Tool Teams in the guidebook](https://usable.tools/pdfs/USABLE_UX-Feedback-Collection-Guidebook.pdf#page=44).
