@@ -1,18 +1,17 @@
 ---
 title:  "USABLE events Code of Conduct"
-date:   2021-08-09 20:09:25
+date:   2021-08-08 20:09:25
 layout: page
 draft: false
 aliases:
     - /codeofconduct
-    - /codeofconduct.html
 ---
 
 **USABLE succeeds as a program by bringing varied lived experiences and voices to the forefront of a global discussion. As such, we expect all attendees to be respectful of others, appreciate differences of opinion, and to communicate clearly.**
 
 All attendees, speakers, sponsors, and volunteers at USABLE hosted events (including the UXForum, Organizational Security Village, USABLE trainings and workshops, and all side events) are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe  environment for everybody.
 
-Any violations may be brought to the event organizers directly or via email to *support@usable.tools* .  PGP encryption is supported, please encrypt to [Ashley Fowler](mailto:afowler@internews.org) and/or [Jon Camfield](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xA998959FF926BF8B). At in-person events, conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
+Any violations may be brought to the event organizers directly or via email to *support@usable.tools* .  PGP encryption is supported, please encrypt to [Ashley Fowler](mailto:afowler@internews.org) and/or [Jon Camfield](https://keys.openpgp.org/search?q=jcamfield%40internews.org). At in-person events, conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference.
 
 ## Sharing and Privacy Policies
 
@@ -57,4 +56,3 @@ In addition, the USABLE team will take into account documented violations of sim
 This Code of Conduct adapts the Creative Commons licensed work from [ConfCodeofConduct](http://confcodeofconduct.com/), [Code of Conduct Builder](https://github.com/gembarrett/coconduct-builder) and [Citizen Code of Conduct](http://citizencodeofconduct.org/) and incorporates concepts from the [Internet Freedom Code of Conduct](https://internetfreedomfestival.org/wiki/index.php/Code_of_Conduct) as well as the [ISC Project's anti-harassment policy](https://iscproject.org/anti-harrassment-policy/).
 
 This content is available as a CC-BY 4.0 International license.
-
