@@ -3,6 +3,7 @@ title:  "Where did USABLE come from?"
 date:   2016-04-22 10:57:00
 tags: ["originstory", "medium"]
 author: Jon
+draft: true
 ---
 Over at Medium, we just published <a href="https://medium.com/local-voices-global-change/what-good-are-secure-communications-tools-if-no-one-uses-them-690ce2bdf9ec#.cc36s0g8w" target="_blank">What Good Are Secure Communications Tools if No One Uses Them?</a>. This is part of the "origin story" of the USABLE project, based on a difficult digital security training during the middle of EuroMaidan.
 
