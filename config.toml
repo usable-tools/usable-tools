@@ -68,3 +68,9 @@ summaryLength = 20
 	name = "Personas"
 	url = "/personas/"
   weight = 5
+
+[[menu.main]]
+  identifier = "guidebook"
+	name = "Guidebook"
+	url = "/guidebook/"
+  weight = 6
