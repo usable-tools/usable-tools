@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on USABLE Tools</title>
+    <link>https://usable.tools/events/</link>
+    <description>Recent content in Events on USABLE Tools</description>
+    <image>
+  <link>https://usable.tools</link>
+  <title>USABLE Tools</title>
+  <url>https://usable.tools/images/logo.svg</url>
+  <description>USABLE.tools</description>
+</image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 23:50:48 -0700</lastBuildDate>
+    
+        <atom:link href="https://usable.tools/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>USABLE at IFF 2019</title>
+      <link>https://usable.tools/events/usable-at-iff-2019/</link>
+      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://usable.tools/events/usable-at-iff-2019/</guid>
+      <description>&lt;p&gt;The USABLE team attended the 2019 Internet Freedom Festival in Valencia, Spain. During the week, the team connected with digital security trainers, open source tool teams, and user-experience (UX) experts to discuss past, current, and future USABLE work.&lt;/p&gt;
+&lt;p&gt;USABLE partnered with Okthanks to co-facilitate a session entitled “The Power of Personas.” The one-hour session provided a general overview of user personas and featured multiple examples, including &lt;a href=&#34;https://usable.tools/personas&#34;&gt;USABLE personas&lt;/a&gt; and &lt;a href=&#34;https://okthanks.com/blog/peronaslatin-america&#34;&gt;Okthanks personas&lt;/a&gt;. The remainder of the session focused on the process of creating user personas, demonstrated via a group activity.&lt;/p&gt;
+&lt;p&gt;The Persona Builder activity was developed by the Okthanks team, and facilitates a step-by-step process to create a user persona. This activity is useful for tool teams and digital security trainers hoping to better understand the needs of their users, and community members seeking to map their risks and behaviors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>USABLE at ILGA World</title>
+      <link>https://usable.tools/events/usable-at-ilga-world/</link>
+      <pubDate>Mon, 20 May 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://usable.tools/events/usable-at-ilga-world/</guid>
+      <description>&lt;p&gt;The USABLE team attended ILGA World 2019, a bi-annual convening of LGBTQIA advocates and funders from all over the globe. Attending this conference allowed the USABLE team to meet with LGBTQI users, discuss the tools that are currently being used in the field, and better understand the threats that this particular community is facing in different parts of the world. Ultimately, this information shapes the tool teams that the USABLE team works with and expand the network of at-risk users with whom the project team can connect relevant developers.&lt;/p&gt;
+&lt;p&gt;In partnership with Grindr for Equality, the USABLE team co-organized a session entitled “Protecting Ourselves in a Digital World: The Basics of Digital Security and Online Safety.” The first component was a quick activity designed to capture current practices, threats, and questions of the community members in attendance. Participants were given three different colors of sticky notes and asked to spend 3-5 minutes documenting the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What tools or practices are you currently using to protect yourselves online?&lt;/li&gt;
+&lt;li&gt;What are the current threats facing you or your community?&lt;/li&gt;
+&lt;li&gt;What questions do you have about digital security?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;During the second component of the session, the USABLE team provided attendees with five simple steps they could take immediately to improve their digital hygiene. Azza Sultan, Associate Director at Grindr for Equality, then briefly presented the current security features offered by Grindr, as well as an overview of future features that they hope to develop soon.&lt;/p&gt;
+&lt;p&gt;The final component required the attendees to divide into two smaller groups. One group focused on providing tool-specific feedback on Jitsi Meet. Attendees used the task-ranking worksheet developed during the regional UX Workshops to document their thoughts and feedback. The second group focused on providing feedback on Grindr’s security features.&lt;/p&gt;
+&lt;p&gt;The session was very well attended and everyone repeatedly voiced the need for more conversations around digital security in this space.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOUPS 2019 Workshop Designing for the Extremes of Risk</title>
+      <link>https://usable.tools/events/usable-at-soups/</link>
+      <pubDate>Thu, 17 Jan 2019 23:50:48 -0700</pubDate>
+      
+      <guid>https://usable.tools/events/usable-at-soups/</guid>
+      <description>&lt;h3 id=&#34;the-usable-project-team-will-host-a-workshop-at-soups-2019httpswwwusenixorgconferencesoups2019&#34;&gt;The USABLE Project team will host a workshop at &lt;a href=&#34;https://www.usenix.org/conference/soups2019&#34;&gt;SOUPS 2019&lt;/a&gt;!&lt;/h3&gt;
+&lt;p&gt;This workshop will cover how to adapt UX design and user feedback collection techniques when working with high-risk communities, through an overview of the different marginalized groups and their needs that the USABLE.tools project have worked with from around the world over the past 2 years.&lt;/p&gt;
+&lt;p&gt;The USABLE.tools project builds feedback loops around the globe by connecting at-risk communities with digital security trainers, usability experts, and security tool developers. USABLE has worked with over 50 trainers and engaged end users in high-risk areas, and supported open source security and privacy tools with funding as well as direct design and implementation support to take this feedback and incorporate it into their tools through human-centered design processes.&lt;/p&gt;
+&lt;p&gt;Representatives from the project will discuss their methodology and outcomes from working with regional and local digital security trainers from around the world to gather feedback and build personas to represent marginalized, vulnerable, and other at-risk communities.&lt;/p&gt;
+&lt;h3 id=&#34;call-for-presentations&#34;&gt;Call for Presentations&lt;/h3&gt;
+&lt;p&gt;We welcome community input (via a simplified Call for Papers/Projects) to present on similar topics and then via breakout groups discuss open questions around building lasting structures to help designers and tool developers responsibly solicit and implement feedback from at-risk populations.&lt;/p&gt;
+&lt;p&gt;Please submit a short summary (less than 1000 words, approximately 2 pages) of your work, with references/websites/papers linked if relevant, and what topic you&amp;rsquo;d want to present on during the workshop to &lt;a href=&#34;mailto:Connect+CFP@usable.tools&#34;&gt;Connect+CFP@usable.tools&lt;/a&gt;, plaintext/markdown formats preferred, PGP keys for encryption available on request.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Workshop paper submission deadline: Friday, May 30, 2019&lt;/li&gt;
+&lt;li&gt;Workshop paper acceptance notification to authors: Saturday, June 8, 2019&lt;/li&gt;
+&lt;li&gt;Workshop camera-ready papers due: Wednesday, June 19, 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;USENIX will be charging a registration fee ($75 per half day tutorial/workshop, $150 for full day) this year.&lt;/p&gt;
+&lt;p&gt;All USABLE project events are governed by our &lt;a href=&#34;https://usable.tools/codeofconduct&#34;&gt;Code of Conduct&lt;/a&gt;. In addition, SOUPS is governed by the &lt;a href=&#34;https://www.usenix.org/conferences/coc&#34;&gt;USENIX Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UXForum 2018: Dublin, Ireland</title>
+      <link>https://usable.tools/events/uxforum-2018/</link>
+      <pubDate>Fri, 20 Jul 2018 23:50:48 -0700</pubDate>
+      
+      <guid>https://usable.tools/events/uxforum-2018/</guid>
+      <description>&lt;p&gt;The second UXForum took place in Dublin, Ireland in July 2018. The event brought together human rights defenders, digital security trainers, design experts, and software developers to discuss how to capture and integrate user feedback from high-risk communities on digital security tools, and make those tools stronger and more effective as a result. Over 20 different countries were represented at the event.&lt;/p&gt;
+&lt;p&gt;Over eight tool team representatives, from password managers to VPN tools, attended the event and had opportunities to directly connect and understand security challenges at risk groups across the globe face when doing their work.&lt;/p&gt;
+&lt;p&gt;The first two days of the UXForum focused exclusively on the Internet Freedom community. Digital security trainers, UX experts, and open source privacy and security tool developers began by discussing larger themes, such as localization, accessibility, and transparency. Tool teams were also given time to connect directly with individuals using their tools. During these sessions, developers were able to share some of their priorities for improvements as well as answer questions and collect feedback from users. A series of discussions happened during the first two days. Topics covered included, but were not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Additional Use Cases for Personas&lt;/li&gt;
+&lt;li&gt;Effective Ways for Communicating Feedback to Developers&lt;/li&gt;
+&lt;li&gt;Designing for Users with Disabilities&lt;/li&gt;
+&lt;li&gt;Documentation and User Onboarding&lt;/li&gt;
+&lt;li&gt;Sustaining Tool Usage Post-Trainings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The final two days consisted of more structured panel discussions. These sessions were also open to private sector attendees. The President of Internews Jeanne Bourgault provided the opening keynote address. The following two days were filled with dynamic and informative panels covering topics ranging from designing for extremes to understanding security challenges in context.&lt;/p&gt;
+&lt;p&gt;The Forum was impactful for all attendees and the small scale of the gathering allowed for the diverse attendees to easily connect with one another. For several tool developers, this was the first time they had connected with non-Western users.&lt;/p&gt;
+&lt;p&gt;Additional financial support for the UXForum was received from Facebook, Balsamiq, and the Ford Foundation. This support allowed the USABLE team to bring additional digital security trainers representing diverse backgrounds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>USABLE at RightsCon 2018</title>
+      <link>https://usable.tools/events/usable-at-rightscon-2018/</link>
+      <pubDate>Thu, 17 May 2018 23:50:48 -0700</pubDate>
+      
+      <guid>https://usable.tools/events/usable-at-rightscon-2018/</guid>
+      <description>&lt;p&gt;The USABLE team led two sessions at RightsCon 2018 in Toronto. The first of these sessions, entitled, “Making the Tech USABLE &amp;ndash; how to gather and share user feedback from our digital security trainings,” was co-facilitated with Defend Defenders, one of our partners in East Africa, and a trainer from the East Africa UX Workshop. The session consisted of a UX Activity for feedback collection, where participants were split into smaller groups and acted as training participants, providing feedback on five specific tasks in the Signal app. After completing these tasks on the app, the participants provided feedback using a 1-5 scale on the difficulty in completing those tasks. After the activity, the groups came together to exchange feedback on the tool as well as the usefulness of the UX Activity itself.&lt;/p&gt;
+&lt;p&gt;The second session co-led with, the Design Lead at Access Now, was a UX/Tech Meet-up. The goal of the meetup was to connect talents across sectors and to share experiences and lessons from existing projects. Everyone introduced themselves to the group and explained their interest in/experience with UX/UI. The group then divided and focused in on two themes. One group focused on specific resources (either existing or needed) that could be used within the UX context, while the other focused on highlighting tangible opportunities for collaboration among those attending the meetup.&lt;/p&gt;
+&lt;p&gt;The sessions at RightsCon, along with various side meetings, provided a space to create connections, introduce USABLE to new tool teams and individuals, and advertise for the second UXForum, which happened just a few months after RightsCon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
