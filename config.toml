@@ -1,4 +1,4 @@
-baseURL = "https://usable.tools/"
+baseURL = "https://joncamfield.github.io/usable-tools/"
 canonifyURLs = "true"
 languageCode = "en-us"
 title = "USABLE Tools"
