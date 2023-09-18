@@ -1,0 +1,40 @@
+name: Publish to GH Pages
+on:
+  push:
+    branches:
+      - source
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Checkout destination
+        uses: actions/checkout@v3
+        if: github.ref == 'refs/heads/source'
+        with:
+          ref: gh-pages
+          path: built-site
+
+      - name: Setup Hugo
+        run: |
+          curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_linux-amd64.tar.gz'
+          tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo          
+      - name: Build
+        run: ${RUNNER_TEMP}/hugo
+
+      - name: Deploy
+        if: github.ref == 'refs/heads/source'
+        run: |
+          cp -R public/* ${GITHUB_WORKSPACE}/
+          cd ${GITHUB_WORKSPACE}
+          git add .
+          git config user.name 'joncamfield'
+          git config user.email 'jon@joncamfield.com'
+          git commit -m 'Updated site'
+          git push
