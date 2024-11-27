@@ -1,3 +1,8 @@
+====================
+This repository has now been deprecated
+For the current version, check out https://github.com/OpenInternet/usable-tools
+====================
+
 # USABLE
 Repository to track news and resources from the USABLE initiative; learn more at https://usable.tools
 
